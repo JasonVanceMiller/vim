@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/home/jason/core/code/fry/cse240-snakegame'
+let g:netrw_dirhist_7='/home/jason/.config/zathura'
+let g:netrw_dirhist_6='/home/jason/.config/kitty'
+let g:netrw_dirhist_5='/tmp/SDL'
+let g:netrw_dirhist_4='/tmp/SDL/include/SDL3'
+let g:netrw_dirhist_3='/home/jason/.vim/syntax'
+let g:netrw_dirhist_2='/home/jason/core/code/projectW/src'
+let g:netrw_dirhist_1='/home/jason/core/shared/vault/daily_notes'
+let g:netrw_dirhist_0='/home/jason/core/code/rotten_oranges/bill'
+let g:netrw_dirhist_9='/home/jason/core/code/rotten_oranges'
