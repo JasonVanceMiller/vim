@@ -11,957 +11,2055 @@
 # hlsearch on (H) or off (h):
 ~h
 # Last Search Pattern:
-~MSle0~/conection
+~MSle0~/music
 
 # Last Substitute Search Pattern:
-~MSle0&draw_pos
+~MSle0&6
 
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
 :wq
-|2,0,1745807287,,"wq"
-:'<,'>!wc
-|2,0,1745807284,,"'<,'>!wc"
+|2,0,1748245734,,"wq"
 :w
-|2,0,1745807270,,"w"
-:set spell
-|2,0,1745797605,,"set spell"
-:W
-|2,0,1745792548,,"W"
-:q!
-|2,0,1745788760,,"q!"
-:q
-|2,0,1745788749,,"q"
-:noh
-|2,0,1745787580,,"noh"
-:q!Q
-|2,0,1745788078,,"q!Q"
-:'<,'>s/#ffff5f/g:active/g
-|2,0,1745788024,,"'<,'>s/#ffff5f/g:active/g"
-:%s/ffff
-|2,0,1745787967,,"%s/ffff"
-:wkjk
-|2,0,1745787779,,"wkjk"
-:vs
-|2,0,1745787453,,"vs"
-:e ~/
-|2,0,1745787451,,"e ~/"
-:source ~/.vimrc
-|2,0,1745787448,,"source ~/.vimrc"
-:source .vimrc
-|2,0,1745787444,,"source .vimrc"
-:%s/cterm/cum/gc
-|2,0,1745787399,,"%s/cterm/cum/gc"
-:e ~/.vim/syntax/custom.vim
-|2,0,1745786865,,"e ~/.vim/syntax/custom.vim"
-:e .
-|2,0,1745721278,,"e ."
-:split
-|2,0,1745721276,,"split"
+|2,0,1748230118,,"w"
 :e main.c
-|2,0,1745721033,,"e main.c"
-:%s/draw_pos/screen_pos/g
-|2,0,1745720956,,"%s/draw_pos/screen_pos/g"
-:'<,'>s/{/;/g
-|2,0,1745720936,,"'<,'>s/{/;/g"
-:'<,'>s/screen_/draw_/gc
-|2,0,1745720885,,"'<,'>s/screen_/draw_/gc"
-:e ~/.vimrc
-|2,0,1745720828,,"e ~/.vimrc"
-:e character_common.h
-|2,0,1745720615,,"e character_common.h"
-:e character_common.c
-|2,0,1745720611,,"e character_common.c"
-:e game.h
-|2,0,1745720601,,"e game.h"
-:e game.c
-|2,0,1745720186,,"e game.c"
-:e. 
-|2,0,1745719213,,"e. "
-:e test
-|2,0,1745786853,,"e test"
-:qw
-|2,0,1745786771,,"qw"
-:set filetype=custom
-|2,0,1745786691,,"set filetype=custom"
-:set filetype?
-|2,0,1745786675,,"set filetype?"
-:q!!
-|2,0,1745786635,,"q!!"
-:e ~/.vim/syntax/
-|2,0,1745786623,,"e ~/.vim/syntax/"
-:e! ~/.vimrc
-|2,0,1745786506,,"e! ~/.vimrc"
-:e!
-|2,0,1745786323,,"e!"
-:sou
-|2,0,1745786313,,"sou"
-:set syntax=custom
-|2,0,1745786300,,"set syntax=custom"
-:set sytnax=custom
-|2,0,1745786296,,"set sytnax=custom"
-:set syntax=on
-|2,0,1745786291,,"set syntax=on"
-:E!
-|2,0,1745786233,,"E!"
-:source 
-|2,0,1745786143,,"source "
+|2,0,1748230092,,"e main.c"
+:e base.h
+|2,0,1748229329,,"e base.h"
+:vs
+|2,0,1748229326,,"vs"
+:e sound.h
+|2,0,1748229324,,"e sound.h"
+:e sound.c
+|2,0,1748229321,,"e sound.c"
+:e .
+|2,0,1748229317,,"e ."
 :e 
-|2,0,1745786138,,"e "
-:help autocmd
-|2,0,1745785949,,"help autocmd"
-:set linebreak
-|2,0,1745785196,,"set linebreak"
-:set wrap
-|2,0,1745785194,,"set wrap"
-:e
-|2,0,1745784766,,"e"
-:'<,'>wc
-|2,0,1745568285,,"'<,'>wc"
-:'<,'>s/scream/broadcast/g
-|2,0,1745565764,,"'<,'>s/scream/broadcast/g"
-:e daily_notes/2025-04-22.md
-|2,0,1745464594,,"e daily_notes/2025-04-22.md"
+|2,0,1748228103,,"e "
+:svs
+|2,0,1748228101,,"svs"
 : e.
-|2,0,1745378709,," e."
-:tabnew
-|2,0,1745376995,,"tabnew"
-:wh
-|2,0,1745376809,,"wh"
-:'<,'>s/
-|2,0,1745375896,,"'<,'>s/"
-:'<,'>:
-|2,0,1745375892,,"'<,'>:"
-:'<,'>s/away =/away   =/g
-|2,0,1745375777,,"'<,'>s/away =/away   =/g"
-:vim /facing_left/j **
-|2,0,1745374536,,"vim /facing_left/j **"
-:%s/facing_left/facing_right/g
-|2,0,1745374474,,"%s/facing_left/facing_right/g"
-:e i
-|2,0,1745301799,,"e i"
-:'<,'>s/right/left/g
-|2,0,1745301275,,"'<,'>s/right/left/g"
-:'<,'>s/left/g
-|2,0,1745301267,,"'<,'>s/left/g"
-:cope
-|2,0,1745300870,,"cope"
-:vim /button_update/j **
-|2,0,1745300866,,"vim /button_update/j **"
-:'<,'>s/press/pressed/g
-|2,0,1745300745,,"'<,'>s/press/pressed/g"
-:%s/
-|2,0,1745300734,,"%s/"
-:%s/<= pressed/>= press/g
-|2,0,1745300668,,"%s/<= pressed/>= press/g"
-:wwq
-|2,0,1745363148,,"wwq"
-:.w
-|2,0,1745335164,,".w"
-:'<,'>s/k/s/g
-|2,0,1745299861,,"'<,'>s/k/s/g"
-:'<,'>s/p/k/g
-|2,0,1745299854,,"'<,'>s/p/k/g"
-:'<,'>
-|2,0,1745299850,,"'<,'>"
-:E .
-|2,0,1745299273,,"E ."
-:'<,'>s/stick_net_/i->/g
-|2,0,1745298124,,"'<,'>s/stick_net_/i->/g"
-:'<,'>s/stick_net_/i->.g
-|2,0,1745298118,,"'<,'>s/stick_net_/i->.g"
-:%s/reutrn/return/g
-|2,0,1745295735,,"%s/reutrn/return/g"
-:vs action.c
-|2,0,1745295726,,"vs action.c"
-:'<,'>s/up/down/g
-|2,0,1745295273,,"'<,'>s/up/down/g"
-:'<,'>s/up//down/g
-|2,0,1745295258,,"'<,'>s/up//down/g"
-:ww
-|2,0,1745295077,,"ww"
-:e action.h
-|2,0,1745294577,,"e action.h"
-:e action.c
-|2,0,1745294572,,"e action.c"
-:set nospell
-|2,0,1745294292,,"set nospell"
-:est spell
-|2,0,1745294287,,"est spell"
-:vs design_doc.md
-|2,0,1745293095,,"vs design_doc.md"
-:vs ryu.c
-|2,0,1745292851,,"vs ryu.c"
-:vs ryu.h 
-|2,0,1745292842,,"vs ryu.h "
-:%s/input_settings/input_binds/g
-|2,0,1745292507,,"%s/input_settings/input_binds/g"
-:w 
-|2,0,1745292499,,"w "
-:'<,'>s/;/\t=/g
-|2,0,1745115706,,"'<,'>s/;/\\t=/g"
-:'<,'>s/e->/c->/g
-|2,0,1745114836,,"'<,'>s/e->/c->/g"
-:'<,'>s/entity/character
-|2,0,1745114664,,"'<,'>s/entity/character"
-:%s/entity/character/g
-|2,0,1745114640,,"%s/entity/character/g"
-:tabm 0
-|2,0,1745104187,,"tabm 0"
-:'<,'>s/x/y/g
-|2,0,1745104028,,"'<,'>s/x/y/g"
-:'<,'>s/, //g
-|2,0,1745103551,,"'<,'>s/, //g"
-:'<,'>s/input\* inputs//g
-|2,0,1745103547,,"'<,'>s/input\\* inputs//g"
-:'<,'>s/update/physics/g
-|2,0,1745103533,,"'<,'>s/update/physics/g"
-:'<,'>s/WIDTH/HEIGHT/g
-|2,0,1745102894,,"'<,'>s/WIDTH/HEIGHT/g"
-:'<,'>s/facing/animation
-|2,0,1745100354,,"'<,'>s/facing/animation"
-:Pw
-|2,0,1745094061,,"Pw"
+|2,0,1748218572,," e."
+:W
+|2,0,1748230016,,"W"
+:'<,'>s/6/4/g
+|2,0,1748214673,,"'<,'>s/6/4/g"
+:'<,'>s/i->/input->/g
+|2,0,1748214384,,"'<,'>s/i->/input->/g"
 :Lw
-|2,0,1745093789,,"Lw"
-:'<,'>s/press/down/g
-|2,0,1745093646,,"'<,'>s/press/down/g"
-:%s/levels.h //g
-|2,0,1745092213,,"%s/levels.h //g"
-:%s/sokobomb/projectR/g
-|2,0,1745091871,,"%s/sokobomb/projectR/g"
-:"wq
-|2,0,1745081601,,"\"wq"
-:Q!
-|2,0,1745080807,,"Q!"
-:"w
-|2,0,1744935173,,"\"w"
-:s
-|2,0,1744935083,,"s"
-:ocpe
-|2,0,1744928583,,"ocpe"
-:vim /sizeof(level/j **
-|2,0,1744928582,,"vim /sizeof(level/j **"
-:'<,'>s/index/max/g
-|2,0,1744928519,,"'<,'>s/index/max/g"
-:%s/##/## /g
-|2,0,1744775050,,"%s/##/## /g"
-:%s/ + 1//g
-|2,0,1744505768,,"%s/ + 1//g"
-:%s/open_count/height/g
-|2,0,1744505553,,"%s/open_count/height/g"
-:e /etc/profile
-|2,0,1744496981,,"e /etc/profile"
-:w !sudo tee %
-|2,0,1744494370,,"w !sudo tee %"
-:w!
-|2,0,1744490729,,"w!"
-:qall
-|2,0,1744489857,,"qall"
-:w jason1
-|2,0,1744421354,,"w jason1"
-:'<,'>s/jason/slow
-|2,0,1744420899,,"'<,'>s/jason/slow"
-:%s/open_pointer/start/g
-|2,0,1744417320,,"%s/open_pointer/start/g"
-:%s/close_pointer/end/g
-|2,0,1744417313,,"%s/close_pointer/end/g"
-:e ~/Mu
-|2,0,1744416786,,"e ~/Mu"
-:term
-|2,0,1744415015,,"term"
-:weq
-|2,0,1744415978,,"weq"
-:'<,'>s/tests\//g
-|2,0,1744413423,,"'<,'>s/tests\\//g"
-:%s/.*:/\r&/g
-|2,0,1744359309,,"%s/.*:/\\r&/g"
-:w145
-|2,0,1744357890,,"w145"
-:'<,'>s/$/:/g
-|2,0,1744357364,,"'<,'>s/$/:/g"
-:'<,'>s/$/:/.g
-|2,0,1744357356,,"'<,'>s/$/:/.g"
-:%s/^\d\d//g
-|2,0,1744357296,,"%s/^\\d\\d//g"
+|2,0,1748214335,,"Lw"
+:'<,'>s/left/down/g
+|2,0,1748214335,,"'<,'>s/left/down/g"
+:'<,'>s/right/up/g
+|2,0,1748214330,,"'<,'>s/right/up/g"
+:q
+|2,0,1748213954,,"q"
+:e ../Makefile
+|2,0,1748206222,,"e ../Makefile"
+:e server.c
+|2,0,1748204864,,"e server.c"
+: .
+|2,0,1748204306,," ."
+:e server.ck
+|2,0,1748203451,,"e server.ck"
+:cope
+|2,0,1748203217,,"cope"
+:copoe
+|2,0,1748203215,,"copoe"
+:vim /failed to connect with server/j ** 
+|2,0,1748203214,,"vim /failed to connect with server/j ** "
+:'<,'>sort
+|2,0,1748202530,,"'<,'>sort"
+:vws
+|2,0,1748202512,,"vws"
+:e networking.h
+|2,0,1748202498,,"e networking.h"
+:e networking.c
+|2,0,1748202040,,"e networking.c"
+:E .
+|2,0,1748201713,,"E ."
+:vsa
+|2,0,1748201655,,"vsa"
+:vim /send/j **
+|2,0,1748201178,,"vim /send/j **"
+:e multiplayer_game.h
+|2,0,1748201020,,"e multiplayer_game.h"
+:e game.c
+|2,0,1748201005,,"e game.c"
+:e game.h
+|2,0,1748151958,,"e game.h"
+:%s/sc->/sc./g
+|2,0,1748151679,,"%s/sc->/sc./g"
+:%
+|2,0,1748151663,,"%"
+:vim /send/j ** 
+|2,0,1748141010,,"vim /send/j ** "
+:vim /recv/j **
+|2,0,1748140995,,"vim /recv/j **"
+:vim /sendto/j **
+|2,0,1748140992,,"vim /sendto/j **"
+:help highlight
+|2,0,1748146390,,"help highlight"
+:vim highlight
+|2,0,1748146385,,"vim highlight"
+:help visual
+|2,0,1748146378,,"help visual"
+:q!
+|2,0,1748136332,,"q!"
+:%s/nocheckin/Cleanup/g
+|2,0,1748135188,,"%s/nocheckin/Cleanup/g"
+:vim /nocheckin/j **
+|2,0,1748135171,,"vim /nocheckin/j **"
+:e singleplayer_game.h
+|2,0,1748120084,,"e singleplayer_game.h"
+:.w
+|2,0,1748116573,,".w"
+:'<,'>s
+|2,0,1748053433,,"'<,'>s"
+:c
+|2,0,1748053428,,"c"
+:vim downgrade **
+|2,0,1748053427,,"vim downgrade **"
+:%s/sc->serv_addr/address/g
+|2,0,1747970044,,"%s/sc->serv_addr/address/g"
+:%s/
+|2,0,1747969987,,"%s/"
+:vim /sc->player1/j ** 
+|2,0,1747969855,,"vim /sc->player1/j ** "
+:qw
+|2,0,1747969682,,"qw"
+:vim / @\w/ **
+|2,0,1747969615,,"vim / @\\w/ **"
+:coep
+|2,0,1747969515,,"coep"
+:vim valread **
+|2,0,1747969514,,"vim valread **"
+:vim /valread
+|2,0,1747969511,,"vim /valread"
+:vim / @\w/ ** 
+|2,0,1747969401,,"vim / @\\w/ ** "
+:e action.h
+|2,0,1747969345,,"e action.h"
+:e base.c
+|2,0,1747969324,,"e base.c"
+:game.c
+|2,0,1747969280,,"game.c"
+:e action.c
+|2,0,1747969268,,"e action.c"
 :bn
-|2,0,1744356772,,"bn"
-:'<,'>w !bash
-|2,0,1744341851,,"'<,'>w !bash"
-:%s/.*/& &/g
-|2,0,1744341784,,"%s/.*/& &/g"
-:%s/$/'/g
-|2,0,1744341766,,"%s/$/'/g"
-:'<,'>s/\s/_/g
-|2,0,1744341758,,"'<,'>s/\\s/_/g"
-:e in3
-|2,0,1744324031,,"e in3"
-:e src/main/java/com/example/demo/WebController.java
-|2,0,1743891998,,"e src/main/java/com/example/demo/WebController.java"
-:e src/main/java/com/example/MySpringApp.java
-|2,0,1743828511,,"e src/main/java/com/example/MySpringApp.java"
-:e !
-|2,0,1743891902,,"e !"
-:tabnew src/main/java/com/DemoApplication.java
-|2,0,1743891782,,"tabnew src/main/java/com/DemoApplication.java"
+|2,0,1747969128,,"bn"
+:e input.h
+|2,0,1747968998,,"e input.h"
+:e input.c
+|2,0,1747968992,,"e input.c"
+:r !git show HEAD:src/ryu.c
+|2,0,1747968869,,"r !git show HEAD:src/ryu.c"
+:r !git show HEAD ryu.c
+|2,0,1747968698,,"r !git show HEAD ryu.c"
+:r !git show HEAD /src/ryu.c
+|2,0,1747968684,,"r !git show HEAD /src/ryu.c"
+:r !git show HEAD src/ryu.c
+|2,0,1747968674,,"r !git show HEAD src/ryu.c"
+:r !git show HEAD--src/ryu.c
+|2,0,1747968656,,"r !git show HEAD--src/ryu.c"
+:r !git show HEAD/src/ryu.c
+|2,0,1747968646,,"r !git show HEAD/src/ryu.c"
+:new
+|2,0,1747968632,,"new"
+:e
+|2,0,1747968630,,"e"
+:e ryu.c
+|2,0,1747968592,,"e ryu.c"
+:'<,'>s/,//g
+|2,0,1747968388,,"'<,'>s/,//g"
+:e. 
+|2,0,1747968318,,"e. "
+:'<,'>s/right/left
+|2,0,1747967981,,"'<,'>s/right/left"
+:'<,'>s/623/421/g
+|2,0,1747967960,,"'<,'>s/623/421/g"
+:'<,'>s/DP /TK /g
+|2,0,1747967947,,"'<,'>s/DP /TK /g"
+:'<,'>s/236/214/g
+|2,0,1747967933,,"'<,'>s/236/214/g"
+:'<,'>s/QCF/QCB/g
+|2,0,1747967925,,"'<,'>s/QCF/QCB/g"
+:'<,'>s/away/i->left/g
+|2,0,1747967869,,"'<,'>s/away/i->left/g"
+:'<,'>s/toward/i->right/g
+|2,0,1747967860,,"'<,'>s/toward/i->right/g"
+:'<,'>s/right/left/g
+|2,0,1747967749,,"'<,'>s/right/left/g"
+:noh
+|2,0,1747967531,,"noh"
+:v
+|2,0,1747967423,,"v"
+:wqq
+|2,0,1747966952,,"wqq"
+:%s/uint/unsigned int/g
+|2,0,1747966739,,"%s/uint/unsigned int/g"
+:s
+|2,0,1747966594,,"s"
+:'<,'>g/h$/d
+|2,0,1747966024,,"'<,'>g/h$/d"
+:vs 
+|2,0,1747950110,,"vs "
+:vim /action_buffer/j **
+|2,0,1747950025,,"vim /action_buffer/j **"
+:vim /successful/j ** 
+|2,0,1747949827,,"vim /successful/j ** "
+:vim /printf.*here/ **
+|2,0,1747949645,,"vim /printf.*here/ **"
+:g/printf.*HERE/d
+|2,0,1747949629,,"g/printf.*HERE/d"
+:g/HERE/d
+|2,0,1747949619,,"g/HERE/d"
+:e mulitplayer_game.h
+|2,0,1747947774,,"e mulitplayer_game.h"
+:w singleplayer_game.h
+|2,0,1747947757,,"w singleplayer_game.h"
+:e singleplayer_game.c
+|2,0,1747947695,,"e singleplayer_game.c"
+:vim /printf/ **
+|2,0,1747947502,,"vim /printf/ **"
+:vim .
+|2,0,1747947497,,"vim ."
+:vim /printf/ ** 
+|2,0,1747947464,,"vim /printf/ ** "
+:vim Here **
+|2,0,1747894915,,"vim Here **"
+:tabnew character.c
+|2,0,1747894758,,"tabnew character.c"
+:e character.c
+|2,0,1747894089,,"e character.c"
+:e ken.c
+|2,0,1747893475,,"e ken.c"
+:vim character_get_boxes **
+|2,0,1747893446,,"vim character_get_boxes **"
+:e ken.h
+|2,0,1747893421,,"e ken.h"
+:e ryu.h
+|2,0,1747893407,,"e ryu.h"
+:'<,'>g/tint/d
+|2,0,1747893317,,"'<,'>g/tint/d"
+:'<,'>g/tint/d/g
+|2,0,1747893315,,"'<,'>g/tint/d/g"
+:e character.h
+|2,0,1747893230,,"e character.h"
+:E
+|2,0,1747892730,,"E"
+:vim /action_buffer/j ** 
+|2,0,1747892592,,"vim /action_buffer/j ** "
+:split
+|2,0,1747892431,,"split"
+:e action_buffer.h
+|2,0,1747892351,,"e action_buffer.h"
+:e; .
+|2,0,1747892254,,"e; ."
+:wk
+|2,0,1747891219,,"wk"
+:we
+|2,0,1747890522,,"we"
+:vim printf **
+|2,0,1747889797,,"vim printf **"
+:e.
+|2,0,1747887778,,"e."
+:vim here **
+|2,0,1747887599,,"vim here **"
+:vim here2 **
+|2,0,1747887519,,"vim here2 **"
+:vim /printf
+|2,0,1747887505,,"vim /printf"
+:e ..
+|2,0,1747885896,,"e .."
+:vim /get_action/j **
+|2,0,1747885456,,"vim /get_action/j **"
+:qall
+|2,0,1747884810,,"qall"
+:E. 
+|2,0,1747884413,,"E. "
+:'<,'>s/1/2/g
+|2,0,1747884048,,"'<,'>s/1/2/g"
+:Wo
+|2,0,1747883588,,"Wo"
+:e action_buffer.c
+|2,0,1747881686,,"e action_buffer.c"
+:'<,'>s/1//g
+|2,0,1747880869,,"'<,'>s/1//g"
+:'<,'>s/player1/player/g
+|2,0,1747880814,,"'<,'>s/player1/player/g"
+:Wq
+|2,0,1747879143,,"Wq"
+:vim /default/j **
+|2,0,1747878907,,"vim /default/j **"
+:e n
+|2,0,1747878824,,"e n"
+:w3
+|2,0,1747878126,,"w3"
+:Pw
+|2,0,1747877825,,"Pw"
+:set nospell
+|2,0,1747876367,,"set nospell"
+:set
+|2,0,1747876365,,"set"
+:set spell
+|2,0,1747876361,,"set spell"
+:'<,'>s/connect/game_start/g
+|2,0,1747875969,,"'<,'>s/connect/game_start/g"
+:e ~/.config/kitty/kitty.conf
+|2,0,1747629691,,"e ~/.config/kitty/kitty.conf"
+:tabnew
+|2,0,1747629686,,"tabnew"
+:%s/connection/connect./g
+|2,0,1747628147,,"%s/connection/connect./g"
+:%s/close/&_connection/gc
+|2,0,1747628070,,"%s/close/&_connection/gc"
+:%s/close
+|2,0,1747628057,,"%s/close"
+:%s/ap/p/gc
+|2,0,1747628000,,"%s/ap/p/gc"
+:%s/connect/connection/g
+|2,0,1747627848,,"%s/connect/connection/g"
+:'<,'>s/ap/p/gc
+|2,0,1747627548,,"'<,'>s/ap/p/gc"
+:%s/client_fd/
+|2,0,1747627161,,"%s/client_fd/"
+:ws
+|2,0,1747626791,,"ws"
+:wA
+|2,0,1747626246,,"wA"
+:A
+|2,0,1747616190,,"A"
+:tabne
+|2,0,1747613872,,"tabne"
+:VS
+|2,0,1747613854,,"VS"
+:help BufNewFile
+|2,0,1747612925,,"help BufNewFile"
+:e ~/.vimrc
+|2,0,1747612909,,"e ~/.vimrc"
+:set syntax=on
+|2,0,1747612906,,"set syntax=on"
+:e!
+|2,0,1747612292,,"e!"
+:%s/#NONE/NONE
+|2,0,1747607652,,"%s/#NONE/NONE"
+:hi matchparen guibg=NONE
+|2,0,1747607556,,"hi matchparen guibg=NONE"
+:hi matchparen guibg=none
+|2,0,1747607520,,"hi matchparen guibg=none"
+:hi matchparen ctermbg=none
+|2,0,1747607512,,"hi matchparen ctermbg=none"
+:e .xmonad/xmonad.hs
+|2,0,1747607172,,"e .xmonad/xmonad.hs"
+:e xmonad.hs
+|2,0,1747606691,,"e xmonad.hs"
+:w!
+|2,0,1747606678,,"w!"
 :"
-|2,0,1743828395,,"\""
-:e main/Main.java
-|2,0,1743820928,,"e main/Main.java"
-:vim /mySpringapp/j **
-|2,0,1743828321,,"vim /mySpringapp/j **"
-:'<,'>!xmllint --format -
-|2,0,1743828194,,"'<,'>!xmllint --format -"
-:'<,'>!xmllint --format
-|2,0,1743828186,,"'<,'>!xmllint --format"
-:'<,'>s/main/Main/g
-|2,0,1743820694,,"'<,'>s/main/Main/g"
-:vs Makefile
-|2,0,1743817964,,"vs Makefile"
-:e Makefile
-|2,0,1743817919,,"e Makefile"
-:'<,'>s/(k)/k/g
-|2,0,1743805666,,"'<,'>s/(k)/k/g"
-:wl
-|2,0,1743804015,,"wl"
-:'<,'>s/box/ibox/g
-|2,0,1743474213,,"'<,'>s/box/ibox/g"
-:%s/1/\r1\r/g
-|2,0,1743457991,,"%s/1/\\r1\\r/g"
-:%s/0/\r0\r/g
-|2,0,1743457959,,"%s/0/\\r0\\r/g"
-:qi
-|2,0,1743363271,,"qi"
-:
-|2,0,1743363127,,""
-:%s/\\\\//g
-|2,0,1743362519,,"%s/\\\\\\\\//g"
-:%s/\\\\/d
-|2,0,1743362482,,"%s/\\\\\\\\/d"
-:%s/}g/}[firstnumber=1]g/g
-|2,0,1743362285,,"%s/}g/}[firstnumber=1]g/g"
-:%ws
-|2,0,1743362241,,"%ws"
-:%s/begin{lstlisting}/&g/g
-|2,0,1743362008,,"%s/begin{lstlisting}/&g/g"
-:cd ../BookReports/
-|2,0,1743361984,,"cd ../BookReports/"
-:pwd
-|2,0,1743361981,,"pwd"
-:%s/ing}g/ing}/g
-|2,0,1743361944,,"%s/ing}g/ing}/g"
-:e sol.cpp
-|2,0,1743358468,,"e sol.cpp"
-:w leetcode.cpp
-|2,0,1743357113,,"w leetcode.cpp"
-:set alwaysOn
-|2,0,1743301651,,"set alwaysOn"
-::w
-|2,0,1743302220,,":w"
-:set sepll
-|2,0,1743302070,,"set sepll"
+|2,0,1747606099,,"\""
+:split jail.hs
+|2,0,1747605772,,"split jail.hs"
+:wkj
+|2,0,1747520241,,"wkj"
+:wkjk
+|2,0,1747518270,,"wkjk"
+:set linebreak
+|2,0,1747517986,,"set linebreak"
+:set wrap
+|2,0,1747517983,,"set wrap"
+:st
+|2,0,1747457507,,"st"
+:e client.c
+|2,0,1747275030,,"e client.c"
+: ..
+|2,0,1747272358,," .."
+:set showcmd
+|2,0,1747205855,,"set showcmd"
+:showcmd
+|2,0,1747205852,,"showcmd"
+:%s/7/DELAY/g
+|2,0,1747205609,,"%s/7/DELAY/g"
+:w;
+|2,0,1747204329,,"w;"
+:new ../backlog.md
+|2,0,1747116415,,"new ../backlog.md"
+:.,.+4w
+|2,0,1747115537,,".,.+4w"
+:e art.h
+|2,0,1747115265,,"e art.h"
+:e a
+|2,0,1747113462,,"e a"
+:'<,'>s/6/2/g
+|2,0,1747113443,,"'<,'>s/6/2/g"
+:'<,'>%s/6/2/g
+|2,0,1747113437,,"'<,'>%s/6/2/g"
+:'<,'>s/away/i->up/g
+|2,0,1747113430,,"'<,'>s/away/i->up/g"
+:'<,'>s/toward/i->down/g
+|2,0,1747113416,,"'<,'>s/toward/i->down/g"
+:'<,'>s/fireballs/crouch_hp/g
+|2,0,1747113339,,"'<,'>s/fireballs/crouch_hp/g"
+:'<,'>s/LoadImage.*//g
+|2,0,1747000635,,"'<,'>s/LoadImage.*//g"
+:'<,'>%s/LoadImage.*//g
+|2,0,1747000630,,"'<,'>%s/LoadImage.*//g"
+:'<,'>s/frame_textures\[\(.*\)\] = texture_plus_from_image(/&images[\1]);
+|2,0,1747000615,,"'<,'>s/frame_textures\\[\\(.*\\)\\] = texture_plus_from_image(/&images[\\1]);"
+:'<,'>%s/frame_textures\[\(.*\)\] = texture_plus_from_image(/&images[\1]);
+|2,0,1747000589,,"'<,'>%s/frame_textures\\[\\(.*\\)\\] = texture_plus_from_image(/&images[\\1]);"
+:'<,'>s/=/		=/g
+|2,0,1747000499,,"'<,'>s/=/		=/g"
+:'<,'>s/g;/);/g
+|2,0,1747000472,,"'<,'>s/g;/);/g"
+:'<,'>s/= .*load/= Load/g
+|2,0,1747000444,,"'<,'>s/= .*load/= Load/g"
+:'<,'>%s/= .*load/= Load/g
+|2,0,1747000426,,"'<,'>%s/= .*load/= Load/g"
+:'<,'>s/))/g
+|2,0,1747000392,,"'<,'>s/))/g"
+:'<,'>s/.*_image(//g
+|2,0,1747000383,,"'<,'>s/.*_image(//g"
+:'<,'>g/print/d
+|2,0,1746999983,,"'<,'>g/print/d"
+:'<,'>s/%d/_/g
+|2,0,1746999942,,"'<,'>s/%d/_/g"
+:'<,'>s/, counter++//g
+|2,0,1746999932,,"'<,'>s/, counter++//g"
+:e art.c
+|2,0,1746999880,,"e art.c"
+:'<,'>s/.*texture_plus_from_i
+|2,0,1746999786,,"'<,'>s/.*texture_plus_from_i"
+:.W
+|2,0,1746991831,,".W"
+:%g/printf/d
+|2,0,1746964932,,"%g/printf/d"
+:%s/Texture Here - //g
+|2,0,1746964566,,"%s/Texture Here - //g"
+:%s1
+|2,0,1746964555,,"%s1"
+:%s/printf.*/counter++;/g
+|2,0,1746964505,,"%s/printf.*/counter++;/g"
+:%s/printf.*/printf("_\\n");
+|2,0,1746964466,,"%s/printf.*/printf(\"_\\\\n\");"
+:%s/printf.*/printf("_\n");
+|2,0,1746964462,,"%s/printf.*/printf(\"_\\n\");"
+:%s/print/	&/g
+|2,0,1746964425,,"%s/print/	&/g"
+:%s/pr
+|2,0,1746964413,,"%s/pr"
+:g/printf/d
+|2,0,1746964336,,"g/printf/d"
+:'<,'>s/\n/\rprintf("TEXTURE HERE - %d\\n", counter++);\r/g
+|2,0,1746960926,,"'<,'>s/\\n/\\rprintf(\"TEXTURE HERE - %d\\\\n\", counter++);\\r/g"
+:'<,'>s/\n/\rprintf("TEXTURE HERE - %d\\n", counter);\r/g
+|2,0,1746960913,,"'<,'>s/\\n/\\rprintf(\"TEXTURE HERE - %d\\\\n\", counter);\\r/g"
+:'<,'>s/\n/\rprintf("TEXTURE HERE - %d\n", counter);\r/g
+|2,0,1746960901,,"'<,'>s/\\n/\\rprintf(\"TEXTURE HERE - %d\\n\", counter);\\r/g"
+:'<,'>s/\.\.\///g
+|2,0,1746963077,,"'<,'>s/\\.\\.\\///g"
+:'<,'>w !bash
+|2,0,1746962893,,"'<,'>w !bash"
+:w ../covnert.sh
+|2,0,1746962888,,"w ../covnert.sh"
+:'<,'>s/gif$/png/g
+|2,0,1746962879,,"'<,'>s/gif$/png/g"
+:%s/.*/convert & -colorspace RGB -depth 8 -alpha on -define png:color-type=6 ..\/art\/&
+|2,0,1746962863,,"%s/.*/convert & -colorspace RGB -depth 8 -alpha on -define png:color-type=6 ..\\/art\\/&"
+:%s/.*/convert & -colorspace RGB -depth 8 -alpha on -define png:color-type=6 ../art/&
+|2,0,1746962856,,"%s/.*/convert & -colorspace RGB -depth 8 -alpha on -define png:color-type=6 ../art/&"
+:%s/.*/convert & -colorspace RGB -depth 8 -alpha on &
+|2,0,1746962512,,"%s/.*/convert & -colorspace RGB -depth 8 -alpha on &"
+:.,.+285!
+|2,0,1746962481,,".,.+285!"
+:read !ls
+|2,0,1746962479,,"read !ls"
+:read 
+|2,0,1746962477,,"read "
+:cpe
+|2,0,1746961820,,"cpe"
+:vim spaced_sprite **
+|2,0,1746961819,,"vim spaced_sprite **"
+:vim /File loaded successfully/j ** 
+|2,0,1746961335,,"vim /File loaded successfully/j ** "
+:'<,'>s/ryu_throw_miss/ryu_shoryukens/g
+|2,0,1746940762,,"'<,'>s/ryu_throw_miss/ryu_shoryukens/g"
+:vim /@\w\+/ **
+|2,0,1746940516,,"vim /@\\w\\+/ **"
+:%s/draw_frame/&_cb/g
+|2,0,1746940091,,"%s/draw_frame/&_cb/g"
+:%s/, c->facing_right//g
+|2,0,1746940083,,"%s/, c->facing_right//g"
+:%s/\(draw_frame(.\{-},\).\{-},.\{-},/\1 c,/g
+|2,0,1746940064,,"%s/\\(draw_frame(.\\{-},\\).\\{-},.\\{-},/\\1 c,/g"
+:'<,'>s/x/y/g
+|2,0,1746939928,,"'<,'>s/x/y/g"
+:vim /@TODO/ ** 
+|2,0,1746939558,,"vim /@TODO/ ** "
+:vim /@cleanup/ **
+|2,0,1746939396,,"vim /@cleanup/ **"
+:vim @cleanup **
+|2,0,1746938692,,"vim @cleanup **"
+:vim @cleanup
+|2,0,1746938685,,"vim @cleanup"
+:'<,'>s/\./->/g
+|2,0,1746959510,,"'<,'>s/\\./->/g"
+:e .;
+|2,0,1746959452,,"e .;"
+:e g
+|2,0,1746959127,,"e g"
+:bs
+|2,0,1746955517,,"bs"
+:vim todo **
+|2,0,1746950885,,"vim todo **"
+:vim 
+|2,0,1746950878,,"vim "
+:w !bash
+|2,0,1746908773,,"w !bash"
+:%s/_/-/g
+|2,0,1746908770,,"%s/_/-/g"
+:%s/\(.*\)\.gif/convert & ..\/art\/\1.png/g
+|2,0,1746908544,,"%s/\\(.*\\)\\.gif/convert & ..\\/art\\/\\1.png/g"
+:%s/\(.*\)\.gif/convert & ../art/\1.png/g
+|2,0,1746908534,,"%s/\\(.*\\)\\.gif/convert & ../art/\\1.png/g"
+:vim /printf/j **
+|2,0,1746935613,,"vim /printf/j **"
+:vim state_frame **
+|2,0,1746935496,,"vim state_frame **"
+:e base
+|2,0,1746935183,,"e base"
+:3w
+|2,0,1746934608,,"3w"
+:'<,'>s/ryu_ts_stance/ryu_walkb/g
+|2,0,1746934559,,"'<,'>s/ryu_ts_stance/ryu_walkb/g"
+:'<,'>s/ryu_ts_stance/ryu_walkf/g
+|2,0,1746934553,,"'<,'>s/ryu_ts_stance/ryu_walkf/g"
+:vim clear/
+|2,0,1746930682,,"vim clear/"
+:wi
+|2,0,1746925562,,"wi"
+:'<,'>s/ryu_ts_stance/ryu_throw_miss/g
+|2,0,1746925539,,"'<,'>s/ryu_ts_stance/ryu_throw_miss/g"
+:vim s_idle ** 
+|2,0,1746925313,,"vim s_idle ** "
+:vim velocity_x ** 
+|2,0,1746925160,,"vim velocity_x ** "
+:%s/velocity_
+|2,0,1746925152,,"%s/velocity_"
+:Pwe
+|2,0,1746924931,,"Pwe"
+:'<,'>s/3/1/g
+|2,0,1746921807,,"'<,'>s/3/1/g"
+:'<,'>s/1/2
+|2,0,1746921793,,"'<,'>s/1/2"
+:'<,'>s/gs->box_s\[i\]/b3/g
+|2,0,1746921788,,"'<,'>s/gs->box_s\\[i\\]/b3/g"
+:'<,'>s/gs->box_s\[j\]/b1/g
+|2,0,1746921781,,"'<,'>s/gs->box_s\\[j\\]/b1/g"
+:'<,'>
+|2,0,1746921777,,"'<,'>"
+:'<,'>s/gs->box_s[j\]/b1/g
+|2,0,1746921774,,"'<,'>s/gs->box_s[j\\]/b1/g"
+:'<,'>s/position_y/& + c->origin_offset_y/g
+|2,0,1746920053,,"'<,'>s/position_y/& + c->origin_offset_y/g"
+:'<,'>s/position_x/& + c->origin_offset_x/g
+|2,0,1746920040,,"'<,'>s/position_x/& + c->origin_offset_x/g"
+:%s/origin)
+|2,0,1746919985,,"%s/origin)"
+:vim s_idle **
+|2,0,1746918722,,"vim s_idle **"
+:'<,'>s/, \d\d/, 18/g
+|2,0,1746916250,,"'<,'>s/, \\d\\d/, 18/g"
+:'<,'>s/ \d\d/ 18/g
+|2,0,1746916232,,"'<,'>s/ \\d\\d/ 18/g"
+:vim character_draw **
+|2,0,1746915538,,"vim character_draw **"
+:Ow
+|2,0,1746915481,,"Ow"
+:.,.+5w
+|2,0,1746913953,,".,.+5w"
+:ww
+|2,0,1746913796,,"ww"
+:e r
+|2,0,1746913782,,"e r"
+:"w
+|2,0,1746913553,,"\"w"
+:%s/\(= .*(.*\)_/\1-/g
+|2,0,1746908643,,"%s/\\(= .*(.*\\)_/\\1-/g"
+:%s/\(= .*\)_/\1-/g
+|2,0,1746908623,,"%s/\\(= .*\\)_/\\1-/g"
+:'<,'>s/-/_/g
+|2,0,1746908352,,"'<,'>s/-/_/g"
+:vs base.h
+|2,0,1746908341,,"vs base.h"
+:%s/-/_/g
+|2,0,1746908332,,"%s/-/_/g"
+:vs ../Makefile
+|2,0,1746908301,,"vs ../Makefile"
+:'<,'>s/.*/frame_texture[&] = texture_plus_from_image(LoadImage("art\/&.png"));/g
+|2,0,1746908274,,"'<,'>s/.*/frame_texture[&] = texture_plus_from_image(LoadImage(\"art\\/&.png\"));/g"
+:'<,'>s/.*/frame_texture[&]\t= texture_plus_from_image(LoadImage("art\/&.png"));/g
+|2,0,1746908262,,"'<,'>s/.*/frame_texture[&]\\t= texture_plus_from_image(LoadImage(\"art\\/&.png\"));/g"
+:'<,'>s/.*/frame_texture[&]\= texture_plus_from_image(LoadImage("art\/&.png"));/g
+|2,0,1746908255,,"'<,'>s/.*/frame_texture[&]\\= texture_plus_from_image(LoadImage(\"art\\/&.png\"));/g"
+:noph
+|2,0,1746908247,,"noph"
+:'<,'>s/.*/frame_texture[&] = texture_plus_from_image(LoadImage("art/&.png"));/g
+|2,0,1746908240,,"'<,'>s/.*/frame_texture[&] = texture_plus_from_image(LoadImage(\"art/&.png\"));/g"
+:'<,'>s/
+|2,0,1746908228,,"'<,'>s/"
+:'<,'>"
+|2,0,1746908224,,"'<,'>\""
+:'<,'>s/.*/frame_texture[&] = texture_plus_from_image(LoadImage("art/&.png"));
+|2,0,1746908217,,"'<,'>s/.*/frame_texture[&] = texture_plus_from_image(LoadImage(\"art/&.png\"));"
+:'<,'>s/^\s*//g
+|2,0,1746908183,,"'<,'>s/^\\s*//g"
+:ow
+|2,0,1746907922,,"ow"
+:'<,'>s/$/,/g
+|2,0,1746907621,,"'<,'>s/$/,/g"
+:'<,'>s/.png//g
+|2,0,1746907609,,"'<,'>s/.png//g"
+:read !ls ../art/
+|2,0,1746907594,,"read !ls ../art/"
+:'<,'>!sort -u
+|2,0,1746907566,,"'<,'>!sort -u"
+:'<,'>s/-\d.*//g
+|2,0,1746907554,,"'<,'>s/-\\d.*//g"
+:read ls ../art/
+|2,0,1746907486,,"read ls ../art/"
+:tabnew art.h
+|2,0,1746907232,,"tabnew art.h"
+:'<,'>read !ls
+|2,0,1746908747,,"'<,'>read !ls"
+:'<,'>read ls
+|2,0,1746908744,,"'<,'>read ls"
+:%s/\(       .*\)_/\1-/g
+|2,0,1746908726,,"%s/\\(       .*\\)_/\\1-/g"
+:%s/.*/mv &                       &/g
+|2,0,1746908702,,"%s/.*/mv &                       &/g"
+:%s
+|2,0,1746908674,,"%s"
+:%s/\(\t\w*\)-/\1_/g
+|2,0,1746908466,,"%s/\\(\\t\\w*\\)-/\\1_/g"
+:%s/\t\w*-/&_/g
+|2,0,1746908436,,"%s/\\t\\w*-/&_/g"
+:%s/\t.*-/&_/g
+|2,0,1746908423,,"%s/\\t.*-/&_/g"
+:%s/ .*-0
+|2,0,1746908412,,"%s/ .*-0"
+:%s/.*/&\t\t\t&/g
+|2,0,1746908392,,"%s/.*/&\\t\\t\\t&/g"
+:term
+|2,0,1746906537,,"term"
+:%s/\(.*\.\).*$/&\t\t\t\1png
+|2,0,1746906520,,"%s/\\(.*\\.\\).*$/&\\t\\t\\t\\1png"
+:e src/game.c
+|2,0,1746905821,,"e src/game.c"
+:5s/con
+|2,0,1746852429,,"5s/con"
+:e. .
+|2,0,1746852181,,"e. ."
+:%s/box_j/box_s/g
+|2,0,1746846626,,"%s/box_j/box_s/g"
+:wjjjj
+|2,0,1746845605,,"wjjjj"
+:w:w
+|2,0,1746845007,,"w:w"
+:!rm box.c
+|2,0,1746844320,,"!rm box.c"
+:w base.c
+|2,0,1746844317,,"w base.c"
+:!ls
+|2,0,1746844174,,"!ls"
+:e! box.c
+|2,0,1746844167,,"e! box.c"
+:e box.c
+|2,0,1746844164,,"e box.c"
+:w box.c
+|2,0,1746844161,,"w box.c"
+:e base/c
+|2,0,1746844092,,"e base/c"
+:badd
+|2,0,1746844067,,"badd"
+:e ba
+|2,0,1746844063,,"e ba"
+::
+|2,0,1746844020,,":"
+:vim print **
+|2,0,1746843149,,"vim print **"
+:vim /SCREEN_WIDTH/j **
+|2,0,1746842174,,"vim /SCREEN_WIDTH/j **"
+:vim screen_width/j **
+|2,0,1746842163,,"vim screen_width/j **"
+:co
+|2,0,1746841484,,"co"
+:vim playspace_width **
+|2,0,1746841483,,"vim playspace_width **"
 
 # Search String History (newest to oldest):
-?/conection
-|2,1,1745797625,47,"conection"
-?/enternet
-|2,1,1745797615,47,"enternet"
-?/mpls
-|2,1,1745791182,47,"mpls"
-?/multiproto
-|2,1,1745791181,47,"multiproto"
-?/link
-|2,1,1745790641,47,"link"
-?/802.3
-|2,1,1745790519,47,"802.3"
-? \<DemoApplication\>
-|2,1,1745728516,,"\\<DemoApplication\\>"
+?/music
+|2,1,1748230095,47,"music"
 ? @$
-|2,1,1745728499,,"@$"
-?/time
-|2,1,1745787583,47,"time"
-? ){
-|2,1,1745787573,,"){"
-? {
-|2,1,1745787571,,"{"
-?/active
-|2,1,1745788154,47,"active"
-? #ffff5f
-|2,1,1745788024,,"#ffff5f"
-?/333
-|2,1,1745787815,47,"333"
-? cterm
-|2,1,1745787399,,"cterm"
-?/cterm
-|2,1,1745787345,47,"cterm"
-?/split
-|2,1,1745787308,47,"split"
-?/status
-|2,1,1745787292,47,"status"
-?/common
-|2,1,1745787548,47,"common"
-? \<character_draw\>
-|2,1,1745723875,,"\\<character_draw\\>"
-? \<screen_pos_x\>
-|2,1,1745721985,,"\\<screen_pos_x\\>"
-? \<character1_common\>
-|2,1,1745721311,,"\\<character1_common\\>"
-?/char
-|2,1,1745721104,47,"char"
+|2,1,1748229317,,"@$"
+?/hitstop
+|2,1,1748228497,47,"hitstop"
 ?/draw
-|2,1,1745721036,47,"draw"
-? draw_pos
-|2,1,1745720956,,"draw_pos"
-?/character
-|2,1,1745720923,47,"character"
-? screen_
-|2,1,1745720885,,"screen_"
-?/seear
-|2,1,1745720831,47,"seear"
-?/serach
-|2,1,1745720829,47,"serach"
-?/character_update
-|2,1,1745720201,47,"character_update"
-?/physics
-|2,1,1745720190,47,"physics"
-?/game
-|2,1,1745720171,47,"game"
-?/au
-|2,1,1745786478,47,"au"
-?/syntax
-|2,1,1745786244,47,"syntax"
-??\a
-|2,1,1745786233,63,"\\a"
-?/vim
-|2,1,1745786152,47,"vim"
-?/v
-|2,1,1745786150,47,"v"
-?/soruce
-|2,1,1745786148,47,"soruce"
-?/recload
-|2,1,1745785997,47,"recload"
-?/new
-|2,1,1745785983,47,"new"
-?/custom
-|2,1,1745785976,47,"custom"
-?/syn
-|2,1,1745785968,47,"syn"
-?/event
-|2,1,1745785941,47,"event"
-?/debug
-|2,1,1745785468,47,"debug"
-? @\.\*"
-|2,1,1745784539,,"@\\.\\*\""
-?/comm
-|2,1,1745784293,47,"comm"
-?/for a
-|2,1,1745736609,47,"for a"
-?/otus
-|2,1,1745736608,47,"otus"
-?/equal
-|2,1,1745734224,47,"equal"
-? scream
-|2,1,1745565764,,"scream"
-?/cor
-|2,1,1745563857,47,"cor"
-?/good
-|2,1,1745560754,47,"good"
-?/mvn
-|2,1,1745728356,47,"mvn"
-?/bug hunter
-|2,1,1745637475,47,"bug hunter"
-?/attactic
-|2,1,1745637449,47,"attactic"
-?/divers
-|2,1,1745637235,47,"divers"
-?/iver
-|2,1,1745637231,47,"iver"
-?/star wasp
-|2,1,1745637208,47,"star wasp"
-?/planet
-|2,1,1745637190,47,"planet"
-?/zoldath
-|2,1,1745637183,47,"zoldath"
-?/planet zor
-|2,1,1745637181,47,"planet zor"
-?/block ko
-|2,1,1745637173,47,"block ko"
-?/combatants
-|2,1,1745637166,47,"combatants"
-?/camp
-|2,1,1745618459,47,"camp"
-?/5\/5
-|2,1,1745552637,47,"5\\/5"
-?/5/5
-|2,1,1745552631,47,"5/5"
-?/.ca
-|2,1,1745544726,47,".ca"
-?/morto
-|2,1,1745474143,47,"morto"
-??1
-|2,1,1745470489,63,"1"
-?/1/
-|2,1,1745470487,47,"1/"
-? \<PLAYSPACE_WIDTH\>
-|2,1,1745378728,,"\\<PLAYSPACE_WIDTH\\>"
-?/screen
-|2,1,1745378724,47,"screen"
-?/main
-|2,1,1745378710,47,"main"
-?/drawtexturepro
-|2,1,1745377114,47,"drawtexturepro"
-?/color
-|2,1,1745377003,47,"color"
-?/raylib
-|2,1,1745376999,47,"raylib"
-? away =
-|2,1,1745375777,,"away ="
-?/away
-|2,1,1745375761,47,"away"
-?/input
-|2,1,1745375744,47,"input"
-?/net_left
-|2,1,1745375569,47,"net_left"
-?/right
-|2,1,1745374648,47,"right"
-?/left
-|2,1,1745374602,47,"left"
-? facing_left
-|2,1,1745374474,,"facing_left"
-? \<facing_left\>
-|2,1,1745374320,,"\\<facing_left\\>"
-?/action
-|2,1,1745374311,47,"action"
-?/facing
-|2,1,1745374241,47,"facing"
-?/git
-|2,1,1745374027,47,"git"
-?/dp
-|2,1,1745301625,47,"dp"
-? right
-|2,1,1745301275,,"right"
-? left
-|2,1,1745301267,,"left"
-? \<input_interpret\>
-|2,1,1745300996,,"\\<input_interpret\\>"
-?/input_update
-|2,1,1745300934,47,"input_update"
-?/print
-|2,1,1745300922,47,"print"
-? \<input_update\>
-|2,1,1745300882,,"\\<input_update\\>"
-? press
-|2,1,1745300745,,"press"
-?/>=
-|2,1,1745300738,47,">="
-? <= pressed
-|2,1,1745300668,,"<= pressed"
-?/interp
-|2,1,1745299939,47,"interp"
-?/water
-|2,1,1745335006,47,"water"
-? k
-|2,1,1745299861,,"k"
-? p
-|2,1,1745299854,,"p"
-?/ib
-|2,1,1745299263,47,"ib"
-?/input_binds
-|2,1,1745299262,47,"input_binds"
-?/a
-|2,1,1745298323,47,"a"
-?/100
-|2,1,1745298233,47,"100"
-?/velocity
-|2,1,1745298183,47,"velocity"
-?/input_interpret
-|2,1,1745298134,47,"input_interpret"
-? stick_net_
-|2,1,1745298124,,"stick_net_"
+|2,1,1748228426,47,"draw"
 ?/update
-|2,1,1745297919,47,"update"
-?/in
-|2,1,1745297915,47,"in"
+|2,1,1748228314,47,"update"
+?/process
+|2,1,1748228130,47,"process"
+?/proc
+|2,1,1748228127,47,"proc"
+?/game
+|2,1,1748228116,47,"game"
+?/baes
+|2,1,1748228114,47,"baes"
+?/windwos
+|2,1,1748218577,47,"windwos"
+?/net
+|2,1,1748218574,47,"net"
+?/action
+|2,1,1748214701,47,"action"
+?/base
+|2,1,1748214699,47,"base"
+? 6
+|2,1,1748214673,,"6"
+? i->
+|2,1,1748214384,,"i->"
+? left
+|2,1,1748214335,,"left"
+? right
+|2,1,1748214330,,"right"
+?/input
+|2,1,1748213959,47,"input"
+?/inp
+|2,1,1748213944,47,"inp"
+?/ionmn
+|2,1,1748213928,47,"ionmn"
+?/ser
+|2,1,1748213391,47,"ser"
+?/ship
+|2,1,1748206365,47,"ship"
+??\a
+|2,1,1748206351,63,"\\a"
+?/raylib
+|2,1,1748206309,47,"raylib"
+?/static
+|2,1,1748206225,47,"static"
+?/stat
+|2,1,1748206224,47,"stat"
+?/main
+|2,1,1748206110,47,"main"
+?/wainting
+|2,1,1748204895,47,"wainting"
+?/got a packet
+|2,1,1748204866,47,"got a packet"
+?/fetch_token
+|2,1,1748204814,47,"fetch_token"
+?/trying to rec
+|2,1,1748204738,47,"trying to rec"
+?/packet
+|2,1,1748204604,47,"packet"
+?/apc
+|2,1,1748204326,47,"apc"
+?/gen_token
+|2,1,1748203470,47,"gen_token"
+?/token
+|2,1,1748203458,47,"token"
+?/send
+|2,1,1748203455,47,"send"
+?/malformed
+|2,1,1748203293,47,"malformed"
+?/REC
+|2,1,1748203264,47,"REC"
+?/RECIEVING
+|2,1,1748203263,47,"RECIEVING"
+? \<sc_connect\>
+|2,1,1748203222,,"\\<sc_connect\\>"
+?/failed to connect
+|2,1,1748203021,47,"failed to connect"
+?/socket() is ok
+|2,1,1748203011,47,"socket() is ok"
+?/socket() is ojk
+|2,1,1748203006,47,"socket() is ojk"
+?/socket is ok
+|2,1,1748203001,47,"socket is ok"
+?/buffer
+|2,1,1748202565,47,"buffer"
+?/buiff
+|2,1,1748202564,47,"buiff"
+?/server
+|2,1,1748202517,47,"server"
+? \<ByteReceived\>
+|2,1,1748202417,,"\\<ByteReceived\\>"
+? \<ReceiverAddr\>
+|2,1,1748202370,,"\\<ReceiverAddr\\>"
+? \<SenderAddr\>
+|2,1,1748202354,,"\\<SenderAddr\\>"
+? \<BufLength\>
+|2,1,1748202338,,"\\<BufLength\\>"
+? \<SendBuf\>
+|2,1,1748202329,,"\\<SendBuf\\>"
+? \<MaxBufferSize\>
+|2,1,1748202326,,"\\<MaxBufferSize\\>"
+?/windows
+|2,1,1748202313,47,"windows"
+? \<ReceiveBuf\>
+|2,1,1748202298,,"\\<ReceiveBuf\\>"
+?/srcInfto
+|2,1,1748202189,47,"srcInfto"
+? \<SendingSocket\>
+|2,1,1748202100,,"\\<SendingSocket\\>"
+? \<TotalByteSent\>
+|2,1,1748202054,,"\\<TotalByteSent\\>"
+?/connection
+|2,1,1748201519,47,"connection"
+?/port
+|2,1,1748201438,47,"port"
+?/p[
+|2,1,1748201436,47,"p["
+?/p
+|2,1,1748201278,47,"p"
+?/fetch
+|2,1,1748201136,47,"fetch"
+?/ot
+|2,1,1748201123,47,"ot"
+?/get_
+|2,1,1748201117,47,"get_"
+?/recv
+|2,1,1748201013,47,"recv"
+?/shipo
+|2,1,1748206035,47,"shipo"
+?/pro
+|2,1,1748204487,47,"pro"
+?/0
+|2,1,1748204485,47,"0"
+?/swp
+|2,1,1748200873,47,"swp"
+?/multi
+|2,1,1748151960,47,"multi"
+?/&sc
+|2,1,1748151949,47,"&sc"
+?/sc
+|2,1,1748151927,47,"sc"
+?/server_conn\*
+|2,1,1748151747,47,"server_conn\\*"
+? sc->
+|2,1,1748151679,,"sc->"
+?/drtbr1
+|2,1,1748151587,47,"drtbr1"
+?/neto
+|2,1,1748151578,47,"neto"
+?/read
+|2,1,1748141041,47,"read"
+? \<sendTransform\>
+|2,1,1748141023,,"\\<sendTransform\\>"
+?/visual
+|2,1,1748146392,47,"visual"
+?/for
+|2,1,1748144713,47,"for"
+?/frmae
+|2,1,1748144712,47,"frmae"
+?/address
+|2,1,1748136948,47,"address"
+? nocheckin
+|2,1,1748135188,,"nocheckin"
+?/hom
+|2,1,1748134944,47,"hom"
+?/waiting
+|2,1,1748134930,47,"waiting"
+?/server_port
+|2,1,1748125121,47,"server_port"
+?/s
+|2,1,1748125118,47,"s"
+?/sendkjj
+|2,1,1748124655,47,"sendkjj"
+?/bind
+|2,1,1748124623,47,"bind"
+?/prit
+|2,1,1748124200,47,"prit"
+?/get_token
+|2,1,1748124181,47,"get_token"
+?/get)
+|2,1,1748124168,47,"get)"
+?/connec
+|2,1,1748124139,47,"connec"
+?/drnf
+|2,1,1748124127,47,"drnf"
+?/connect
+|2,1,1748124117,47,"connect"
+?/conn
+|2,1,1748124029,47,"conn"
+?/noch
+|2,1,1748121202,47,"noch"
+?/serv_addr
+|2,1,1748121019,47,"serv_addr"
+?/127
+|2,1,1748121011,47,"127"
+?/addr
+|2,1,1748120998,47,"addr"
+?/connectoin
+|2,1,1748120961,47,"connectoin"
+?/conenc
+|2,1,1748120960,47,"conenc"
+? \<opponent_last_action\>
+|2,1,1748120602,,"\\<opponent_last_action\\>"
+? \<opponent\>
+|2,1,1748120568,,"\\<opponent\\>"
+?/unused
+|2,1,1748120472,47,"unused"
+?/game_update-mm
+|2,1,1748120433,47,"game_update-mm"
 ?/game_update
-|2,1,1745297348,47,"game_update"
-?/chara
-|2,1,1745296910,47,"chara"
-?/make
-|2,1,1745296828,47,"make"
-?/charac
-|2,1,1745296630,47,"charac"
-?/accell
-|2,1,1745295827,47,"accell"
-?/charactert
-|2,1,1745295751,47,"charactert"
-? reutrn
-|2,1,1745295735,,"reutrn"
-?/reutrn
-|2,1,1745295729,47,"reutrn"
-?/proj
-|2,1,1745295464,47,"proj"
-? up
-|2,1,1745295273,,"up"
-?/entity
-|2,1,1745294104,47,"entity"
-?/entitty
-|2,1,1745294102,47,"entitty"
-?/air
-|2,1,1745293800,47,"air"
-? input_settings
-|2,1,1745292507,,"input_settings"
-?/cycle
-|2,1,1745117147,47,"cycle"
-?/proje
-|2,1,1745117098,47,"proje"
-?/expand
-|2,1,1745117047,47,"expand"
-?/show
-|2,1,1745117042,47,"show"
-?/sub
-|2,1,1745117037,47,"sub"
-? ;
-|2,1,1745115706,,";"
-?/key_w
-|2,1,1745115596,47,"key_w"
-?/max_
-|2,1,1745114965,47,"max_"
-?/max
-|2,1,1745114963,47,"max"
-?/entties
-|2,1,1745114915,47,"entties"
-?/1
-|2,1,1745114894,47,"1"
-?/entities
-|2,1,1745114848,47,"entities"
-? e->
-|2,1,1745114836,,"e->"
-?/e
-|2,1,1745114797,47,"e"
-?/ch
-|2,1,1745114791,47,"ch"
-? entity
-|2,1,1745114664,,"entity"
-?/acceleration
-|2,1,1745110522,47,"acceleration"
-?/50
-|2,1,1745110461,47,"50"
-?/upd
-|2,1,1745104452,47,"upd"
-?/updatre
-|2,1,1745104449,47,"updatre"
-? x
-|2,1,1745104028,,"x"
-? , 
-|2,1,1745103551,,", "
-? input\* inputs
-|2,1,1745103547,,"input\\* inputs"
-? update
-|2,1,1745103533,,"update"
-?/10
-|2,1,1745103111,47,"10"
-? WIDTH
-|2,1,1745102894,,"WIDTH"
+|2,1,1748120411,47,"game_update"
+?/gs->
+|2,1,1748120317,47,"gs->"
+? \<sc_waiting_for_game\>
+|2,1,1748120224,,"\\<sc_waiting_for_game\\>"
+?/print
+|2,1,1748120181,47,"print"
+?/pl
+|2,1,1748120163,47,"pl"
+?/plyaer1
+|2,1,1748120160,47,"plyaer1"
+?/player 
+|2,1,1748120153,47,"player "
+?/get_boxes
+|2,1,1748120095,47,"get_boxes"
+?/rpo
+|2,1,1748120086,47,"rpo"
+?/plya
+|2,1,1748119989,47,"plya"
+?/plyaer
+|2,1,1748119985,47,"plyaer"
+?/action_buffer
+|2,1,1748119815,47,"action_buffer"
+?/acction
+|2,1,1748119812,47,"acction"
+?/action-b
+|2,1,1748119802,47,"action-b"
+?/dup
+|2,1,1748119729,47,"dup"
+?/udpate
+|2,1,1748119727,47,"udpate"
+? \<game_state\>
+|2,1,1748119710,,"\\<game_state\\>"
+?/mutli
+|2,1,1748117008,47,"mutli"
+?/if
+|2,1,1748116864,47,"if"
+?/frame
+|2,1,1748116838,47,"frame"
+?/rec
+|2,1,1748116742,47,"rec"
+? \<game_actions_update_multi\>
+|2,1,1748116730,,"\\<game_actions_update_multi\\>"
+?/mutl
+|2,1,1748116703,47,"mutl"
 ? \<game_update\>
-|2,1,1745102425,,"\\<game_update\\>"
-?/entitiy
-|2,1,1745101025,47,"entitiy"
-? facing
-|2,1,1745100354,,"facing"
-? \<GROUND_HIEGHT\>
-|2,1,1745099519,,"\\<GROUND_HIEGHT\\>"
-?/i
-|2,1,1745099462,47,"i"
-?/set
-|2,1,1745094413,47,"set"
+|2,1,1748116642,,"\\<game_update\\>"
+?/single
+|2,1,1748116539,47,"single"
 ?/gs
-|2,1,1745094316,47,"gs"
-?/screen_width
-|2,1,1745094165,47,"screen_width"
-?/sccree
-|2,1,1745094162,47,"sccree"
-?/drawRectangle
-|2,1,1745094034,47,"drawRectangle"
-?/drawRectangel
-|2,1,1745094028,47,"drawRectangel"
-? \<SCREEN_WIDTH\>
-|2,1,1745093774,,"\\<SCREEN_WIDTH\\>"
-? \<SCREEN_HEIGHT\>
-|2,1,1745093771,,"\\<SCREEN_HEIGHT\\>"
-?/math
-|2,1,1745093738,47,"math"
-?/sleep
-|2,1,1745093733,47,"sleep"
-?/enum
-|2,1,1745092409,47,"enum"
-?/state_move
-|2,1,1745092246,47,"state_move"
-?/wall
-|2,1,1745094891,47,"wall"
-? levels.h 
-|2,1,1745092213,,"levels.h "
-? \<str\>
-|2,1,1745092180,,"\\<str\\>"
-? \<win_pause\>
-|2,1,1745092152,,"\\<win_pause\\>"
-?/inmput
-|2,1,1745092066,47,"inmput"
-? sokobomb
-|2,1,1745091871,,"sokobomb"
-?/firaCode
-|2,1,1745081594,47,"firaCode"
-?/fireCOde
-|2,1,1745081591,47,"fireCOde"
-?/font_family
-|2,1,1745081563,47,"font_family"
-?/font
-|2,1,1745081557,47,"font"
-?/ #
-|2,1,1745081492,47," #"
-?/#
-|2,1,1745081487,47,"#"
-?/ffff5f
-|2,1,1745081480,47,"ffff5f"
-?/layout
-|2,1,1745081414,47,"layout"
-?/with_cwd
-|2,1,1745081376,47,"with_cwd"
-?/kitty_mod+enter
-|2,1,1745081327,47,"kitty_mod+enter"
-?/cwd
-|2,1,1745081248,47,"cwd"
-?/new tab
-|2,1,1745081241,47,"new tab"
-?/window
-|2,1,1745081207,47,"window"
-?/conf
-|2,1,1745080800,47,"conf"
-?/win_screen
-|2,1,1744937052,47,"win_screen"
-?/win_+sc
-|2,1,1744937050,47,"win_+sc"
-?/winscreen
-|2,1,1744937045,47,"winscreen"
-? \<draw_explosion\>
-|2,1,1744936956,,"\\<draw_explosion\\>"
-?/explos
-|2,1,1744935923,47,"explos"
-?/20
-|2,1,1744935891,47,"20"
-? \<DrawTexturePro\>
-|2,1,1744935528,,"\\<DrawTexturePro\\>"
-?/explosion
-|2,1,1744935449,47,"explosion"
-?/dynamic
-|2,1,1744935442,47,"dynamic"
-?/explode
-|2,1,1744935352,47,"explode"
-?/ground
-|2,1,1744935064,47,"ground"
-?/level_load
-|2,1,1744935016,47,"level_load"
-?/init
-|2,1,1744935005,47,"init"
-?/g
-|2,1,1744934952,47,"g"
-?/island
-|2,1,1744929629,47,"island"
-?/huh
-|2,1,1744929333,47,"huh"
-?/unstable
-|2,1,1744929330,47,"unstable"
-?/unstalbe
-|2,1,1744929328,47,"unstalbe"
-? \<level_halfmeasures\>
-|2,1,1744928799,,"\\<level_halfmeasures\\>"
-?/locked
-|2,1,1744928786,47,"locked"
-?/island3
-|2,1,1744928777,47,"island3"
-?/level_test
-|2,1,1744928757,47,"level_test"
-?/exter
-|2,1,1744928608,47,"exter"
-? \<level_index\>
-|2,1,1744928574,,"\\<level_index\\>"
-?/o
-|2,1,1744928571,47,"o"
-?/sizeof(levels
-|2,1,1744928539,47,"sizeof(levels"
-? \<levels\>
-|2,1,1744928536,,"\\<levels\\>"
-?/37
-|2,1,1744928530,47,"37"
-? index
-|2,1,1744928519,,"index"
-?/tash
-|2,1,1744778685,47,"tash"
-?/tish
-|2,1,1744777460,47,"tish"
-?/book 2
-|2,1,1744777402,47,"book 2"
-?/ji
-|2,1,1744777400,47,"ji"
-?/book
-|2,1,1744775054,47,"book"
-? ##
-|2,1,1744775050,,"##"
-?/ehei
-|2,1,1744578699,47,"ehei"
-?  + 1
-|2,1,1744505768,," + 1"
-?/solve
-|2,1,1744505647,47,"solve"
-? open_count
-|2,1,1744505553,,"open_count"
-?/str
-|2,1,1744505388,47,"str"
-?/brace
-|2,1,1744505383,47,"brace"
-?/test
-|2,1,1744505665,47,"test"
-?/jason2
-|2,1,1744505268,47,"jason2"
-?/go
-|2,1,1744492483,47,"go"
-?/root
-|2,1,1744490716,47,"root"
-?/jason
-|2,1,1744490684,47,"jason"
-?/secondary
-|2,1,1744490086,47,"secondary"
-?/kitty
-|2,1,1744490070,47,"kitty"
-?/kity
-|2,1,1744490069,47,"kity"
-?/${debian_chroot:+($debian_chroot)}\u@\h:\w\$
-|2,1,1744490066,47,"${debian_chroot:+($debian_chroot)}\\u@\\h:\\w\\$"
-?/ps1
-|2,1,1744489967,47,"ps1"
-?/len
-|2,1,1744425031,47,"len"
-?/slow
-|2,1,1744423033,47,"slow"
-? jason
-|2,1,1744420899,,"jason"
-? open_pointer
-|2,1,1744417320,,"open_pointer"
-? close_pointer
-|2,1,1744417313,,"close_pointer"
-? tests\/
-|2,1,1744413423,,"tests\\/"
-?/python
-|2,1,1744413061,47,"python"
-?/golang
-|2,1,1744412989,47,"golang"
-?/path
-|2,1,1744412934,47,"path"
-? .*:
-|2,1,1744359309,,".*:"
-?/buss
-|2,1,1744358750,47,"buss"
-?/tsuki
-|2,1,1744358729,47,"tsuki"
-?/standard
-|2,1,1744358429,47,"standard"
-? $
-|2,1,1744357364,,"$"
-?/\d
-|2,1,1744357300,47,"\\d"
-? ^\d\d
-|2,1,1744357296,,"^\\d\\d"
-?/:w
-|2,1,1744356758,47,":w"
-? .*
-|2,1,1744341784,,".*"
-?/start
-|2,1,1744324168,47,"start"
-? \<closes\>
-|2,1,1744324153,,"\\<closes\\>"
-? \<input\>
-|2,1,1744323957,,"\\<input\\>"
-? \<fileinput\>
-|2,1,1744323954,,"\\<fileinput\\>"
-?/required
-|2,1,1744323926,47,"required"
-?/reque
-|2,1,1744323923,47,"reque"
-?/b
-|2,1,1744323740,47,"b"
-?/add
-|2,1,1743978654,47,"add"
-?/boat
-|2,1,1744093225,47,"boat"
-?/java
-|2,1,1743976326,47,"java"
-?/shift+enter
-|2,1,1743976379,47,"shift+enter"
-?/shift
-|2,1,1743976372,47,"shift"
-?/shift enter
-|2,1,1743976371,47,"shift enter"
+|2,1,1748116447,47,"gs"
+?/hoem
+|2,1,1748116392,47,"hoem"
+?/size
+|2,1,1747970182,47,"size"
+?/sizeof
+|2,1,1747970064,47,"sizeof"
+? sc->serv_addr
+|2,1,1747970044,,"sc->serv_addr"
+?/sc->serv_addr
+|2,1,1747970037,47,"sc->serv_addr"
+?/server)
+|2,1,1747969985,47,"server)"
+?/cleanup
+|2,1,1747969934,47,"cleanup"
+?/valread
+|2,1,1747969915,47,"valread"
+?/if (sc
+|2,1,1747969892,47,"if (sc"
+? \<server_conn\>
+|2,1,1747969847,,"\\<server_conn\\>"
+? \<setsockopt\>
+|2,1,1747969774,,"\\<setsockopt\\>"
+?/opt
+|2,1,1747969772,47,"opt"
+?/mirr
+|2,1,1747969346,47,"mirr"
+?/ryu
+|2,1,1747969301,47,"ryu"
+?/mirror
+|2,1,1747969270,47,"mirror"
+?/mi
+|2,1,1747969269,47,"mi"
+?/ac
+|2,1,1747969244,47,"ac"
+? \<input_interpret\>
+|2,1,1747969046,,"\\<input_interpret\\>"
+?/facing_right
+|2,1,1747969015,47,"facing_right"
+?/inte
+|2,1,1747969013,47,"inte"
+?/inter
+|2,1,1747969005,47,"inter"
+?/facing
+|2,1,1747968999,47,"facing"
+?/r
+|2,1,1747968912,47,"r"
+?/rig
+|2,1,1747968908,47,"rig"
 ?/c
-|2,1,1743976367,47,"c"
-?/sec
-|2,1,1743955777,47,"sec"
-?/z
-|2,1,1743891572,47,"z"
-?/MyBean
-|2,1,1743828614,47,"MyBean"
-?/nerd
-|2,1,1743820904,47,"nerd"
-?/_
-|2,1,1743820651,47,"_"
-?/run
-|2,1,1743821509,47,"run"
-? main
-|2,1,1743820694,,"main"
-??\
-|2,1,1743808002,63,"\\"
-?/so on
-|2,1,1743807970,47,"so on"
-?/that
-|2,1,1743807932,47,"that"
-?/half
-|2,1,1743806626,47,"half"
-? (k)
-|2,1,1743805666,,"(k)"
-?/less
-|2,1,1743805334,47,"less"
-?/length
-|2,1,1743643388,47,"length"
-?/txtag
-|2,1,1743535840,47,"txtag"
-?/pit
-|2,1,1743474967,47,"pit"
-?/35
-|2,1,1743474924,47,"35"
-? \<___W\>
-|2,1,1743474412,,"\\<___W\\>"
-? box
-|2,1,1743474213,,"box"
-?/callback
-|2,1,1743474157,47,"callback"
+|2,1,1747968904,47,"c"
+? ,
+|2,1,1747968388,,","
+?/aase
+|2,1,1747968320,47,"aase"
+?/236
+|2,1,1747968226,47,"236"
+?/623
+|2,1,1747968216,47,"623"
+?/a
+|2,1,1747968165,47,"a"
+? \<character_update\>
+|2,1,1747968127,,"\\<character_update\\>"
+?/state
+|2,1,1747968091,47,"state"
+?//game
+|2,1,1747968085,47,"/game"
+?/gaeme
+|2,1,1747968084,47,"gaeme"
+? 623
+|2,1,1747967960,,"623"
+? DP 
+|2,1,1747967947,,"DP "
+? 236
+|2,1,1747967933,,"236"
+? QCF
+|2,1,1747967925,,"QCF"
+?/qcf
+|2,1,1747967911,47,"qcf"
+? away
+|2,1,1747967869,,"away"
+? toward
+|2,1,1747967860,,"toward"
+?/i
+|2,1,1747967506,47,"i"
+?/towrad
+|2,1,1747967319,47,"towrad"
+?/bse
+|2,1,1747966808,47,"bse"
+? uint
+|2,1,1747966739,,"uint"
+?/uint
+|2,1,1747966728,47,"uint"
+?/build_all
+|2,1,1747966685,47,"build_all"
+? \<PROJECT_R_C\>
+|2,1,1747966595,,"\\<PROJECT_R_C\\>"
+? h$
+|2,1,1747966024,,"h$"
+?/succes
+|2,1,1747949822,47,"succes"
+?/texture
+|2,1,1747949684,47,"texture"
+?/load
+|2,1,1747949683,47,"load"
+?/home
+|2,1,1747949669,47,"home"
+?/hi
+|2,1,1747949669,47,"hi"
+? printf.*HERE
+|2,1,1747949629,,"printf.*HERE"
+? HERE
+|2,1,1747949619,,"HERE"
+?/box_l
+|2,1,1747949544,47,"box_l"
+?/here 1
+|2,1,1747949538,47,"here 1"
+?/signel
+|2,1,1747949496,47,"signel"
+?/debug
+|2,1,1747949353,47,"debug"
+?/draww
+|2,1,1747949352,47,"draww"
+?/draw_debug
+|2,1,1747949339,47,"draw_debug"
+?/draw)_
+|2,1,1747949336,47,"draw)_"
 ?/box
-|2,1,1743474126,47,"box"
-?/call
-|2,1,1743473450,47,"call"
+|2,1,1747949306,47,"box"
+?/boxes
+|2,1,1747949255,47,"boxes"
+? \<box_s\>
+|2,1,1747949095,,"\\<box_s\\>"
+?/get
+|2,1,1747949085,47,"get"
+?/get_box
+|2,1,1747949066,47,"get_box"
+?/\*
+|2,1,1747948913,47,"\\*"
+?/process_
+|2,1,1747948813,47,"process_"
+?/reset
+|2,1,1747948667,47,"reset"
+? \<box_l\>
+|2,1,1747948458,,"\\<box_l\\>"
+?/reset_boxes
+|2,1,1747948446,47,"reset_boxes"
+?/reset_box
+|2,1,1747948441,47,"reset_box"
+?/singl
+|2,1,1747948349,47,"singl"
+?/mult
+|2,1,1747948078,47,"mult"
+?/msuic
+|2,1,1747948059,47,"msuic"
+?/msu
+|2,1,1747948058,47,"msu"
+? \<multiplayer_game\>
+|2,1,1747947777,,"\\<multiplayer_game\\>"
+? \<singleplayer_game\>
+|2,1,1747947701,,"\\<singleplayer_game\\>"
+?/serer
+|2,1,1747947286,47,"serer"
+?/server_d
+|2,1,1747947249,47,"server_d"
+?/multiplayer
+|2,1,1747895404,47,"multiplayer"
+? \<sendto\>
+|2,1,1747895222,,"\\<sendto\\>"
+?/pr
+|2,1,1747895165,47,"pr"
+? \<game_reset_boxes\>
+|2,1,1747895078,,"\\<game_reset_boxes\\>"
+?/velocity
+|2,1,1747895010,47,"velocity"
+?/game_state
+|2,1,1747894876,47,"game_state"
+? \<velocity_y\>
+|2,1,1747894838,,"\\<velocity_y\\>"
+? \<character_update_ryu\>
+|2,1,1747894781,,"\\<character_update_ryu\\>"
+?/chara
+|2,1,1747894760,47,"chara"
+? \<game_process_boxes\>
+|2,1,1747894740,,"\\<game_process_boxes\\>"
+? \<game_actions_update\>
+|2,1,1747894721,,"\\<game_actions_update\\>"
+?/single-player
+|2,1,1747894569,47,"single-player"
+?/character
+|2,1,1747894432,47,"character"
+?/ch
+|2,1,1747894419,47,"ch"
+?/singel
+|2,1,1747894377,47,"singel"
+?/ere
+|2,1,1747894347,47,"ere"
+?/ryu_here
+|2,1,1747894346,47,"ryu_here"
+?/character_update
+|2,1,1747894092,47,"character_update"
+? \<set_state\>
+|2,1,1747894080,,"\\<set_state\\>"
+? \<character_get_boxes\>
+|2,1,1747893947,,"\\<character_get_boxes\\>"
+?/game_get_boxes
+|2,1,1747893916,47,"game_get_boxes"
+? \<game_get_boxes\>
+|2,1,1747893912,,"\\<game_get_boxes\\>"
+?/hoeme
+|2,1,1747893547,47,"hoeme"
+?/multip
+|2,1,1747893518,47,"multip"
+?/tint
+|2,1,1747893477,47,"tint"
+? tint
+|2,1,1747893317,,"tint"
+?/multiplyaer
+|2,1,1747892836,47,"multiplyaer"
+?/game_actions_update
+|2,1,1747892774,47,"game_actions_update"
+?/game_actions_
+|2,1,1747892765,47,"game_actions_"
+?/cahra
+|2,1,1747892718,47,"cahra"
+?/action-bu
+|2,1,1747892626,47,"action-bu"
+?/ad
+|2,1,1747892558,47,"ad"
+?/game_actions_upd
+|2,1,1747892437,47,"game_actions_upd"
+?/store
+|2,1,1747892368,47,"store"
+?/aciton
+|2,1,1747892311,47,"aciton"
+?/ini
+|2,1,1747892307,47,"ini"
+?/init
+|2,1,1747892277,47,"init"
+?/game_init
+|2,1,1747892262,47,"game_init"
+? \<action_buffer\>
+|2,1,1747892136,,"\\<action_buffer\\>"
+?/sending for
+|2,1,1747892089,47,"sending for"
+? \<input_history_offset_player\>
+|2,1,1747891882,,"\\<input_history_offset_player\\>"
+?/muli
+|2,1,1747891791,47,"muli"
+?/offset
+|2,1,1747891743,47,"offset"
+?/sendto
+|2,1,1747891699,47,"sendto"
+?/printf
+|2,1,1747891644,47,"printf"
+?/input_history
+|2,1,1747891636,47,"input_history"
+? \<input_history_offset_player1\>
+|2,1,1747891553,,"\\<input_history_offset_player1\\>"
+? \<input_and_history_update\>
+|2,1,1747891521,,"\\<input_and_history_update\\>"
+? \<ih_offset\>
+|2,1,1747891518,,"\\<ih_offset\\>"
+?//
+|2,1,1747891221,47,"/"
+?/ijp
+|2,1,1747891174,47,"ijp"
+? \<ACTION_BUFFER_SIZE\>
+|2,1,1747890927,,"\\<ACTION_BUFFER_SIZE\\>"
+?/got
+|2,1,1747890843,47,"got"
+?/b
+|2,1,1747890587,47,"b"
+? \<game_frame\>
+|2,1,1747890290,,"\\<game_frame\\>"
+?/applying
+|2,1,1747890226,47,"applying"
+?/aplying
+|2,1,1747890220,47,"aplying"
+?/sending
+|2,1,1747890171,47,"sending"
+?/ssen
+|2,1,1747890160,47,"ssen"
+? \<player2_frame\>
+|2,1,1747890068,,"\\<player2_frame\\>"
+?/player2_frame
+|2,1,1747890066,47,"player2_frame"
+?/se
+|2,1,1747889951,47,"se"
+?/m
+|2,1,1747889876,47,"m"
+?/stick
+|2,1,1747889867,47,"stick"
+?/a_up
+|2,1,1747889426,47,"a_up"
+?/return
+|2,1,1747889322,47,"return"
+?/input_
+|2,1,1747889149,47,"input_"
+?/multipl
+|2,1,1747889069,47,"multipl"
+?/ju
+|2,1,1747889001,47,"ju"
+?/jupm
+|2,1,1747888999,47,"jupm"
+?/j
+|2,1,1747888997,47,"j"
+?/jump
+|2,1,1747888992,47,"jump"
+?/memc
+|2,1,1747888934,47,"memc"
+? \<player1_offset\>
+|2,1,1747888812,,"\\<player1_offset\\>"
+?/player
+|2,1,1747888796,47,"player"
+?/player_o
+|2,1,1747888793,47,"player_o"
+?/apply
+|2,1,1747888712,47,"apply"
+?/f
+|2,1,1747888550,47,"f"
+?/memcp
+|2,1,1747888391,47,"memcp"
+?/applyin
+|2,1,1747888145,47,"applyin"
+?/storing
+|2,1,1747887694,47,"storing"
+?/getting
+|2,1,1747887692,47,"getting"
+?/here
+|2,1,1747887489,47,"here"
+?/actions_update_multi
+|2,1,1747886217,47,"actions_update_multi"
+?/while
+|2,1,1747886163,47,"while"
+?/wack
+|2,1,1747885901,47,"wack"
+?/convert
+|2,1,1747885482,47,"convert"
+? \<action_buffer_size\>
+|2,1,1747884922,,"\\<action_buffer_size\\>"
+?/j/ac
+|2,1,1747884912,47,"j/ac"
+?/action_bufr
+|2,1,1747884909,47,"action_bufr"
+? \<DEPENDENCIES\>
+|2,1,1747884866,,"\\<DEPENDENCIES\\>"
+?/make ser
+|2,1,1747891272,47,"make ser"
+? \<addr_size\>
+|2,1,1747884702,,"\\<addr_size\\>"
+?/multiply
+|2,1,1747884393,47,"multiply"
+?/send_to
+|2,1,1747884326,47,"send_to"
+?/rset_box
+|2,1,1747884298,47,"rset_box"
+?/game_actions
+|2,1,1747884193,47,"game_actions"
 ? 1
-|2,1,1743457991,,"1"
-? 0
-|2,1,1743457959,,"0"
+|2,1,1747884048,,"1"
+?/action_packet
+|2,1,1747883770,47,"action_packet"
+?/in
+|2,1,1747881894,47,"in"
+?/serc
+|2,1,1747881892,47,"serc"
+? \<get_action\>
+|2,1,1747881679,,"\\<get_action\\>"
+?/process-
+|2,1,1747881654,47,"process-"
+?/process_boxes
+|2,1,1747881646,47,"process_boxes"
+? \<store_action\>
+|2,1,1747881639,,"\\<store_action\\>"
+?/ion
+|2,1,1747881454,47,"ion"
+? \<input_history_player2\>
+|2,1,1747881314,,"\\<input_history_player2\\>"
+? \<input_history_player1\>
+|2,1,1747881310,,"\\<input_history_player1\\>"
+?/interpret
+|2,1,1747881051,47,"interpret"
+?/gs->?
+|2,1,1747881038,47,"gs->?"
+?/input_binds_default
+|2,1,1747881004,47,"input_binds_default"
+? player1
+|2,1,1747880814,,"player1"
+?/game+
+|2,1,1747880783,47,"game+"
+?/kmuitl
+|2,1,1747880770,47,"kmuitl"
+?/default
+|2,1,1747880515,47,"default"
+?/defatul
+|2,1,1747880513,47,"defatul"
+?/defin
+|2,1,1747880470,47,"defin"
+? \<input_history_push\>
+|2,1,1747880283,,"\\<input_history_push\\>"
+?/inptu
+|2,1,1747880280,47,"inptu"
+?/.
+|2,1,1747880275,47,"."
+?/hito
+|2,1,1747880274,47,"hito"
+?/input_update
+|2,1,1747880082,47,"input_update"
+?/textu
+|2,1,1747879736,47,"textu"
+?/gam
+|2,1,1747879702,47,"gam"
+?/mti
+|2,1,1747879418,47,"mti"
+?/wait
+|2,1,1747879387,47,"wait"
+? \<sc\>
+|2,1,1747879373,,"\\<sc\\>"
+? \<player1\>
+|2,1,1747879359,,"\\<player1\\>"
+?/client_to
+|2,1,1747879243,47,"client_to"
+?/client_
+|2,1,1747879232,47,"client_"
+?/client_tokenz
+|2,1,1747879229,47,"client_tokenz"
+?/privle
+|2,1,1747879214,47,"privle"
+?/game_actions_update_multi
+|2,1,1747879108,47,"game_actions_update_multi"
+?/game_inti
+|2,1,1747878976,47,"game_inti"
+?/main.c
+|2,1,1747878929,47,"main.c"
+? \<game_inputs_update\>
+|2,1,1747878887,,"\\<game_inputs_update\\>"
+?/inp9uts
+|2,1,1747878883,47,"inp9uts"
+?/waiting_for_game
+|2,1,1747878788,47,"waiting_for_game"
+? \<valread\>
+|2,1,1747878443,,"\\<valread\\>"
+?/wal
+|2,1,1747878397,47,"wal"
+?/game_start
+|2,1,1747878250,47,"game_start"
+?/sento
+|2,1,1747878145,47,"sento"
+?/gen_to
+|2,1,1747877851,47,"gen_to"
+?/client
+|2,1,1747877790,47,"client"
+? \<gen_token\>
+|2,1,1747877777,,"\\<gen_token\\>"
+?/while(1
+|2,1,1747877628,47,"while(1"
+?/match
+|2,1,1747877604,47,"match"
+?/,mat
+|2,1,1747877603,47,",mat"
+?/addrLen
+|2,1,1747877278,47,"addrLen"
+?/if err
+|2,1,1747877151,47,"if err"
+? \<opt\>
+|2,1,1747877133,,"\\<opt\\>"
+?/create_fd
+|2,1,1747877114,47,"create_fd"
+?/crate_fa
+|2,1,1747877113,47,"crate_fa"
+?/adderes
+|2,1,1747877101,47,"adderes"
+?/sockaddr
+|2,1,1747877038,47,"sockaddr"
+? \<create_fd\>
+|2,1,1747877032,,"\\<create_fd\\>"
+?/wsocker
+|2,1,1747876993,47,"wsocker"
+?/sockadder
+|2,1,1747876872,47,"sockadder"
+?/single 
+|2,1,1747876715,47,"single "
+?/clear
+|2,1,1747876700,47,"clear"
+?/window
+|2,1,1747876678,47,"window"
+?/re
+|2,1,1747876563,47,"re"
+? \<EndDrawing\>
+|2,1,1747876383,,"\\<EndDrawing\\>"
+?/union
+|2,1,1747876007,47,"union"
+? connect
+|2,1,1747875969,,"connect"
+?/clean
+|2,1,1747878415,47,"clean"
+?/wallpaper
+|2,1,1747875645,47,"wallpaper"
+?/4.5
+|2,1,1747808222,47,"4.5"
+?/4\5
+|2,1,1747808220,47,"4\\5"
+?/5\/5
+|2,1,1747808212,47,"5\\/5"
+? \<MAKEFILE\>
+|2,1,1747707266,,"\\<MAKEFILE\\>"
+?/xset
+|2,1,1747689964,47,"xset"
+?/spawn
+|2,1,1747637599,47,"spawn"
+?/is
+|2,1,1747635937,47,"is"
+?/hdmi
+|2,1,1747635741,47,"hdmi"
+?/layout
+|2,1,1747606316,47,"layout"
+?/spacing
+|2,1,1747606299,47,"spacing"
+?/opacity
+|2,1,1747629694,47,"opacity"
+?/got action
+|2,1,1747629377,47,"got action"
+? \<action_packet\>
+|2,1,1747629266,,"\\<action_packet\\>"
+?/acition
+|2,1,1747629263,47,"acition"
+? \<privileged_action\>
+|2,1,1747629209,,"\\<privileged_action\\>"
+? \<privileged_aciton\>
+|2,1,1747629201,,"\\<privileged_aciton\\>"
+?/amlform
+|2,1,1747628710,47,"amlform"
+?/fnctl
+|2,1,1747628640,47,"fnctl"
+?/pakcet
+|2,1,1747628517,47,"pakcet"
+?/malfomr
+|2,1,1747628385,47,"malfomr"
+?/token_packet
+|2,1,1747628275,47,"token_packet"
+?/close
+|2,1,1747628189,47,"close"
+?/close_con
+|2,1,1747628185,47,"close_con"
+?/clsoe
+|2,1,1747628181,47,"clsoe"
+? connection
+|2,1,1747628147,,"connection"
+?/conec
+|2,1,1747628142,47,"conec"
+? close
+|2,1,1747628070,,"close"
+? ap
+|2,1,1747628000,,"ap"
+?/ap
+|2,1,1747627989,47,"ap"
+?/typedef
+|2,1,1747627958,47,"typedef"
+?/struct
+|2,1,1747627947,47,"struct"
+?/srt
+|2,1,1747627946,47,"srt"
+?/multipl,ya
+|2,1,1747627765,47,"multipl,ya"
+?/op
+|2,1,1747627532,47,"op"
+?/max
+|2,1,1747626722,47,"max"
+? \<get_connection_id\>
+|2,1,1747626334,,"\\<get_connection_id\\>"
+?/len
+|2,1,1747617311,47,"len"
+?/addrlen
+|2,1,1747617291,47,"addrlen"
+?/adddr
+|2,1,1747617289,47,"adddr"
+?/netowrk
+|2,1,1747617099,47,"netowrk"
+?/sockadd
+|2,1,1747617094,47,"sockadd"
+? \<buffer\>
+|2,1,1747616317,,"\\<buffer\\>"
+?/rpin
+|2,1,1747616250,47,"rpin"
+?/exit
+|2,1,1747616193,47,"exit"
+? \<address\>
+|2,1,1747616035,,"\\<address\\>"
+?/rev
+|2,1,1747615274,47,"rev"
+?/sleep
+|2,1,1747614256,47,"sleep"
+? \<client_fd\>
+|2,1,1747614042,,"\\<client_fd\\>"
+?/ent
+|2,1,1747613909,47,"ent"
+?/listen
+|2,1,1747613642,47,"listen"
+?/accept
+|2,1,1747613617,47,"accept"
+? \<activity\>
+|2,1,1747613344,,"\\<activity\\>"
+? \<gt\>
+|2,1,1747613158,,"\\<gt\\>"
+? \<sd\>
+|2,1,1747613148,,"\\<sd\\>"
+? \<max_sd\>
+|2,1,1747613132,,"\\<max_sd\\>"
+? \<amp\>
+|2,1,1747613086,,"\\<amp\\>"
+? \<FD_ZERO\>
+|2,1,1747613036,,"\\<FD_ZERO\\>"
+?/buff
+|2,1,1747612940,47,"buff"
+?/new
+|2,1,1747612928,47,"new"
+?/sy
+|2,1,1747612912,47,"sy"
+?/networking
+|2,1,1747608170,47,"networking"
+?/mo
+|2,1,1747608253,47,"mo"
+? \<myLayout\>
+|2,1,1747608247,,"\\<myLayout\\>"
+?/spawnOnce
+|2,1,1747607810,47,"spawnOnce"
+?/spawnonce
+|2,1,1747607803,47,"spawnonce"
+?/core
+|2,1,1747607703,47,"core"
+?/vimmer
+|2,1,1747607700,47,"vimmer"
+?/nos
+|2,1,1747607655,47,"nos"
+? #NONE
+|2,1,1747607652,,"#NONE"
+?/#NONE/k
+|2,1,1747607647,47,"#NONE/k"
+?/guibg
+|2,1,1747607611,47,"guibg"
+?/cterm
+|2,1,1747607572,47,"cterm"
+?/amtch
+|2,1,1747607378,47,"amtch"
+?/pawnOnce
+|2,1,1747607271,47,"pawnOnce"
+?/compton
+|2,1,1747607249,47,"compton"
+?/grpahics
+|2,1,1747607184,47,"grpahics"
+?/ff000
+|2,1,1747607089,47,"ff000"
+?/bacfkg
+|2,1,1747607086,47,"bacfkg"
+?/normal
+|2,1,1747607045,47,"normal"
+?/40
+|2,1,1747606749,47,"40"
+?/20
+|2,1,1747606723,47,"20"
+?/cursor
+|2,1,1747606153,47,"cursor"
+?/kitty_mod+m
+|2,1,1747606109,47,"kitty_mod+m"
+?/kitty_mod+p
+|2,1,1747606094,47,"kitty_mod+p"
+?/reload
+|2,1,1747606041,47,"reload"
+?/ffff
+|2,1,1747606030,47,"ffff"
+?/color
+|2,1,1747605831,47,"color"
+?/background
+|2,1,1747605817,47,"background"
+?/trnaspartn
+|2,1,1747605815,47,"trnaspartn"
+?/kitty
+|2,1,1747605812,47,"kitty"
+?/.confg
+|2,1,1747605810,47,".confg"
+?/terminal
+|2,1,1747605781,47,"terminal"
+?/xterm
+|2,1,1747605774,47,"xterm"
+?/red
+|2,1,1747605714,47,"red"
+?/spwan
+|2,1,1747605690,47,"spwan"
+? \<myStartupHook\>
+|2,1,1747605502,,"\\<myStartupHook\\>"
+?/defaults
+|2,1,1747605488,47,"defaults"
+?/k_period
+|2,1,1747604235,47,"k_period"
+?/status
+|2,1,1747604122,47,"status"
+?/made
+|2,1,1747521207,47,"made"
+?/todo
+|2,1,1747287905,47,"todo"
+? \<connect\>
+|2,1,1747275033,,"\\<connect\\>"
+?/tcp
+|2,1,1747274999,47,"tcp"
+?/udp
+|2,1,1747274991,47,"udp"
+?/run
+|2,1,1747274312,47,"run"
+?/md
+|2,1,1747207431,47,"md"
+?/PORT
+|2,1,1747206821,47,"PORT"
+?/cli
+|2,1,1747206791,47,"cli"
+? \<serv_addr\>
+|2,1,1747206773,,"\\<serv_addr\\>"
+?/ag
+|2,1,1747206352,47,"ag"
+? 7
+|2,1,1747205609,,"7"
+?/cleanujp
+|2,1,1747205545,47,"cleanujp"
+?/gmae_
+|2,1,1747205012,47,"gmae_"
+?/action_update
+|2,1,1747205008,47,"action_update"
+?/aciotn_
+|2,1,1747205003,47,"aciotn_"
+?/action_updadt
+|2,1,1747204999,47,"action_updadt"
+?/interp
+|2,1,1747204774,47,"interp"
+?/idle
+|2,1,1747204298,47,"idle"
+?/h
+|2,1,1747204126,47,"h"
+?/no
+|2,1,1747116573,47,"no"
+?/make
+|2,1,1747116397,47,"make"
+?/iasa
+|2,1,1747116361,47,"iasa"
+?/isas
+|2,1,1747116359,47,"isas"
+?/walking_set
+|2,1,1747116255,47,"walking_set"
+? \<walking_set\>
+|2,1,1747116190,,"\\<walking_set\\>"
+?/12
+|2,1,1747115528,47,"12"
+?/crouch
+|2,1,1747115512,47,"crouch"
+?/crouch_m
+|2,1,1747115364,47,"crouch_m"
+?/iactive
+|2,1,1747115031,47,"iactive"
+?/active
+|2,1,1747114592,47,"active"
+? \<hitboxes_active\>
+|2,1,1747114114,,"\\<hitboxes_active\\>"
+?/damage
+|2,1,1747114086,47,"damage"
+?/damgae
+|2,1,1747114075,47,"damgae"
+?/cha
+|2,1,1747114071,47,"cha"
+?/6p
+|2,1,1747113383,47,"6p"
+? fireballs
+|2,1,1747113339,,"fireballs"
+?/art
+|2,1,1747113240,47,"art"
+?/struct image
+|2,1,1747000955,47,"struct image"
+?/image
+|2,1,1747000953,47,"image"
+?/inc
+|2,1,1747000951,47,"inc"
+? LoadImage.*
+|2,1,1747000635,,"LoadImage.*"
+? frame_textures\[\(.*\)\] = texture_plus_from_image(
+|2,1,1747000615,,"frame_textures\\[\\(.*\\)\\] = texture_plus_from_image("
+? =
+|2,1,1747000499,,"="
+? g;
+|2,1,1747000472,,"g;"
+? = .*load
+|2,1,1747000444,,"= .*load"
+? ))
+|2,1,1747000392,,"))"
+? .*_image(
+|2,1,1747000383,,".*_image("
+?/free
+|2,1,1747000297,47,"free"
+? print
+|2,1,1746999983,,"print"
+? %d
+|2,1,1746999942,,"%d"
+? , counter++
+|2,1,1746999932,,", counter++"
+? \<texture_plus_from_image\>
+|2,1,1746999790,,"\\<texture_plus_from_image\\>"
+?/loadImage
+|2,1,1746999731,47,"loadImage"
+?/sr	
+|2,1,1746999724,47,"sr	"
+?/cancel
+|2,1,1746994954,47,"cancel"
+? printf
+|2,1,1746964932,,"printf"
+? Texture Here - 
+|2,1,1746964566,,"Texture Here - "
+? printf.*
+|2,1,1746964505,,"printf.*"
+?/backg
+|2,1,1746963933,47,"backg"
+??ll
+|2,1,1746961469,63,"ll"
+? \n
+|2,1,1746960926,,"\\n"
+?/build
+|2,1,1746963410,47,"build"
+? \.\.\/
+|2,1,1746963077,,"\\.\\.\\/"
+? gif$
+|2,1,1746962879,,"gif$"
+? .*
+|2,1,1746962863,,".*"
+? \<SPACED_SPRITE_SHEET\>
+|2,1,1746961834,,"\\<SPACED_SPRITE_SHEET\\>"
+?/spaced
+|2,1,1746961759,47,"spaced"
+?/art/
+|2,1,1746961757,47,"art/"
+?/preload
+|2,1,1746961711,47,"preload"
+?/ray
+|2,1,1746961640,47,"ray"
+?/malloc
+|2,1,1746961043,47,"malloc"
+?/here12
+|2,1,1746960463,47,"here12"
+? ryu_throw_miss
+|2,1,1746940762,,"ryu_throw_miss"
+?/knkock
+|2,1,1746940745,47,"knkock"
+?/volume
+|2,1,1746940557,47,"volume"
+?/ovlume
+|2,1,1746940555,47,"ovlume"
+? draw_frame
+|2,1,1746940091,,"draw_frame"
+? , c->facing_right
+|2,1,1746940083,,", c->facing_right"
+? \(draw_frame(.\{-},\).\{-},.\{-},
+|2,1,1746940064,,"\\(draw_frame(.\\{-},\\).\\{-},.\\{-},"
+? x
+|2,1,1746939928,,"x"
+?/draw_framme
+|2,1,1746939852,47,"draw_framme"
+?/drwa_
+|2,1,1746939849,47,"drwa_"
+?/pre
+|2,1,1746938926,47,"pre"
+?/unload.*image
+|2,1,1746938750,47,"unload.*image"
+?/unload
+|2,1,1746938737,47,"unload"
+?/loadtexture
+|2,1,1746938730,47,"loadtexture"
+?/favicon
+|2,1,1746960213,47,"favicon"
+?/ken
+|2,1,1746959606,47,"ken"
+? \.
+|2,1,1746959510,,"\\."
+?/tood
+|2,1,1746959276,47,"tood"
+? \<GROUND_HEIGHT\>
+|2,1,1746956574,,"\\<GROUND_HEIGHT\\>"
+?/ground
+|2,1,1746956570,47,"ground"
+?//kk
+|2,1,1746956136,47,"/kk"
+?/height
+|2,1,1746956027,47,"height"
+?/sprite
+|2,1,1746955446,47,"sprite"
+? _
+|2,1,1746908770,,"_"
+? \(.*\)\.gif
+|2,1,1746908544,,"\\(.*\\)\\.gif"
+?/drawtext
+|2,1,1746937093,47,"drawtext"
+?/white
+|2,1,1746937086,47,"white"
+? \<frame_advance_counter_reset\>
+|2,1,1746935994,,"\\<frame_advance_counter_reset\\>"
+?/isactive
+|2,1,1746935911,47,"isactive"
+?/is_
+|2,1,1746935909,47,"is_"
+?/= 0
+|2,1,1746935530,47,"= 0"
+?/backward
+|2,1,1746935287,47,"backward"
+?/fwards
+|2,1,1746935282,47,"fwards"
+?/200
+|2,1,1746935279,47,"200"
+? ryu_ts_stance
+|2,1,1746934559,,"ryu_ts_stance"
+?/walk
+|2,1,1746934523,47,"walk"
+?/push
+|2,1,1746933526,47,"push"
+? \<foreground_color\>
+|2,1,1746933040,,"\\<foreground_color\\>"
+?/gmae
+|2,1,1746932655,47,"gmae"
+?/health
+|2,1,1746932488,47,"health"
+? \<frame_advance_counter\>
+|2,1,1746931710,,"\\<frame_advance_counter\\>"
+?/str
+|2,1,1746931564,47,"str"
+?/button_update
+|2,1,1746931430,47,"button_update"
+? \<game_get_boxes_and_draw\>
+|2,1,1746930669,,"\\<game_get_boxes_and_draw\\>"
+? \<frame_by_frame\>
+|2,1,1746930596,,"\\<frame_by_frame\\>"
+?/80
+|2,1,1746925580,47,"80"
+?/duration
+|2,1,1746925250,47,"duration"
+?/mirro
+|2,1,1746924918,47,"mirro"
+? \<velocity_x\>
+|2,1,1746924813,,"\\<velocity_x\\>"
+? 3
+|2,1,1746921807,,"3"
+? gs->box_s\[i\]
+|2,1,1746921788,,"gs->box_s\\[i\\]"
+? gs->box_s\[j\]
+|2,1,1746921781,,"gs->box_s\\[j\\]"
+? gs->box_s[j\]/b1/g
+|2,1,1746921774,,"gs->box_s[j\\]/b1/g"
+? position_y
+|2,1,1746920053,,"position_y"
+? position_x
+|2,1,1746920040,,"position_x"
+?/or
+|2,1,1746919989,47,"or"
+? \<origin_offset_x\>
+|2,1,1746919981,,"\\<origin_offset_x\\>"
+?/green
+|2,1,1746919670,47,"green"
+? \<character_origin_draw\>
+|2,1,1746919566,,"\\<character_origin_draw\\>"
+?/stance
+|2,1,1746918868,47,"stance"
+? , \d\d
+|2,1,1746916250,,", \\d\\d"
+?  \d\d
+|2,1,1746916232,," \\d\\d"
+?/10
+|2,1,1746916205,47,"10"
+?/fireball
+|2,1,1746916170,47,"fireball"
+?/else
+|2,1,1746916160,47,"else"
+? \<character_draw\>
+|2,1,1746915532,,"\\<character_draw\\>"
+?/draw_
+|2,1,1746915515,47,"draw_"
+?/drraw
+|2,1,1746914953,47,"drraw"
+?/draw_box
+|2,1,1746914827,47,"draw_box"
+?/converrt
+|2,1,1746914070,47,"converrt"
+?/bopx
+|2,1,1746913911,47,"bopx"
+?/ge
+|2,1,1746913458,47,"ge"
+?/drfaw
+|2,1,1746913434,47,"drfaw"
+?/boxe
+|2,1,1746913424,47,"boxe"
+?/preload_all
+|2,1,1746909355,47,"preload_all"
+?/texu
+|2,1,1746908876,47,"texu"
+?/png
+|2,1,1746908804,47,"png"
+? \(= .*(.*\)_
+|2,1,1746908643,,"\\(= .*(.*\\)_"
+? \(= .*\)_
+|2,1,1746908623,,"\\(= .*\\)_"
+? -
+|2,1,1746908352,,"-"
+? ^\s*
+|2,1,1746908183,,"^\\s*"
+?/loadTexture
+|2,1,1746908072,47,"loadTexture"
+? \<DrawTexture\>
+|2,1,1746907689,,"\\<DrawTexture\\>"
+? $
+|2,1,1746907621,,"$"
+? .png
+|2,1,1746907609,,".png"
+? -\d.*
+|2,1,1746907554,,"-\\d.*"
+?/image.*file
+|2,1,1746907126,47,"image.*file"
+?/textureLoad
+|2,1,1746907100,47,"textureLoad"
+? \(       .*\)_
+|2,1,1746908726,,"\\(       .*\\)_"
+? \(\t\w*\)-
+|2,1,1746908466,,"\\(\\t\\w*\\)-"
+? \t\w*-
+|2,1,1746908436,,"\\t\\w*-"
+? \t.*-
+|2,1,1746908423,,"\\t.*-"
+? \(.*\.\).*$
+|2,1,1746906520,,"\\(.*\\.\\).*$"
+?/ryuy.
+|2,1,1746905824,47,"ryuy."
+?/ryu.png
+|2,1,1746905811,47,"ryu.png"
+?/_width
+|2,1,1746852448,47,"_width"
+?/_height
+|2,1,1746852437,47,"_height"
+?/hegiht
+|2,1,1746852431,47,"hegiht"
+?/nocheckin
+|2,1,1746850898,47,"nocheckin"
+?/100
+|2,1,1746850848,47,"100"
+? \<convert_x\>
+|2,1,1746846929,,"\\<convert_x\\>"
+? box_j
+|2,1,1746846626,,"box_j"
+? }
+|2,1,1746846429,,"}"
+?/box_mirro
+|2,1,1746845022,47,"box_mirro"
+? {
+|2,1,1746844376,,"{"
+?/convert_h
+|2,1,1746843928,47,"convert_h"
+? \<convert_y\>
+|2,1,1746843742,,"\\<convert_y\\>"
+?/b.w
+|2,1,1746843653,47,"b.w"
+? \<convert_h\>
+|2,1,1746843430,,"\\<convert_h\\>"
+? \<SCREEN_HEIGHT_ABOVE_GROUND\>
+|2,1,1746842294,,"\\<SCREEN_HEIGHT_ABOVE_GROUND\\>"
+?/screen
+|2,1,1746842248,47,"screen"
+?/extern
+|2,1,1746842112,47,"extern"
+?/e t
+|2,1,1746842108,47,"e t"
+? \<SCREEN_HEIGHT\>
+|2,1,1746841873,,"\\<SCREEN_HEIGHT\\>"
+?/convery
+|2,1,1746841855,47,"convery"
+?/play
+|2,1,1746841477,47,"play"
+?/playspace
+|2,1,1746841475,47,"playspace"
+? \<void\>
+|2,1,1746841468,,"\\<void\\>"
+?/rectanglerec
+|2,1,1746841236,47,"rectanglerec"
 
 # Expression History (newest to oldest):
 =expand('%:p')
 |2,2,1739206744,,"expand('%:p')"
 
 # Input Line History (newest to oldest):
+@[{y(es)},n(o),a(ll),q(uit)] y
+|2,3,1748200876,,"[{y(es)},n(o),a(ll),q(uit)] y"
+@/home/jason/core/code/projectR/src/multiplayer_game.h
+|2,3,1747948091,,"/home/jason/core/code/projectR/src/multiplayer_game.h"
+@/home/jason/core/visa_notes_md/aws_missed_questions.md
+|2,3,1745905334,,"/home/jason/core/visa_notes_md/aws_missed_questions.md"
 @k
 |2,3,1744928876,,"k"
-@[{y(es)},n(o),a(ll),q(uit)] y
-|2,3,1743891723,,"[{y(es)},n(o),a(ll),q(uit)] y"
 @test.md
 |2,3,1743891716,,"test.md"
 @/home/jason/core/code/java_learning/src4/src/main/java/com/example/demo/main
@@ -984,1571 +2082,1640 @@ $
 # Debug Line History (newest to oldest):
 
 # Registers:
-"0	LINE	0
-	""Deep blues color theme
-	"hi opr              ctermfg=0085 ctermbg=none cterm=none guifg=#5a5aff
-	"hi com              ctermfg=0118 ctermbg=none cterm=none guifg=#247ba0
-	"hi tag              ctermfg=0015 ctermbg=none cterm=bold guifg=#ff0000
-	"hi title            ctermfg=0118 ctermbg=none cterm=bold guifg=#b4e7ce
-|3,0,0,1,5,0,1745788274,"\"\"Deep blues color theme","\"hi opr              ctermfg=0085 ctermbg=none cterm=none guifg=#5a5aff","\"hi com              ctermfg=0118 ctermbg=none cterm=none guifg=#247ba0","\"hi tag              ctermfg=0015 ctermbg=none cterm=bold guifg=#ff0000","\"hi title            ctermfg=0118 ctermbg=none cterm=bold guifg=#b4e7ce"
+""0	LINE	0
+	    load_sound();
+|3,1,0,1,1,0,1748230109,"    load_sound();"
 "1	LINE	0
-	
-|3,0,1,1,1,0,1745801577,""
+	}
+|3,0,1,1,1,0,1748229918,"}"
 "2	LINE	0
-	275
-<Note, that for NATing, it sounds like there is no room for it in a IP header, instead routers will write over the source to be their own ip, and the port to be a entry in a lookup table. This entry in the lookup table lives as long as the session, for something like TCP. 
-|3,0,2,1,1,0,1745801574,"Note, that for NATing, it sounds like there is no room for it in a IP header, instead routers will write over the source to be their own ip, and the port to be a entry in a lookup table. This entry in the lookup table lives as long as the session, for something like TCP. "
+	    sounds[index++] = LoadSound(sounds/punch_2.mp3);
+|3,0,2,1,1,0,1748229918,"    sounds[index++] = LoadSound(sounds/punch_2.mp3);"
 "3	LINE	0
-	##test:
-|3,0,3,1,1,0,1745788735,"##test:"
+	    sounds[index++] = LoadSound(sounds/punch_1.mp3);
+|3,0,3,1,1,0,1748229918,"    sounds[index++] = LoadSound(sounds/punch_1.mp3);"
 "4	LINE	0
-	@CLEANUP
-|3,0,4,1,1,0,1745788478,"@CLEANUP"
+	    int index = 0;
+|3,0,4,1,1,0,1748229918,"    int index = 0;"
 "5	LINE	0
-	// @CLEANUPP
-|3,0,5,1,1,0,1745788461,"// @CLEANUPP"
+	
+|3,0,5,1,1,0,1748229913,""
 "6	LINE	0
-	//What is going on here @cleanup
-|3,0,6,1,1,0,1745788429,"//What is going on here @cleanup"
+	
+|3,0,6,1,1,0,1748229913,""
 "7	LINE	0
-	## test:
-|3,0,7,1,1,0,1745788429,"## test:"
-"8	LINE	0
-	## test:
-|3,0,8,1,1,0,1745788429,"## test:"
+	
+|3,0,7,1,1,0,1748229912,""
+"8	BLOCK	3
+	base
+	base
+|3,0,8,2,2,3,1748229574,"base","base"
 "9	LINE	0
-	//what is going on here @cleanup
-|3,0,9,1,1,0,1745788416,"//what is going on here @cleanup"
+	    animation_count,
+|3,0,9,1,1,0,1748229504,"    animation_count,"
 "e	CHAR	0
 	ddkf\xxA;Â€Ã½kjjj
 |3,0,14,0,1,0,1742776106,"ddkf\\xxA;Â€Ã½kjjj"
+"i	CHAR	0
+	€ýkk
+|3,0,18,0,1,0,1747968400,"€ýkk"
 "j	CHAR	0
-	jj
-|3,0,19,0,1,0,1743222737,"jj"
+	j
+|3,0,19,0,1,0,1747968416,"j"
 "k	CHAR	0
-	€ýkk:q!€ü
-|3,0,20,0,1,0,1745117076,"€ýkk:q!€ü"
+	Â€Ã½kuIÂ€Ã½k
+|3,0,20,0,1,0,1745905950,"Â€Ã½kuIÂ€Ã½k"
+"q	CHAR	0
+	w€ýkkk
+|3,0,26,0,1,0,1747968414,"w€ýkkk"
 "w@	CHAR	0
-	$AÂ€kDÂ€kDÂ€Ã½kuÂ€Ã½kjkAÂ€Ã½khh
-|3,2,32,0,1,0,1743227352,"$AÂ€kDÂ€kDÂ€Ã½kuÂ€Ã½kjkAÂ€Ã½khh"
+	VYpf,hVy
+|3,2,32,0,1,0,1748214086,"VYpf,hVy"
 "x	CHAR	0
 	x
 |3,0,33,0,1,0,1738805092,"x"
-""-	CHAR	0
-	d
-|3,1,36,0,1,0,1745807267,"d"
+"-	CHAR	0
+	game
+|3,0,36,0,1,0,1748230032,"game"
 
 # File marks:
 'M  3  0  ~/core/code/network_game/client.c
 |4,77,3,0,1738556991,"~/core/code/network_game/client.c"
-'Z  44  5  ~/core/code/projectR/game.h
-|4,90,44,5,1745374095,"~/core/code/projectR/game.h"
-'0  4  0  ~/core/shared/vault/book_reports/computer_networks.md
-|4,48,4,0,1745807287,"~/core/shared/vault/book_reports/computer_networks.md"
-'1  1  0  ~/core/latex/computerInfancy.txt
-|4,49,1,0,1745788760,"~/core/latex/computerInfancy.txt"
-'2  104  69  ~/.vimrc
-|4,50,104,69,1745788756,"~/.vimrc"
-'3  7  13  ~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java
-|4,51,7,13,1745788749,"~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java"
-'4  47  0  ~/core/code/projectR/game.c
-|4,52,47,0,1745788743,"~/core/code/projectR/game.c"
-'5  36  0  ~/core/code/projectR/game.c
-|4,53,36,0,1745788726,"~/core/code/projectR/game.c"
-'6  36  0  ~/core/code/projectR/game.c
-|4,54,36,0,1745788726,"~/core/code/projectR/game.c"
-'7  68  21  ~/core/code/projectR/game.c
-|4,55,68,21,1745788482,"~/core/code/projectR/game.c"
-'8  68  21  ~/core/code/projectR/game.c
-|4,56,68,21,1745788482,"~/core/code/projectR/game.c"
-'9  68  21  ~/core/code/projectR/game.c
-|4,57,68,21,1745788482,"~/core/code/projectR/game.c"
+'Z  209  5  ~/core/code/projectR/src/networking.c
+|4,90,209,5,1748204832,"~/core/code/projectR/src/networking.c"
+'0  27  58  ~/.vimrc
+|4,48,27,58,1748245734,"~/.vimrc"
+'1  219  4  ~/core/code/projectR/src/networking.c
+|4,49,219,4,1748230148,"~/core/code/projectR/src/networking.c"
+'2  12  23  ~/core/code/projectR/Makefile
+|4,50,12,23,1748230022,"~/core/code/projectR/Makefile"
+'3  103  4  ~/core/code/projectR/src/base.h
+|4,51,103,4,1748214954,"~/core/code/projectR/src/base.h"
+'4  103  4  ~/core/code/projectR/src/base.h
+|4,52,103,4,1748214954,"~/core/code/projectR/src/base.h"
+'5  10  0  ~/core/code
+|4,53,10,0,1748213954,"~/core/code"
+'6  10  0  ~/core/code
+|4,54,10,0,1748213954,"~/core/code"
+'7  117  8  ~/core/code/projectR/src/action.c
+|4,55,117,8,1748213932,"~/core/code/projectR/src/action.c"
+'8  116  8  ~/core/code/projectR/src/action.c
+|4,56,116,8,1748213932,"~/core/code/projectR/src/action.c"
+'9  61  23  ~/core/code/projectR/Makefile
+|4,57,61,23,1748206815,"~/core/code/projectR/Makefile"
 
 # Jumplist (newest first):
--'  4  0  ~/core/shared/vault/book_reports/computer_networks.md
-|4,39,4,0,1745807287,"~/core/shared/vault/book_reports/computer_networks.md"
--'  132  2  ~/core/shared/vault/book_reports/computer_networks.md
-|4,39,132,2,1745807286,"~/core/shared/vault/book_reports/computer_networks.md"
--'  1  0  ~/core/latex/computerInfancy.txt
-|4,39,1,0,1745788760,"~/core/latex/computerInfancy.txt"
--'  1  0  ~/core/latex/computerInfancy.txt
-|4,39,1,0,1745788760,"~/core/latex/computerInfancy.txt"
--'  104  69  ~/.vimrc
-|4,39,104,69,1745788756,"~/.vimrc"
--'  104  69  ~/.vimrc
-|4,39,104,69,1745788756,"~/.vimrc"
--'  104  69  ~/.vimrc
-|4,39,104,69,1745788756,"~/.vimrc"
--'  104  69  ~/.vimrc
-|4,39,104,69,1745788756,"~/.vimrc"
--'  7  13  ~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java
-|4,39,7,13,1745788749,"~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java"
--'  7  13  ~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java
-|4,39,7,13,1745788749,"~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java"
--'  7  13  ~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java
-|4,39,7,13,1745788749,"~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java"
--'  7  13  ~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java
-|4,39,7,13,1745788749,"~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java"
--'  47  0  ~/core/code/projectR/game.c
-|4,39,47,0,1745788743,"~/core/code/projectR/game.c"
--'  47  0  ~/core/code/projectR/game.c
-|4,39,47,0,1745788743,"~/core/code/projectR/game.c"
--'  47  0  ~/core/code/projectR/game.c
-|4,39,47,0,1745788743,"~/core/code/projectR/game.c"
--'  47  0  ~/core/code/projectR/game.c
-|4,39,47,0,1745788743,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788727,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788727,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788727,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788727,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
--'  36  0  ~/core/code/projectR/game.c
-|4,39,36,0,1745788726,"~/core/code/projectR/game.c"
+-'  27  58  ~/.vimrc
+|4,39,27,58,1748245734,"~/.vimrc"
 -'  1  0  ~/.vimrc
-|4,39,1,0,1745788713,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1745788713,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1745788713,"~/.vimrc"
--'  1  0  ~/.vimrc
-|4,39,1,0,1745788713,"~/.vimrc"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  79  12  ~/core/code/projectR/game.c
-|4,39,79,12,1745788486,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788483,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788483,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788483,"~/core/code/projectR/game.c"
--'  1  0  ~/core/code/projectR/game.c
-|4,39,1,0,1745788483,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  68  21  ~/core/code/projectR/game.c
-|4,39,68,21,1745788482,"~/core/code/projectR/game.c"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  106  0  ~/.vimrc
-|4,39,106,0,1745788479,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
--'  3  0  ~/.vimrc
-|4,39,3,0,1745788471,"~/.vimrc"
+|4,39,1,0,1748245717,"~/.vimrc"
+-'  219  4  ~/core/code/projectR/src/networking.c
+|4,39,219,4,1748230148,"~/core/code/projectR/src/networking.c"
+-'  219  4  ~/core/code/projectR/src/networking.c
+|4,39,219,4,1748230148,"~/core/code/projectR/src/networking.c"
+-'  12  23  ~/core/code/projectR/Makefile
+|4,39,12,23,1748230022,"~/core/code/projectR/Makefile"
+-'  12  23  ~/core/code/projectR/Makefile
+|4,39,12,23,1748230022,"~/core/code/projectR/Makefile"
+-'  1  0  ~/core/code/projectR/Makefile
+|4,39,1,0,1748229996,"~/core/code/projectR/Makefile"
+-'  1  0  ~/core/code/projectR/Makefile
+|4,39,1,0,1748229996,"~/core/code/projectR/Makefile"
+-'  2  0  ~/core/code/projectR/src/networking.c
+|4,39,2,0,1748218576,"~/core/code/projectR/src/networking.c"
+-'  2  0  ~/core/code/projectR/src/networking.c
+|4,39,2,0,1748218576,"~/core/code/projectR/src/networking.c"
+-'  169  0  ~/core/code/projectR/src
+|4,39,169,0,1748218574,"~/core/code/projectR/src"
+-'  169  0  ~/core/code/projectR/src
+|4,39,169,0,1748218574,"~/core/code/projectR/src"
+-'  1  0  ~/core/code/projectR/src
+|4,39,1,0,1748218572,"~/core/code/projectR/src"
+-'  1  0  ~/core/code/projectR/src
+|4,39,1,0,1748218572,"~/core/code/projectR/src"
+-'  103  4  ~/core/code/projectR/src/base.h
+|4,39,103,4,1748214954,"~/core/code/projectR/src/base.h"
+-'  103  4  ~/core/code/projectR/src/base.h
+|4,39,103,4,1748214954,"~/core/code/projectR/src/base.h"
+-'  103  4  ~/core/code/projectR/src/base.h
+|4,39,103,4,1748214954,"~/core/code/projectR/src/base.h"
+-'  103  4  ~/core/code/projectR/src/base.h
+|4,39,103,4,1748214954,"~/core/code/projectR/src/base.h"
+-'  103  4  ~/core/code/projectR/src/base.h
+|4,39,103,4,1748214954,"~/core/code/projectR/src/base.h"
+-'  103  4  ~/core/code/projectR/src/base.h
+|4,39,103,4,1748214954,"~/core/code/projectR/src/base.h"
+-'  99  4  ~/core/code/projectR/src/base.h
+|4,39,99,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  109  4  ~/core/code/projectR/src/base.h
+|4,39,109,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  99  4  ~/core/code/projectR/src/base.h
+|4,39,99,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  109  4  ~/core/code/projectR/src/base.h
+|4,39,109,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  99  4  ~/core/code/projectR/src/base.h
+|4,39,99,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  109  4  ~/core/code/projectR/src/base.h
+|4,39,109,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  99  4  ~/core/code/projectR/src/base.h
+|4,39,99,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  109  4  ~/core/code/projectR/src/base.h
+|4,39,109,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  99  4  ~/core/code/projectR/src/base.h
+|4,39,99,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  109  4  ~/core/code/projectR/src/base.h
+|4,39,109,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  99  4  ~/core/code/projectR/src/base.h
+|4,39,99,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  109  4  ~/core/code/projectR/src/base.h
+|4,39,109,4,1748214848,"~/core/code/projectR/src/base.h"
+-'  98  0  ~/core/code/projectR/src/base.h
+|4,39,98,0,1748214724,"~/core/code/projectR/src/base.h"
+-'  104  4  ~/core/code/projectR/src/base.h
+|4,39,104,4,1748214724,"~/core/code/projectR/src/base.h"
+-'  98  0  ~/core/code/projectR/src/base.h
+|4,39,98,0,1748214724,"~/core/code/projectR/src/base.h"
+-'  104  4  ~/core/code/projectR/src/base.h
+|4,39,104,4,1748214724,"~/core/code/projectR/src/base.h"
+-'  98  0  ~/core/code/projectR/src/base.h
+|4,39,98,0,1748214724,"~/core/code/projectR/src/base.h"
+-'  104  4  ~/core/code/projectR/src/base.h
+|4,39,104,4,1748214724,"~/core/code/projectR/src/base.h"
+-'  98  0  ~/core/code/projectR/src/base.h
+|4,39,98,0,1748214724,"~/core/code/projectR/src/base.h"
+-'  104  4  ~/core/code/projectR/src/base.h
+|4,39,104,4,1748214724,"~/core/code/projectR/src/base.h"
+-'  98  0  ~/core/code/projectR/src/base.h
+|4,39,98,0,1748214724,"~/core/code/projectR/src/base.h"
+-'  104  4  ~/core/code/projectR/src/base.h
+|4,39,104,4,1748214724,"~/core/code/projectR/src/base.h"
+-'  98  0  ~/core/code/projectR/src/base.h
+|4,39,98,0,1748214724,"~/core/code/projectR/src/base.h"
+-'  104  4  ~/core/code/projectR/src/base.h
+|4,39,104,4,1748214724,"~/core/code/projectR/src/base.h"
+-'  52  82  ~/core/code/projectR/src/base.h
+|4,39,52,82,1748214701,"~/core/code/projectR/src/base.h"
+-'  1  0  ~/core/code/projectR/src/base.h
+|4,39,1,0,1748214701,"~/core/code/projectR/src/base.h"
+-'  52  82  ~/core/code/projectR/src/base.h
+|4,39,52,82,1748214701,"~/core/code/projectR/src/base.h"
+-'  1  0  ~/core/code/projectR/src/base.h
+|4,39,1,0,1748214701,"~/core/code/projectR/src/base.h"
+-'  52  82  ~/core/code/projectR/src/base.h
+|4,39,52,82,1748214701,"~/core/code/projectR/src/base.h"
+-'  1  0  ~/core/code/projectR/src/base.h
+|4,39,1,0,1748214701,"~/core/code/projectR/src/base.h"
+-'  52  82  ~/core/code/projectR/src/base.h
+|4,39,52,82,1748214701,"~/core/code/projectR/src/base.h"
+-'  1  0  ~/core/code/projectR/src/base.h
+|4,39,1,0,1748214701,"~/core/code/projectR/src/base.h"
+-'  52  82  ~/core/code/projectR/src/base.h
+|4,39,52,82,1748214701,"~/core/code/projectR/src/base.h"
+-'  1  0  ~/core/code/projectR/src/base.h
+|4,39,1,0,1748214701,"~/core/code/projectR/src/base.h"
+-'  52  82  ~/core/code/projectR/src/base.h
+|4,39,52,82,1748214701,"~/core/code/projectR/src/base.h"
+-'  1  0  ~/core/code/projectR/src/base.h
+|4,39,1,0,1748214701,"~/core/code/projectR/src/base.h"
+-'  204  0  ~/core/code/projectR/src
+|4,39,204,0,1748214699,"~/core/code/projectR/src"
+-'  12  0  ~/core/code/projectR/src
+|4,39,12,0,1748214699,"~/core/code/projectR/src"
+-'  12  0  ~/core/code/projectR/src
+|4,39,12,0,1748214699,"~/core/code/projectR/src"
+-'  204  0  ~/core/code/projectR/src
+|4,39,204,0,1748214699,"~/core/code/projectR/src"
+-'  12  0  ~/core/code/projectR/src
+|4,39,12,0,1748214699,"~/core/code/projectR/src"
+-'  12  0  ~/core/code/projectR/src
+|4,39,12,0,1748214699,"~/core/code/projectR/src"
+-'  203  0  ~/core/code/projectR/src
+|4,39,203,0,1748214698,"~/core/code/projectR/src"
+-'  11  0  ~/core/code/projectR/src
+|4,39,11,0,1748214698,"~/core/code/projectR/src"
+-'  11  0  ~/core/code/projectR/src
+|4,39,11,0,1748214698,"~/core/code/projectR/src"
+-'  203  0  ~/core/code/projectR/src
+|4,39,203,0,1748214698,"~/core/code/projectR/src"
+-'  11  0  ~/core/code/projectR/src
+|4,39,11,0,1748214698,"~/core/code/projectR/src"
+-'  11  0  ~/core/code/projectR/src
+|4,39,11,0,1748214698,"~/core/code/projectR/src"
+-'  18  11  ~/core/code/projectR/src/input.h
+|4,39,18,11,1748214697,"~/core/code/projectR/src/input.h"
+-'  18  11  ~/core/code/projectR/src/input.h
+|4,39,18,11,1748214697,"~/core/code/projectR/src/input.h"
+-'  18  11  ~/core/code/projectR/src/input.h
+|4,39,18,11,1748214697,"~/core/code/projectR/src/input.h"
+-'  18  11  ~/core/code/projectR/src/input.h
+|4,39,18,11,1748214697,"~/core/code/projectR/src/input.h"
+-'  18  11  ~/core/code/projectR/src/input.h
+|4,39,18,11,1748214697,"~/core/code/projectR/src/input.h"
+-'  18  11  ~/core/code/projectR/src/input.h
+|4,39,18,11,1748214697,"~/core/code/projectR/src/input.h"
+-'  20  4  ~/core/code/projectR/src/input.h
+|4,39,20,4,1748214154,"~/core/code/projectR/src/input.h"
+-'  20  4  ~/core/code/projectR/src/input.h
+|4,39,20,4,1748214154,"~/core/code/projectR/src/input.h"
+-'  20  4  ~/core/code/projectR/src/input.h
+|4,39,20,4,1748214154,"~/core/code/projectR/src/input.h"
+-'  20  4  ~/core/code/projectR/src/input.h
+|4,39,20,4,1748214154,"~/core/code/projectR/src/input.h"
+-'  20  4  ~/core/code/projectR/src/input.h
+|4,39,20,4,1748214154,"~/core/code/projectR/src/input.h"
+-'  20  4  ~/core/code/projectR/src/input.h
+|4,39,20,4,1748214154,"~/core/code/projectR/src/input.h"
+-'  29  4  ~/core/code/projectR/src/input.h
+|4,39,29,4,1748214080,"~/core/code/projectR/src/input.h"
+-'  29  4  ~/core/code/projectR/src/input.h
+|4,39,29,4,1748214080,"~/core/code/projectR/src/input.h"
+-'  29  4  ~/core/code/projectR/src/input.h
+|4,39,29,4,1748214080,"~/core/code/projectR/src/input.h"
+-'  29  4  ~/core/code/projectR/src/input.h
+|4,39,29,4,1748214080,"~/core/code/projectR/src/input.h"
+-'  29  4  ~/core/code/projectR/src/input.h
+|4,39,29,4,1748214080,"~/core/code/projectR/src/input.h"
+-'  29  4  ~/core/code/projectR/src/input.h
+|4,39,29,4,1748214080,"~/core/code/projectR/src/input.h"
+-'  296  0  ~/core/code/projectR/src
+|4,39,296,0,1748213959,"~/core/code/projectR/src"
+-'  104  0  ~/core/code/projectR/src
+|4,39,104,0,1748213959,"~/core/code/projectR/src"
+-'  104  0  ~/core/code/projectR/src
+|4,39,104,0,1748213959,"~/core/code/projectR/src"
+-'  296  0  ~/core/code/projectR/src
+|4,39,296,0,1748213959,"~/core/code/projectR/src"
+-'  104  0  ~/core/code/projectR/src
+|4,39,104,0,1748213959,"~/core/code/projectR/src"
+-'  104  0  ~/core/code/projectR/src
+|4,39,104,0,1748213959,"~/core/code/projectR/src"
+-'  1  0  ~/core/code/projectR/src
+|4,39,1,0,1748213958,"~/core/code/projectR/src"
+-'  1  0  ~/core/code/projectR/src
+|4,39,1,0,1748213958,"~/core/code/projectR/src"
+-'  1  0  ~/core/code/projectR/src
+|4,39,1,0,1748213958,"~/core/code/projectR/src"
+-'  1  0  ~/core/code/projectR/src
+|4,39,1,0,1748213958,"~/core/code/projectR/src"
+-'  10  0  ~/core/code
+|4,39,10,0,1748213954,"~/core/code"
+-'  10  0  ~/core/code
+|4,39,10,0,1748213954,"~/core/code"
+-'  10  0  ~/core/code
+|4,39,10,0,1748213954,"~/core/code"
+-'  10  0  ~/core/code
+|4,39,10,0,1748213954,"~/core/code"
 
 # History of marks within files (newest to oldest):
 
-> ~/core/shared/vault/book_reports/computer_networks.md
-	*	1745807287	0
-	"	4	0
-	.	132	0
-	+	132	319
-	+	132	0
-	+	132	372
-	+	132	0
-	+	132	176
-	+	132	0
-	+	132	194
-	+	132	0
-	+	132	91
-	+	132	347
-	+	132	0
-	+	132	398
-	+	132	304
-	+	132	139
-	+	132	458
-	+	132	0
-	+	132	14
-	+	132	91
-	+	132	0
-	+	132	272
-	+	132	0
-	+	132	863
-	+	132	529
-	+	132	10
-	+	132	5
-	+	132	0
-	+	132	72
-	+	132	93
-	+	132	60
-	+	132	2
-	+	132	0
-	+	132	163
-	+	132	243
-	+	132	0
-	+	132	327
-	+	132	455
-	+	132	0
-	+	132	302
-	+	132	0
-	+	132	108
-	+	132	0
-	+	132	67
-	+	132	438
-	+	132	506
-	+	132	574
-	+	132	738
-	+	132	638
-	+	132	1051
-	+	132	304
-	+	132	114
-	+	132	627
-	+	132	390
-	+	132	656
-	+	132	528
-	+	132	385
-	+	132	0
-	+	132	483
-	+	132	343
-	+	132	247
-	+	132	60
-	+	132	0
-	+	132	254
-	+	132	0
-	+	132	261
-	+	132	0
-	+	132	586
-	+	132	500
-	+	132	753
-	+	132	374
-	+	132	96
-	+	132	227
-	+	132	420
-	+	132	0
-	+	132	164
-	+	132	174
-	+	132	465
-	+	132	372
-	+	132	627
-	+	132	309
-	+	132	271
-	+	132	567
-	+	132	0
-	+	132	352
-	+	132	60
-	+	132	1150
-	+	132	0
-	+	132	1081
-	+	132	299
-	+	132	0
-	+	132	302
-	+	132	0
+> ~/.vimrc
+	*	1748245733	0
+	"	27	58
+	^	27	59
+	.	27	58
+	+	60	74
+	+	60	0
+	+	60	88
+	+	60	0
+	+	60	54
+	+	60	0
+	+	59	0
+	+	60	83
+	+	60	78
+	+	60	83
+	+	60	0
+	+	60	23
+	+	60	0
+	+	60	18
+	+	60	16
+	+	60	15
+	+	60	13
+	+	60	22
+	+	60	18
+	+	60	14
+	+	60	15
+	+	60	17
+	+	60	18
+	+	60	0
+	+	60	6
+	+	114	0
+	+	60	0
+	+	60	5
+	+	60	0
+	+	61	0
+	+	60	0
+	+	60	18
+	+	60	0
+	+	60	17
+	+	60	0
+	+	114	0
+	+	102	0
+	+	114	0
+	+	103	0
+	+	114	0
+	+	105	0
+	+	113	0
+	+	101	22
+	+	114	0
+	+	103	0
+	+	101	0
+	+	107	0
+	+	106	0
+	+	107	0
+	+	109	64
+	+	108	64
+	+	110	64
+	+	111	69
+	+	114	7
+	+	114	31
+	+	109	64
+	+	111	69
+	+	111	70
+	+	109	64
+	+	114	0
+	+	114	31
+	+	114	0
+	+	110	64
+	+	109	70
+	+	110	64
+	+	113	5
+	+	112	0
+	+	113	0
+	+	111	64
+	+	110	64
+	+	111	64
+	+	51	9
+	+	29	0
+	+	30	13
+	+	31	27
+	+	31	28
+	+	31	98
+	+	32	0
+	+	31	38
+	+	13	13
+	+	61	70
+	+	61	0
+	+	61	85
+	+	62	70
+	+	60	0
+	+	66	0
+	+	65	0
+	+	66	44
+	+	29	0
+	+	59	1
+	+	66	77
+	+	78	0
+	+	89	67
+	+	97	81
+	+	98	81
+	+	77	0
+	+	13	0
+	+	59	0
+	+	28	0
+	+	27	58
 
-> ~/core/latex/computerInfancy.txt
-	*	1745788759	0
-	"	1	0
+> ~/core/code/projectR/src/networking.c
+	*	1748230147	0
+	"	219	4
+	^	198	29
+	.	223	4
+	+	262	0
+	+	287	0
+	+	262	0
+	+	287	0
+	+	206	0
+	+	204	36
+	+	207	0
+	+	209	0
+	+	212	0
+	+	213	0
+	+	209	33
+	+	213	0
+	+	215	0
+	+	217	0
+	+	239	0
+	+	216	20
+	+	209	0
+	+	201	38
+	+	200	0
+	+	220	0
+	+	214	0
+	+	222	0
+	+	221	0
+	+	226	0
+	+	225	0
+	+	234	4
+	+	169	0
+	+	170	22
+	+	238	0
+	+	237	0
+	+	240	0
+	+	239	16
+	+	242	0
+	+	241	0
+	+	255	0
+	+	243	0
+	+	105	90
+	+	105	0
+	+	257	0
+	+	256	0
+	+	262	0
+	+	258	0
+	+	259	10
+	+	258	7
+	+	169	0
+	+	259	44
+	+	258	17
+	+	259	57
+	+	258	55
+	+	261	0
+	+	122	20
+	+	123	29
+	+	124	0
+	+	260	32
+	+	261	0
+	+	263	0
+	+	287	0
+	+	284	0
+	+	285	16
+	+	288	0
+	+	266	0
+	+	265	0
+	+	266	40
+	+	269	0
+	+	267	0
+	+	168	0
+	+	167	0
+	+	166	0
+	+	266	112
+	+	264	0
+	+	266	73
+	+	268	5
+	+	266	14
+	+	161	15
+	+	287	0
+	+	9	0
+	+	167	21
+	+	266	49
+	+	273	20
+	+	237	0
+	+	159	0
+	+	206	12
+	+	201	82
+	+	204	0
+	+	207	0
+	+	205	0
+	+	276	82
+	+	277	20
+	+	198	0
+	+	199	0
+	+	198	28
+	+	218	18
+	+	223	4
+	a	105	6
+	m	111	12
 
-> ~/core/code/java_learning/src4/src/main/java/com/example/demo/DemoApplication.java
-	*	1745788748	0
-	"	7	13
-
-> ~/core/code/projectR/game.c
-	*	1745788741	0
-	"	47	0
-	.	50	0
-	+	104	0
-	+	104	92
-	+	109	75
-	+	93	0
-	+	69	0
-	+	136	0
-	+	26	0
-	+	136	0
-	+	34	0
+> ~/core/code/projectR/src/game.c
+	*	1748230147	0
+	"	3	14
+	^	3	15
+	.	3	14
+	+	79	62
+	+	81	62
+	+	79	69
+	+	81	69
+	+	146	38
+	+	148	25
+	+	149	28
+	+	148	24
+	+	149	33
+	+	154	23
+	+	148	24
+	+	149	28
+	+	148	30
+	+	149	34
+	+	154	46
+	+	158	0
+	+	160	73
+	+	164	31
+	+	173	48
+	+	174	48
+	+	175	48
+	+	185	58
+	+	187	79
+	+	190	35
+	+	199	100
+	+	62	41
+	+	67	51
+	+	146	45
+	+	136	41
+	+	127	72
+	+	135	24
+	+	137	28
+	+	138	50
+	+	139	28
+	+	141	28
+	+	58	43
+	+	67	43
+	+	58	0
+	+	51	0
+	+	56	0
+	+	51	0
+	+	58	8
+	+	58	94
+	+	58	0
+	+	58	112
+	+	58	0
+	+	46	0
+	+	53	38
+	+	46	72
+	+	124	16
+	+	123	23
+	+	58	59
+	+	58	12
+	+	58	15
+	+	58	117
+	+	58	65
+	+	58	13
+	+	58	12
+	+	46	82
+	+	44	95
+	+	53	30
+	+	119	15
+	+	120	14
+	+	119	47
+	+	47	0
 	+	51	0
 	+	50	0
-	+	61	0
-	+	104	0
-	+	136	0
-	+	36	0
-	+	35	0
-	+	36	0
-	+	124	0
-	+	124	19
-	+	129	0
-	+	125	118
-	+	129	0
-	+	127	0
-	+	129	0
-	+	107	0
-	+	106	0
-	+	107	0
-	+	106	0
-	+	107	0
-	+	109	0
-	+	111	0
-	+	118	0
-	+	120	0
-	+	118	79
-	+	104	0
-	+	18	33
-	+	19	0
-	+	20	0
-	+	21	14
-	+	19	0
-	+	104	0
-	+	22	0
-	+	21	0
-	+	22	25
-	+	131	0
-	+	130	0
-	+	131	47
-	+	135	0
-	+	132	64
-	+	133	65
-	+	132	33
-	+	133	34
-	+	132	18
-	+	133	18
-	+	132	33
-	+	133	56
-	+	132	50
-	+	133	57
-	+	132	72
-	+	133	73
-	+	134	50
-	+	127	48
-	+	128	40
-	+	133	53
-	+	127	31
-	+	128	31
-	+	133	91
-	+	109	0
-	+	133	0
-	+	109	6
-	+	109	5
-	+	109	89
-	+	109	5
-	+	109	0
-	+	105	47
-	+	118	151
-	+	116	5
-	+	118	154
-	+	120	155
-	+	105	14
-	+	21	0
-	+	20	41
-	+	100	13
-	+	101	13
-	+	116	4
-	+	101	45
-	+	100	64
-	+	104	0
-	+	118	151
-	+	118	55
-	+	118	152
-	+	116	4
-	+	50	0
-	a	113	5
-
-> ~/.vimrc
-	*	1745788723	0
-	"	104	69
-	^	103	70
-	.	104	64
-	+	97	69
-	+	97	72
-	+	43	3
-	+	30	0
-	+	43	3
-	+	2	0
-	+	1	6
-	+	43	0
-	+	44	16
-	+	43	0
-	+	44	20
-	+	25	0
-	+	44	0
-	+	45	4
-	+	44	14
-	+	44	1
-	+	44	0
-	+	45	0
-	+	44	0
-	+	97	0
-	+	107	0
-	+	93	6
-	+	9	0
-	+	10	4
-	+	55	55
-	+	55	65
-	+	55	0
-	+	55	79
-	+	55	74
-	+	55	0
-	+	55	88
-	+	55	0
-	+	55	54
-	+	55	0
-	+	52	0
-	+	55	83
-	+	55	78
-	+	55	83
-	+	55	0
+	+	48	0
 	+	54	0
-	+	55	23
-	+	55	0
-	+	55	18
-	+	55	16
-	+	55	15
-	+	55	13
-	+	55	22
-	+	55	18
-	+	55	14
-	+	55	15
-	+	55	17
-	+	55	18
-	+	55	0
-	+	55	6
-	+	107	0
-	+	55	0
-	+	55	5
-	+	55	0
-	+	56	0
-	+	55	0
-	+	55	18
-	+	55	0
-	+	55	17
-	+	55	0
-	+	107	0
-	+	95	0
-	+	107	0
-	+	96	0
-	+	107	0
-	+	98	0
-	+	106	0
-	+	94	22
-	+	107	0
-	+	96	0
-	+	94	0
-	+	100	0
-	+	99	0
-	+	100	0
-	+	102	64
-	+	101	64
-	+	103	64
-	+	104	69
-	+	107	7
-	+	107	31
-	+	102	64
-	+	104	69
-	+	104	70
-	+	102	64
-	+	107	0
-	+	107	31
-	+	107	0
-	+	103	64
-	+	102	70
-	+	103	64
-	+	106	5
-	+	105	0
-	+	106	0
-	+	104	64
-	+	103	64
-	+	104	64
-
-> ~/.vim/syntax/custom.vim
-	*	1745787865	0
-	"	38	28
-	^	34	29
-	.	34	28
-	+	43	0
-	+	24	0
-	+	43	0
-	+	43	27
-	+	43	0
-	+	37	0
-	+	40	0
-	+	42	0
-	+	41	0
-	+	42	29
-	+	43	6
-	+	24	0
-	+	42	0
-	+	43	0
-	+	43	5
-	+	43	0
-	+	42	12
-	+	43	0
-	+	36	261
-	+	37	0
-	+	43	0
-	+	42	0
-	+	36	0
-	+	17	0
-	+	19	0
-	+	17	0
-	+	1	112
-	+	43	27
-	+	1	130
-	+	43	20
-	+	17	0
-	+	1	242
-	+	2	18
-	+	3	23
-	+	16	0
-	+	4	13
-	+	43	27
-	+	43	7
-	+	4	39
-	+	4	0
-	+	6	0
-	+	5	0
-	+	6	14
-	+	7	14
-	+	8	106
-	+	10	0
+	+	119	0
+	+	57	64
+	+	58	0
+	+	46	57
+	+	54	29
+	+	57	39
+	+	52	28
+	+	181	59
+	+	58	0
+	+	57	44
+	+	45	14
+	+	117	4
+	+	115	21
+	+	116	14
+	+	181	36
+	+	116	14
+	+	181	63
+	+	183	0
+	+	181	61
+	+	74	25
+	+	77	12
+	+	80	4
+	+	77	5
+	+	78	0
+	+	79	0
+	+	75	79
+	+	76	79
+	+	181	34
+	+	182	39
 	+	9	0
-	+	15	0
-	+	11	0
-	+	43	0
-	+	42	0
-	+	32	0
-	+	43	0
-	+	11	20
-	+	10	36
-	+	13	0
-	+	12	3
-	+	13	0
-	+	14	0
-	+	15	63
-	+	43	0
-	+	42	0
-	+	34	19
-	+	42	0
-	+	34	18
-	+	42	5
-	+	34	18
-	+	42	0
-	+	34	19
-	+	42	11
-	+	42	9
-	+	34	20
-	+	42	0
-	+	34	20
-	+	1	0
-	+	42	0
-	+	42	1
-	+	34	20
-	+	42	12
-	+	42	0
-	+	42	1
-	+	42	0
-	+	34	26
-	+	35	0
-	+	34	25
-	+	42	0
-	+	43	0
-	+	34	28
+	+	3	14
+	a	149	34
 
-> ~/core/code/projectR/game.h
-	*	1745787516	0
-	"	16	0
-	^	47	20
-	.	44	0
+> ~/core/code/projectR/src/sound.c
+	*	1748230146	0
+	"	14	22
+	^	15	30
+	.	15	29
+	+	7	0
+	+	1	9
+	+	24	0
+	+	8	17
 	+	12	0
-	+	12	20
-	+	12	9
-	+	12	28
-	+	12	10
-	+	12	20
+	+	10	0
+	+	6	0
+	+	3	16
+	+	5	31
+	+	10	10
+	+	9	17
+	+	10	51
+	+	11	45
 	+	12	0
-	+	12	3
-	+	12	0
-	+	12	7
-	+	12	13
-	+	12	5
-	+	12	6
-	+	12	12
-	+	12	8
-	+	12	0
-	+	12	6
-	+	12	10
-	+	12	7
-	+	12	9
-	+	12	13
-	+	12	0
-	+	12	15
-	+	12	14
-	+	12	0
-	+	12	8
-	+	12	9
-	+	5	15
-	+	12	0
-	+	12	47
-	+	12	23
-	+	29	0
-	+	29	30
-	+	30	24
-	+	29	13
-	+	30	13
-	+	29	0
-	+	31	0
-	+	45	37
-	+	46	32
-	+	48	29
-	+	5	0
-	+	12	0
-	+	1	0
-	+	49	0
-	+	6	25
-	+	12	0
-	+	48	0
-	+	48	30
-	+	48	29
-	+	48	24
-	+	48	25
-	+	48	35
-	+	44	31
-	+	45	50
-	+	48	0
-	+	48	14
-	+	48	0
-	+	48	41
 	+	19	0
 	+	18	0
-	+	20	0
-	+	19	49
-	+	20	36
-	+	9	0
-	+	10	0
-	+	8	24
-	+	19	32
-	+	20	49
-	+	19	51
-	+	20	51
-	+	8	0
-	+	20	0
-	+	22	0
-	+	21	0
-	+	22	28
+	+	19	6
+	+	24	0
 	+	23	0
-	+	22	36
-	+	23	36
-	+	44	0
-	+	48	0
-	+	42	0
-	+	44	0
-	+	43	0
-	+	41	0
-	+	47	0
-	+	48	0
-	+	47	19
-	+	46	0
-	+	45	0
-	+	44	0
-
-> ~/core/code/projectR/character_common.h
-	*	1745787515	0
-	"	7	0
-	^	27	21
-	.	27	20
-	+	4	0
-	+	21	0
-	+	20	0
-	+	33	0
-	+	11	0
-	+	10	0
-	+	6	0
-	+	5	0
-	+	1	0
-	+	3	0
-	+	2	0
-	+	35	5
-	+	27	0
-	+	26	0
-	+	27	20
-
-> ~/core/shared/vault/book_reports/test
-	*	1745786854	0
-	"	1	1
-	^	1	2
-	.	1	1
-	+	1	1
-
-> /usr/share/vim/vim90/doc/autocmd.txt
-	*	1745786138	0
-	"	373	0
-
-> /usr/share/vim/vim90/doc/help.txt
-	*	1745785943	0
-	"	141	53
-
-> ~/core/ucsc/Math115/Final/Final.pdf
-	*	1745734684	0
-	"	1	0
-
-> ~/core/ucsc/Math111a/problem_list.md
-	*	1745734668	0
-	"	10	22
-
-> ~/core/code/java_learning/src4/src/main/java/com/example/demo/WebController.java
-	*	1745728533	0
-	"	23	0
-
-> ~/core/code/java_learning/src4/NetrwTreeListing
-	*	1745728483	0
-	"	9	0
-	.	9	0
-	+	1	0
-	+	15	0
-	+	1	0
-	+	9	0
-
-> ~/core/code/java_learning/src4/mvnw.cmd
-	*	1745728365	0
-	"	145	0
-
-> ~/core/code/java_learning/src4/HELP.md
-	*	1745728357	0
-	"	18	0
-
-> ~/core/code/projectR/main.c
-	*	1745721102	0
-	"	63	13
-	.	61	0
-	+	22	0
-	+	10	0
-	+	28	3
-	+	37	0
-	+	62	21
-	+	47	0
-	+	45	19
-	+	47	24
-	+	62	0
-	+	59	0
-	+	37	0
-	+	27	0
-	+	37	56
-	+	48	24
-	+	37	27
-	+	27	20
-	+	37	0
-	+	27	0
-	+	27	31
-	+	45	30
-	+	27	34
-	+	27	0
-	+	27	34
-	+	12	0
-	+	27	0
-	+	37	0
-	+	27	0
-	+	29	66
-	+	30	0
-	+	37	0
-	+	30	50
-	+	36	0
-	+	37	0
-	+	29	0
-	+	36	0
-	+	32	40
-	+	45	42
-	+	47	47
-	+	32	33
-	+	32	27
-	+	29	56
-	+	30	0
-	+	32	23
-	+	45	65
-	+	45	127
-	+	47	42
-	+	46	28
-	+	45	26
-	+	46	26
-	+	45	0
-	+	47	23
-	+	48	9
-	+	48	41
-	+	48	40
-	+	48	0
-	+	48	9
-	+	48	0
-	+	45	0
-	+	46	0
-	+	44	0
-	+	33	16
-	+	34	39
-	+	36	0
-	+	35	38
-	+	48	0
-	+	24	49
-	+	65	4
-	+	54	33
-	+	65	29
-	+	66	23
-	+	16	4
-	+	14	0
-	+	19	0
+	+	22	4
+	+	21	30
 	+	17	0
-	+	55	0
-	+	56	0
-	+	54	0
-	+	23	35
-	+	49	33
-	+	50	43
-	+	53	8
-	+	50	36
-	+	52	43
-	+	51	11
-	+	52	0
-	+	53	0
-	+	50	41
-	+	20	0
-	+	24	5
-	+	26	0
-	+	26	15
-	+	26	4
-	+	26	5
-	+	26	0
-	+	25	4
-	+	60	23
-	+	62	0
-	+	61	0
-	a	37	0
-
-> ~/core/code/projectR/character_common.c
-	*	1745720612	0
-	"	1	0
-	^	1	29
-	.	1	28
-	+	1	28
-
-> ~/core/shared/vault/ufo_50_reviews.md
-	*	1745637480	0
-	"	3	22
-	^	106	640
-	.	15	14
-	+	36	273
-	+	38	56
-	+	40	0
-	+	39	0
-	+	40	76
-	+	42	0
-	+	41	0
-	+	42	75
-	+	44	0
-	+	43	0
-	+	44	86
-	+	44	212
-	+	49	0
-	+	59	0
-	+	46	0
-	+	45	0
-	+	46	713
-	+	48	570
-	+	50	195
-	+	52	156
-	+	54	422
-	+	54	92
-	+	54	478
-	+	54	21
-	+	54	510
-	+	56	0
-	+	55	0
-	+	56	144
-	+	58	0
-	+	57	0
-	+	58	57
-	+	60	102
-	+	62	0
-	+	61	0
-	+	62	301
-	+	62	0
-	+	64	0
-	+	63	0
-	+	64	135
-	+	69	0
-	+	66	0
-	+	65	0
-	+	66	796
-	+	68	0
-	+	67	0
-	+	68	37
-	+	70	0
-	+	70	384
-	+	70	0
-	+	70	419
-	+	72	0
-	+	71	0
-	+	72	106
-	+	72	15
-	+	72	239
-	+	74	0
-	+	73	0
-	+	74	397
-	+	76	0
-	+	75	0
-	+	76	775
-	+	76	0
-	+	78	110
-	+	80	279
-	+	82	0
-	+	81	0
-	+	82	135
-	+	84	0
-	+	83	0
-	+	84	264
-	+	86	0
-	+	85	0
-	+	86	241
-	+	86	160
-	+	87	0
-	+	88	111
-	+	88	23
-	+	88	364
-	+	89	0
-	+	90	294
-	+	92	0
-	+	91	0
-	+	92	145
-	+	93	0
-	+	94	465
-	+	96	30
-	+	98	109
-	+	99	0
-	+	100	71
-	+	102	0
-	+	101	0
-	+	102	64
-	+	104	3
-	+	103	0
-	+	104	0
-	+	102	0
-	+	104	181
-	+	105	0
-	+	106	639
-	+	15	14
-	a	102	64
-
-> ~/core/shared/vault/daily_notes/2025-04-22.md
-	*	1745464916	0
-	"	11	12
-	^	12	13
-	.	12	12
-	+	67	0
-	+	55	10
-	+	57	16
-	+	57	19
-	+	89	10
-	+	90	0
-	+	47	17
-	+	49	0
-	+	50	9
-	+	51	17
-	+	91	0
-	+	89	15
-	+	89	18
-	+	89	13
-	+	89	20
-	+	89	14
-	+	89	18
-	+	89	27
-	+	89	0
-	+	90	19
-	+	90	24
-	+	75	0
-	+	30	0
-	+	34	0
-	+	31	24
-	+	32	13
-	+	33	26
-	+	28	0
-	+	27	0
-	+	26	20
-	+	57	0
-	+	36	0
-	+	90	0
-	+	48	0
-	+	90	0
-	+	52	0
-	+	53	15
-	+	54	0
-	+	57	31
-	+	58	11
-	+	65	0
-	+	89	0
-	+	60	0
-	+	89	0
-	+	61	20
-	+	60	0
-	+	61	0
-	+	63	0
-	+	89	0
-	+	62	0
-	+	89	0
-	+	65	0
-	+	61	0
-	+	59	7
-	+	60	0
-	+	63	9
-	+	65	0
-	+	89	0
-	+	65	0
-	+	66	13
-	+	88	0
-	+	67	10
-	+	68	0
-	+	89	0
-	+	68	0
-	+	69	13
-	+	70	25
-	+	75	6
-	+	81	0
-	+	75	0
-	+	71	0
-	+	75	10
-	+	75	0
-	+	55	0
-	+	57	0
-	+	72	0
-	+	74	0
-	+	73	39
-	+	75	5
-	+	76	7
-	+	77	9
-	+	78	25
-	+	89	0
-	+	79	15
-	+	65	0
-	+	81	0
-	+	64	26
-	+	80	9
-	+	81	0
-	+	82	29
-	+	83	28
-	+	84	9
-	+	88	0
-	+	84	9
-	+	88	0
-	+	89	0
-	+	85	0
-	+	87	11
-	+	89	0
-	+	12	12
-
-> ~/core/shared/vault/daily_notes/2025-04-23.md
-	*	1745464577	0
-	"	1	0
-
-> ~/core/code/raylib/include/raylib.h
-	*	1745464556	0
-	"	1432	71
-
-> ~/core/code/projectR/action.c
-	*	1745378786	0
-	"	10	0
-	^	161	20
-	.	175	17
-	+	48	24
-	+	50	24
-	+	42	45
-	+	47	44
-	+	11	17
-	+	12	14
-	+	13	22
-	+	13	4
-	+	13	0
-	+	20	0
-	+	22	7
-	+	23	0
-	+	21	0
-	+	23	36
-	+	24	34
-	+	28	8
-	+	26	37
-	+	27	33
-	+	28	0
-	+	29	0
-	+	5	0
-	+	23	36
-	+	24	33
-	+	26	35
-	+	27	34
-	+	34	73
-	+	38	43
-	+	64	0
-	+	63	0
-	+	71	0
-	+	73	0
-	+	76	71
-	+	80	38
-	+	105	0
-	+	114	43
-	+	118	73
-	+	122	73
-	+	150	0
-	+	152	48
-	+	164	47
-	+	164	46
-	+	164	48
-	+	164	47
-	+	151	0
-	+	179	0
-	+	178	0
-	+	151	0
-	+	150	0
-	+	151	0
-	+	8	0
-	+	9	148
-	+	152	44
-	+	164	43
-	+	164	42
-	+	164	44
-	+	164	0
-	+	152	66
-	+	164	0
-	+	156	0
-	+	165	0
-	+	160	0
-	+	156	14
-	+	158	18
-	+	160	15
-	+	162	18
-	+	160	48
-	+	156	46
-	+	152	47
-	+	153	20
-	+	157	17
-	+	161	17
-	+	143	0
-	+	142	0
-	+	144	19
-	+	145	24
-	+	149	0
-	+	147	23
-	+	148	24
-	+	111	18
-	+	108	18
-	+	66	0
-	+	24	0
-	+	168	0
-	+	172	0
-	+	177	0
-	+	168	0
-	+	153	19
-	+	157	18
-	+	161	18
-	+	167	0
-	+	171	0
-	+	175	0
-	+	167	16
-	+	171	17
-	+	175	17
-	a	44	16
-
-> ~/core/code/projectR/input.h
-	*	1745378708	0
-	"	11	0
-	^	9	77
-	.	9	57
-	+	9	0
-	+	49	0
-	+	53	0
-	+	14	0
-	+	13	12
-	+	14	0
-	+	13	7
-	+	14	0
-	+	27	0
-	+	24	0
-	+	25	0
-	+	26	0
-	+	24	15
-	+	25	14
-	+	26	15
-	+	27	0
-	+	13	8
-	+	14	10
-	+	50	16
-	+	30	0
-	+	29	0
-	+	30	20
-	+	47	36
-	+	31	14
-	+	32	0
-	+	39	0
-	+	38	0
-	+	40	0
-	+	52	0
-	+	50	46
-	+	52	32
-	+	50	28
-	+	51	35
-	+	30	0
-	+	19	27
-	+	21	0
-	+	1	0
-	+	14	0
+	+	16	24
 	+	11	0
+	+	15	29
+
+> ~/core/code/projectR/src/sound.h
+	*	1748230146	0
+	"	7	15
+	^	7	16
+	.	7	15
+	+	4	11
+	+	8	0
+	+	5	11
+	+	6	10
+	+	8	0
+	+	9	21
+	+	11	18
+	+	11	0
+	+	17	0
+	+	11	0
+	+	12	6
+	+	11	18
+	+	12	20
 	+	13	0
-	+	10	0
-	+	14	0
-	+	12	0
-	+	8	0
-	+	9	57
-
-> ~/core/code/projectR/action.h
-	*	1745374543	0
-	"	47	83
-	^	47	84
-	.	47	83
-	+	6	0
-	+	9	0
-	+	10	0
-	+	43	0
-	+	45	11
-	+	41	40
-	+	45	54
-	+	47	65
-	+	8	0
-	+	7	0
-	+	1	0
-	+	5	0
-	+	2	0
-	+	51	0
-	+	50	0
-	+	47	33
-	+	52	0
-	+	49	0
-	+	48	0
-	+	49	45
-	+	4	0
-	+	3	0
-	+	49	79
-	+	49	77
-	+	21	0
-	+	26	0
-	+	27	9
-	+	28	8
-	+	29	9
-	+	30	11
-	+	41	0
-	+	27	11
-	+	28	11
-	+	29	11
-	+	30	14
-	+	32	0
-	+	31	0
-	+	32	11
-	+	32	0
-	+	37	0
-	+	38	0
-	+	36	0
-	+	37	0
-	+	47	65
-	+	4	26
-	+	47	83
-
-> ~/core/code/projectR/input.c
-	*	1745374025	0
-	"	25	5
-	^	1	2
-	.	1	0
-	+	65	0
-	+	5	0
-	+	6	21
-	+	7	16
+	+	14	14
+	+	11	15
 	+	12	17
-	+	4	0
-	+	3	1
-	+	28	0
-	+	25	0
-	+	26	0
-	+	27	0
-	+	25	31
-	+	26	30
-	+	27	31
-	+	26	65
-	+	21	45
-	+	25	59
-	+	26	59
-	+	27	59
-	+	28	0
-	+	5	0
-	+	7	19
-	+	6	20
-	+	7	20
-	+	6	20
-	+	9	18
-	+	10	19
-	+	12	21
-	+	13	18
-	+	15	20
-	+	16	20
-	+	20	16
-	+	30	0
-	+	29	0
-	+	30	47
-	+	46	0
-	+	31	0
-	+	46	0
-	+	32	0
-	+	31	0
-	+	39	22
-	+	33	0
-	+	31	29
-	+	40	0
-	+	31	30
-	+	32	23
-	+	33	23
-	+	34	24
-	+	35	24
-	+	36	23
-	+	37	24
-	+	33	0
-	+	32	28
-	+	33	28
-	+	34	29
-	+	35	29
-	+	36	28
-	+	37	29
-	+	37	0
-	+	21	47
-	+	22	0
-	+	21	51
-	+	22	52
-	+	23	52
-	+	26	52
-	+	22	0
-	+	21	58
-	+	22	58
-	+	23	58
-	+	26	58
-	+	22	0
-	+	21	0
-	+	21	84
-	+	22	86
-	+	22	0
-	+	23	86
-	+	26	86
-	+	22	0
-	+	20	48
-	+	30	35
-	+	48	0
-	+	49	0
-	+	47	0
-	+	48	35
-	+	49	30
-	+	50	30
-	+	51	30
-	+	52	32
-	+	53	0
-	+	56	0
-	+	54	0
-	+	20	0
+	+	14	24
 	+	1	0
+	+	3	0
+	+	2	0
+	+	16	5
+	+	7	15
+
+> ~/core/code/projectR/src/main.c
+	*	1748230145	0
+	"	49	5
+	^	47	6
+	.	47	5
+	+	127	38
+	+	127	0
+	+	127	7
+	+	127	11
+	+	127	0
+	+	127	30
+	+	127	0
+	+	127	69
+	+	127	0
+	+	127	32
+	+	127	35
+	+	127	0
+	+	127	35
+	+	127	54
+	+	127	0
+	+	127	46
+	+	127	35
+	+	127	0
+	+	127	36
+	+	127	0
+	+	127	39
+	+	127	65
+	+	127	34
+	+	127	0
+	+	127	3
+	+	127	44
+	+	127	13
+	+	127	36
+	+	127	0
+	+	127	12
+	+	127	0
+	+	127	17
+	+	127	47
+	+	127	8
+	+	127	0
+	+	127	35
+	+	127	0
+	+	127	13
+	+	56	0
+	+	127	40
+	+	127	65
+	+	56	0
+	+	55	29
+	+	1	0
+	+	127	0
+	+	55	4
+	+	127	13
+	+	127	12
+	+	55	0
+	+	127	34
+	+	127	0
+	+	15	0
+	+	11	0
+	+	15	28
+	+	16	0
+	+	15	28
+	+	16	27
+	+	15	41
+	+	127	0
+	+	15	9
+	+	16	9
+	+	15	29
+	+	16	28
+	+	20	0
+	+	12	0
+	+	14	0
+	+	55	5
+	+	15	56
+	+	18	0
+	+	19	0
+	+	55	0
+	+	111	0
+	+	107	0
+	+	55	0
+	+	107	0
+	+	111	0
+	+	55	0
+	+	56	19
+	+	55	40
+	+	125	0
+	+	11	0
+	+	24	77
+	+	24	12
+	+	24	20
+	+	24	15
+	+	24	90
+	+	24	8
+	+	24	17
+	+	24	25
+	+	24	37
+	+	24	75
+	+	24	0
+	+	24	95
+	+	24	0
+	+	38	5
+	+	36	4
+	+	38	5
+	+	36	4
+	+	35	16
+	+	47	5
+
+> ~/core/code/projectR/src/base.h
+	*	1748230090	0
+	"	1	0
+	^	214	16
+	.	214	15
+	+	174	0
+	+	191	15
+	+	59	0
+	+	59	17
+	+	59	49
+	+	55	0
+	+	59	0
+	+	58	0
+	+	55	0
+	+	56	18
+	+	56	0
+	+	59	0
+	+	197	19
+	+	53	0
+	+	93	0
+	+	66	6
+	+	65	0
+	+	69	0
+	+	117	0
+	+	109	0
+	+	110	0
+	+	114	0
+	+	113	0
+	+	114	6
+	+	59	0
+	+	57	11
+	+	97	6
+	+	8	18
+	+	52	137
+	+	98	0
+	+	118	0
+	+	121	0
+	+	118	6
+	+	128	0
+	+	129	0
+	+	135	0
+	+	128	9
+	+	129	9
+	+	132	0
+	+	130	0
+	+	133	0
+	+	137	0
+	+	138	0
+	+	139	0
+	+	145	0
+	+	138	9
+	+	139	9
+	+	142	0
+	+	140	0
+	+	126	10
+	+	133	0
+	+	131	9
+	+	136	8
+	+	141	16
+	+	142	8
+	+	157	0
+	+	158	0
+	+	148	0
+	+	149	0
+	+	148	12
+	+	149	12
+	+	157	0
+	+	152	0
+	+	150	0
+	+	155	0
+	+	152	11
+	+	153	0
+	+	154	0
+	+	153	12
+	+	154	12
+	+	146	19
+	+	153	0
+	+	151	16
+	+	156	35
+	+	216	18
+	+	109	0
+	+	104	0
+	+	109	0
+	+	104	0
+	+	109	0
+	+	104	21
+	+	109	0
+	+	100	0
+	+	109	0
+	+	101	0
+	+	109	0
+	+	102	0
+	+	109	0
+	+	103	0
+	+	109	0
+	+	105	0
+	+	98	0
+	+	104	0
+	+	109	0
+	+	106	0
+	+	104	0
+	+	107	0
+	+	214	15
 
 > ~/core/code/projectR/Makefile
-	*	1745296967	0
-	"	3	59
-	^	4	66
-	.	3	59
-	+	9	0
-	+	18	1
-	+	19	0
-	+	19	433
-	+	10	64
-	+	9	40
-	+	10	107
-	+	9	0
+	*	1748230021	0
+	"	12	23
+	^	13	25
+	.	13	24
+	+	26	83
+	+	45	157
+	+	26	17
+	+	26	0
+	+	26	44
+	+	29	0
+	+	26	0
+	+	45	0
+	+	26	22
+	+	26	0
+	+	3	20
+	+	3	0
+	+	26	0
+	+	3	14
+	+	3	21
 	+	3	33
-	+	4	39
-	+	5	18
-	+	8	0
+	+	3	40
+	+	3	48
+	+	3	54
+	+	3	3
+	+	4	0
+	+	3	15
+	+	4	0
+	+	3	11
+	+	4	0
+	+	3	0
+	+	25	0
+	+	15	0
+	+	14	0
+	+	16	0
+	+	22	0
+	+	14	0
+	+	35	55
+	+	32	90
+	+	43	26
+	+	44	0
+	+	43	87
+	+	45	17
+	+	26	121
+	+	26	0
+	+	27	8
+	+	32	12
+	+	28	9
+	+	30	0
+	+	31	52
+	+	33	10
+	+	43	87
+	+	43	13
+	+	45	0
+	+	37	0
+	+	36	0
+	+	40	0
+	+	38	47
+	+	74	55
+	+	79	0
+	+	77	0
+	+	78	0
+	+	78	99
+	+	33	39
+	+	78	92
+	+	74	1
+	+	75	20
+	+	42	17
+	+	35	40
+	+	35	156
+	+	35	47
+	+	72	43
+	+	66	17
+	+	67	23
+	+	68	18
+	+	69	21
+	+	67	23
+	+	68	27
+	+	69	23
+	+	68	24
+	+	69	24
+	+	70	17
+	+	72	29
+	+	67	0
+	+	31	0
+	+	71	28
+	+	65	0
+	+	59	18
+	+	58	19
+	+	60	27
+	+	61	18
+	+	63	18
+	+	65	0
+	+	64	15
+	+	65	25
+	+	58	0
+	+	59	0
+	+	62	17
+	+	61	0
+	+	64	0
+	+	62	6
+	+	61	0
+	+	64	0
+	+	65	21
+	+	13	24
+	m	31	94
+
+> ~/core/code/projectR/src/game.h
+	*	1748228112	0
+	"	11	0
+	^	36	56
+	.	36	55
 	+	9	0
-	+	6	0
-	+	7	48
-	+	2	0
-	+	1	1
-	+	9	24
-	+	12	14
-	+	17	49
-	+	10	89
-	+	13	51
-	+	19	35
-	+	3	38
-	+	4	16
-	+	3	65
-	+	4	59
-	+	3	59
-
-> ~/core/code/projectR/ryu.h
-	*	1745296960	0
-	"	6	26
-	^	6	26
-	.	6	25
-	+	4	18
-	+	11	0
-	+	5	0
-	+	4	14
-	+	1	0
-	+	3	0
-	+	2	0
+	+	39	0
+	+	40	0
+	+	39	0
+	+	44	0
+	+	32	13
+	+	33	0
+	+	15	0
+	+	15	31
+	+	10	0
 	+	8	0
-	+	6	25
+	+	15	0
+	+	36	55
+	+	36	60
+	+	15	0
+	+	36	82
+	+	43	52
+	+	8	0
+	+	7	19
+	+	41	19
+	+	22	0
+	+	15	0
+	+	22	0
+	+	34	0
+	+	39	0
+	+	41	35
+	+	40	44
+	+	38	10
+	+	40	51
+	+	41	0
+	+	39	38
+	+	45	73
+	+	41	34
+	+	40	43
+	+	16	13
+	+	36	82
+	+	20	0
+	+	16	0
+	+	17	0
+	+	17	154
+	+	18	13
+	+	19	12
+	+	17	14
+	+	36	55
 
-> ~/core/code/projectW/src/input.h
-	*	1745296826	0
-	"	1	0
-	.	1	0
-	+	1	0
+> ~/core/code/projectR/src/action.c
+	*	1748214953	0
+	"	216	4
+	^	214	0
+	.	214	0
+	+	67	60
+	+	67	0
+	+	70	0
+	+	140	0
+	+	142	0
+	+	208	0
+	+	199	0
+	+	208	6
+	+	208	58
+	+	208	53
+	+	208	54
+	+	208	0
+	+	219	0
+	+	218	0
+	+	219	27
+	+	219	0
+	+	219	15
+	+	219	4
+	+	219	15
+	+	219	9
+	+	219	5
+	+	219	0
+	+	219	21
+	+	219	0
+	+	219	23
+	+	219	26
+	+	219	0
+	+	219	23
+	+	219	25
+	+	219	28
+	+	219	16
+	+	219	20
+	+	219	13
+	+	219	1
+	+	219	0
+	+	5	65
+	+	217	0
+	+	219	0
+	+	103	0
+	+	84	43
+	+	120	15
+	+	19	64
+	+	23	64
+	+	31	0
+	+	27	64
+	+	54	0
+	+	58	64
+	+	62	64
+	+	66	0
+	+	90	0
+	+	103	0
+	+	102	0
+	+	90	64
+	+	94	64
+	+	98	64
+	+	126	0
+	+	139	0
+	+	138	0
+	+	126	64
+	+	134	64
+	+	134	0
+	+	159	94
+	+	164	0
+	+	163	15
+	+	167	0
+	+	168	0
+	+	167	15
+	+	174	0
+	+	178	0
+	+	182	0
+	+	181	48
+	+	177	14
+	+	173	15
+	+	208	0
+	+	186	0
+	+	185	0
+	+	186	0
+	+	208	0
+	+	201	0
+	+	200	24
+	+	217	55
+	+	217	0
+	+	217	4
+	+	217	20
+	+	217	30
+	+	217	13
+	+	217	19
+	+	217	25
+	+	217	19
+	+	217	30
+	+	217	19
+	+	217	0
+	+	217	21
+	+	217	24
+	+	217	21
+	+	217	0
+	+	216	29
+	+	215	11
+	+	214	0
+	a	159	23
 
-> ~/core/shared/vault/daily_notes/2025-04-21.md
-	*	1745296483	0
-	"	10	193
-	^	10	194
-	.	10	193
-	+	5	7
+> ~/core/code/projectR/src/input.h
+	*	1748214696	0
+	"	18	11
+	^	19	15
+	.	18	12
+	+	68	40
+	+	35	0
+	+	70	0
+	+	69	0
+	+	7	0
+	+	8	0
+	+	70	51
+	+	34	15
+	+	20	0
+	+	17	0
+	+	20	9
+	+	30	19
+	+	20	11
+	+	29	8
+	+	29	13
+	+	29	4
+	+	29	8
+	+	29	4
+	+	29	8
+	+	29	9
+	+	29	0
+	+	29	8
+	+	29	0
+	+	20	10
+	+	29	0
+	+	20	0
+	+	21	0
+	+	22	0
+	+	29	0
+	+	18	0
+	+	20	0
+	+	19	14
+	+	18	12
+
+> ~/core/code/projectR/src/input.c
+	*	1748214430	0
+	"	34	4
+	^	54	21
+	.	31	0
+	+	93	0
+	+	92	0
+	+	93	51
+	+	99	0
+	+	97	0
+	+	95	0
+	+	97	0
+	+	96	106
+	+	97	0
+	+	97	38
+	+	98	22
+	+	97	0
+	+	98	0
+	+	55	0
+	+	55	6
+	+	55	0
+	+	30	21
+	+	29	42
+	+	34	4
+	+	34	0
+	+	32	19
+	+	35	37
+	+	36	18
+	+	35	8
+	+	41	4
+	+	32	29
+	+	36	28
+	+	39	26
+	+	33	14
+	+	37	13
+	+	40	13
+	+	43	0
+	+	30	17
+	+	30	18
+	+	42	0
+	+	43	0
+	+	45	13
+	+	44	21
+	+	49	13
+	+	48	27
+	+	52	13
+	+	51	26
+	+	54	20
+	+	30	0
+	+	31	0
+
+> ~/core/code/projectR/.gitignore
+	*	1748206566	0
+	"	2	7
+	^	6	9
+	.	2	7
+	+	3	6
 	+	6	8
-	+	7	16
-	+	5	25
-	+	1	20
-	+	4	33
-	+	2	31
-	+	3	0
-	+	2	0
-	+	10	193
+	+	2	7
 
-> ~/core/code/projectW/Makefile
-	*	1745295676	0
-	"	14	0
+> ~/core/code/projectR/src/server.c
+	*	1748206108	0
+	"	132	16
+	^	140	98
+	.	140	97
+	+	181	30
+	+	181	5
+	+	242	0
+	+	235	0
+	+	216	0
+	+	210	0
+	+	207	0
+	+	206	0
+	+	203	0
+	+	234	0
+	+	242	72
+	+	242	0
+	+	242	50
+	+	210	133
+	+	216	43
+	+	216	125
+	+	210	70
+	+	216	70
+	+	175	21
+	+	181	24
+	+	182	24
+	+	234	0
+	+	235	0
+	+	192	75
+	+	194	12
+	+	193	21
+	+	192	0
+	+	244	34
+	+	242	13
+	+	242	0
+	+	242	91
+	+	245	0
+	+	249	0
+	+	245	25
+	+	245	0
+	+	245	17
+	+	245	0
+	+	245	19
+	+	245	24
+	+	245	26
+	+	245	13
+	+	245	12
+	+	245	0
+	+	242	13
+	+	245	21
+	+	245	0
+	+	246	0
+	+	245	0
+	+	248	0
+	+	245	0
+	+	246	0
+	+	246	26
+	+	245	0
+	+	242	0
+	+	246	0
+	+	245	0
+	+	242	0
+	+	235	0
+	+	216	0
+	+	210	0
+	+	182	0
+	+	184	0
+	+	183	0
+	+	245	0
+	+	245	21
+	+	242	30
+	+	243	34
+	+	245	0
+	+	241	0
+	+	181	0
+	+	106	19
+	+	118	0
+	+	119	0
+	+	197	0
+	+	23	129
+	+	29	0
+	+	108	6
+	+	123	34
+	+	41	35
+	+	110	35
+	+	245	0
+	+	245	54
+	+	245	12
+	+	245	37
+	+	245	0
+	+	130	32
+	+	138	37
+	+	140	27
+	+	138	34
+	+	140	32
+	+	95	24
+	+	10	0
+	+	3	0
+	+	6	0
+	+	12	0
+	+	13	0
+	+	139	32
+	+	140	55
+	+	139	0
+	+	140	97
+	a	184	4
+
+> ~/core/code/projectR/src/networking.h
+	*	1748204889	0
+	"	47	7
+	^	23	7
+	.	46	7
+	+	66	33
+	+	24	0
+	+	66	0
+	+	13	0
+	+	20	36
+	+	52	10
+	+	18	0
+	+	39	0
+	+	42	0
+	+	55	0
+	+	56	35
+	+	52	35
+	+	55	0
+	+	52	35
+	+	13	15
+	+	17	9
+	+	17	10
+	+	18	10
+	+	58	1
+	+	57	5
+	+	13	0
+	+	52	36
+	+	55	36
+	+	52	15
+	+	55	35
+	+	52	36
+	+	55	42
+	+	68	30
+	+	68	38
+	+	39	13
+	+	42	34
+	+	13	11
+	+	29	14
+	+	32	37
+	+	52	43
+	+	63	15
+	+	52	48
+	+	52	45
+	+	55	43
+	+	56	43
+	+	14	0
+	+	13	7
+	+	16	13
+	+	34	0
+	+	33	0
+	+	34	0
+	+	36	0
+	+	36	49
+	+	54	0
+	+	52	0
+	+	55	0
+	+	56	0
+	+	53	0
+	+	17	0
+	+	15	0
+	+	54	45
+	+	67	14
+	+	35	16
+	+	22	13
+	+	22	16
+	+	26	114
+	+	26	0
+	+	26	28
+	+	4	0
+	+	11	0
+	+	22	79
+	+	22	0
+	+	26	0
+	+	22	19
+	+	22	0
+	+	22	155
+	+	36	0
+	+	67	54
+	+	7	0
+	+	8	1
+	+	7	24
+	+	8	0
+	+	7	1
+	+	63	16
+	+	66	18
+	+	67	25
+	+	68	13
+	+	71	14
+	+	68	29
+	+	22	0
+	+	68	0
+	+	69	29
+	+	66	31
+	+	67	31
+	+	68	0
+	+	63	12
+	+	64	18
+	+	5	0
+	+	46	34
+	+	22	34
+	+	23	6
+	+	22	7
+	+	46	7
+
+> ~/core/code/projectR/src/multiplayer_game.h
+	*	1748204862	0
+	"	24	16
+	^	20	151
+	.	20	150
+	+	48	0
+	+	38	29
+	+	55	82
+	+	78	82
+	+	55	0
+	+	78	0
+	+	55	0
+	+	85	0
+	+	80	0
+	+	78	45
+	+	88	64
+	+	92	108
+	+	88	0
+	+	46	0
+	+	41	17
+	+	78	51
+	+	78	32
+	+	79	0
+	+	78	131
+	+	41	0
+	+	44	0
+	+	43	18
+	+	43	9
+	+	1	0
+	+	2	0
+	+	43	0
+	+	42	0
+	+	43	11
+	+	44	0
+	+	55	0
+	+	54	0
+	+	78	0
+	+	56	0
+	+	58	53
+	+	78	0
+	+	59	28
+	+	66	49
+	+	77	8
+	+	66	35
+	+	73	11
+	+	73	0
+	+	72	29
+	+	74	12
+	+	73	15
+	+	73	0
+	+	73	15
+	+	73	41
+	+	76	12
+	+	73	0
+	+	67	0
+	+	75	0
+	+	76	0
+	+	75	43
+	+	73	85
+	+	71	0
+	+	78	0
+	+	21	26
+	+	22	45
+	+	72	24
+	+	55	13
+	+	66	23
+	+	63	34
+	+	61	0
+	+	63	0
+	+	60	43
+	+	62	11
+	+	61	0
+	+	62	39
+	+	65	8
+	+	65	21
+	+	73	43
+	+	60	21
+	+	73	55
+	+	75	53
+	+	62	18
+	+	70	13
+	+	70	20
+	+	73	34
+	+	70	21
+	+	73	35
+	+	75	57
+	+	70	62
+	+	64	0
+	+	65	0
+	+	64	39
+	+	12	0
+	+	25	0
+	+	66	146
+	+	5	26
+	+	12	23
+	+	16	17
+	+	22	31
+	+	57	41
+	+	108	12
+	+	110	13
+	+	107	29
+	+	12	23
+	+	106	28
+	+	21	0
+	+	20	150
+	a	54	0
+	j	66	35
+
+> ~/core/code/projectR/src/server.ck
+	*	1748203451	0
+	"	1	0
+
+> ~/core/code/projectR/backlog.md
+	*	1748154435	0
+	"	6	12
+	^	5	215
+	.	5	215
+	+	1	0
+	+	3	0
+	+	8	4
+	+	2	12
+	+	8	82
+	+	8	0
+	+	4	39
+	+	5	10
+	+	6	11
+	+	7	9
+	+	5	215
+
+> ~/tmp/convergence/src/networking.cpp
+	*	1748151552	0
+	"	27	14
+
+> /usr/share/vim/vim90/doc/syntax.txt
+	*	1748146442	0
+	"	5374	31
+
+> /usr/share/vim/vim90/doc/editing.txt
+	*	1748146386	0
+	"	264	41
+
+> ~/tmp/convergence/server/server.py
+	*	1748141109	0
+	"	13	4
+
+> ~/tmp/convergence/README.md
+	*	1748141048	0
+	"	16	0
+
+> ~/tmp/convergence/src/localplayer.cpp
+	*	1748141035	0
+	"	27	0
+
+> ~/tmp/convergence/src/entity.cpp
+	*	1748141025	0
+	"	123	13
+
+> ~/tmp/app.js
+	*	1748136956	0
+	"	12	0
+	^	18	16
+	.	19	0
+	+	19	45
+	+	5	0
+	+	18	15
+	+	19	0
+
+> ~/tmp/udp-ws/README.md
+	*	1748136195	0
+	"	50	0
+
+> ~/.bashrc
+	*	1748123647	0
+	"	131	29
+	^	131	30
+	.	131	29
+	+	131	0
+	+	130	0
+	+	131	29
+
+> ~/core/code/projectR/README.md
+	*	1748123568	0
+	"	1	0
+	^	1	53
+	.	1	36
+	+	1	36
 
 > ~/core/code/projectR/design_doc.md
-	*	1745294711	0
-	"	21	11
-	^	21	12
-	.	21	11
+	*	1748123520	0
+	"	1	0
+	.	1	0
 	+	1	121
 	+	1	122
 	+	1	188
@@ -2557,1157 +3724,1827 @@ $
 	+	5	305
 	+	7	285
 	+	9	322
-	+	11	0
-	+	24	0
-	+	11	429
-	+	13	182
-	+	15	224
-	+	17	104
-	+	15	238
-	+	17	152
-	+	19	166
-	+	22	0
-	+	19	250
-	+	21	11
-
-> ~/core/code/projectR/ryu.c
-	*	1745293081	0
-	"	1	0
-
-> ~/core/shared/vault/leetcode_grind.md
-	*	1745215369	0
-	"	317	8
-	^	489	26
-	.	489	25
-	+	315	17
-	+	323	24
-	+	362	0
-	+	357	0
-	+	358	0
-	+	361	0
-	+	358	7
-	+	364	32
-	+	366	12
-	+	371	32
-	+	368	0
-	+	369	0
-	+	371	0
-	+	370	0
-	+	371	0
-	+	372	51
-	+	373	27
-	+	375	0
-	+	376	0
-	+	359	0
-	+	360	51
-	+	377	19
-	+	378	0
-	+	379	20
-	+	385	0
-	+	382	30
-	+	384	48
-	+	386	12
-	+	391	0
-	+	393	0
-	+	398	19
-	+	399	22
-	+	398	32
-	+	388	17
-	+	389	17
-	+	390	14
-	+	391	0
-	+	394	13
-	+	396	86
-	+	393	0
-	+	392	189
-	+	403	71
-	+	406	0
-	+	420	0
-	+	414	16
-	+	412	0
-	+	413	0
-	+	414	0
-	+	421	24
-	+	426	0
-	+	425	0
-	+	403	71
-	+	404	35
-	+	410	18
-	+	408	12
-	+	416	14
-	+	418	72
-	+	423	24
-	+	424	22
-	+	430	0
-	+	456	0
-	+	458	12
-	+	431	11
-	+	478	0
-	+	476	0
-	+	475	12
-	+	486	4
-	+	460	16
-	+	462	13
-	+	463	13
-	+	462	15
-	+	463	15
-	+	462	37
-	+	463	32
-	+	465	16
-	+	467	33
-	+	429	65
-	+	430	0
-	+	433	7
-	+	429	34
-	+	433	18
-	+	446	24
-	+	448	21
-	+	442	16
-	+	437	8
-	+	444	0
-	+	438	32
-	+	450	139
-	+	451	0
-	+	452	0
-	+	473	43
-	+	478	0
-	+	477	17
-	+	479	16
-	+	481	16
-	+	483	0
-	+	470	27
-	+	471	21
-	+	473	32
-	+	489	25
-	a	332	10
-
-> /usr/share/vim/vim90/doc/pi_netrw.txt
-	*	1745117149	0
-	"	1100	6
-
-> ~/core/code/projectR/projectR
-	*	1745117114	0
-	"	1	0
-
-> ~/core/code/projectR/.gitignore
-	*	1745094665	0
-	"	3	4
-	^	3	5
-	.	3	4
-	+	1	9
-	+	2	4
-	+	3	4
-
-> ~/core/shared/vault/work/Pete.md
-	*	1745081667	0
-	"	1	0
-
-> ~/.config/kitty/kitty.conf
-	*	1745081602	0
-	"	7	13
-	^	9	22
-	.	9	21
-	+	191	13
-	+	227	0
-	+	620	19
-	+	742	27
-	+	747	28
-	+	1765	40
-	+	1766	32
-	+	1796	39
-	+	1797	36
-	+	1916	30
-	+	1917	30
-	+	1765	0
-	+	1766	0
-	+	1796	0
-	+	1797	0
-	+	1916	0
-	+	1917	0
-	+	747	28
-	+	9	0
+	+	15	0
+	+	34	0
+	+	15	429
+	+	17	182
+	+	19	224
+	+	21	104
+	+	19	238
+	+	21	152
+	+	23	166
+	+	26	0
+	+	23	250
+	+	25	11
 	+	10	0
-	+	11	0
-	+	12	0
-	+	9	21
+	+	13	127
+	+	30	204
+	+	32	0
+	+	1	0
 
-> ~/core/code/sokobomb/game.c
-	*	1745030686	0
-	"	582	16
-	^	171	71
-	.	178	0
-	+	315	35
-	+	326	38
-	+	148	0
-	+	166	0
-	+	166	12
-	+	166	24
-	+	166	0
-	+	168	34
-	+	166	38
-	+	166	0
-	+	166	15
-	+	166	0
-	+	166	33
-	+	188	0
-	+	187	0
-	+	166	24
-	+	186	0
-	+	187	0
-	+	181	0
-	+	186	3
-	+	166	79
-	+	180	20
-	+	185	0
-	+	507	31
-	+	508	44
-	+	168	50
-	+	166	0
-	+	166	52
-	+	166	0
-	+	166	52
-	+	166	0
-	+	169	0
-	+	168	52
-	+	169	0
-	+	168	0
-	+	166	4
-	+	185	60
-	+	168	0
-	+	169	0
-	+	168	0
-	+	166	0
-	+	178	0
-	+	166	0
-	+	508	36
-	+	185	0
-	+	168	0
-	+	175	0
-	+	171	11
-	+	172	0
-	+	171	71
-	+	178	0
-	a	185	14
-
-> ~/core/code/sokobomb/input.h
-	*	1745030686	0
-	"	28	0
-
-> ~/core/code/sokobomb/input.c
-	*	1745030685	0
-	"	12	13
-	^	8	22
-	.	8	21
-	+	5	0
-	+	8	21
-
-> ~/core/code/sokobomb/main.c
-	*	1744937086	0
-	"	153	23
-	^	29	7
-	.	29	4
-	+	16	0
-	+	96	3
-	+	97	7
-	+	18	0
-	+	97	4
+> ~/core/code/projectR/src/singleplayer_game.h
+	*	1748120375	0
+	"	65	14
+	^	67	126
+	.	66	0
+	+	32	0
+	+	30	0
 	+	29	0
-	+	18	12
-	+	134	63
-	+	152	43
-	+	29	4
-	+	36	0
-	+	35	0
-	+	30	0
-	+	49	0
-	+	50	0
-	+	48	0
-	+	49	0
-	+	47	0
-	+	30	0
-	+	72	0
-	+	30	0
-	+	71	5
-	+	29	4
-	+	70	52
-	+	29	4
-	a	30	43
-
-> ~/core/code/sokobomb/game.h
-	*	1744937074	0
-	"	84	41
-	^	74	81
-	.	86	16
-	+	56	26
-	+	58	19
-	+	46	0
-	+	38	0
-	+	39	0
-	+	38	17
-	+	39	27
-	+	75	0
 	+	74	0
-	+	75	0
-	+	74	80
-	+	86	16
-
-> ~/core/code/sokobomb/levels.h
-	*	1744935002	0
-	"	2	30
-	^	2	29
-	.	2	29
-	+	23	0
-	+	544	0
-	+	96	6
-	+	97	6
-	+	94	6
-	+	96	7
-	+	94	7
-	+	94	6
-	+	97	6
-	+	94	0
-	+	92	0
-	+	93	0
-	+	97	0
-	+	98	0
-	+	97	19
-	+	98	1
-	+	92	11
-	+	97	7
-	+	93	7
-	+	79	0
-	+	80	5
-	+	79	9
-	+	76	11
-	+	76	0
-	+	79	9
-	+	80	0
-	+	79	9
-	+	74	9
-	+	85	6
-	+	3	4
-	+	5	2
-	+	6	5
-	+	3	0
-	+	22	20
-	+	22	0
-	+	3	21
-	+	22	0
-	+	3	2
-	+	22	18
-	+	3	2
-	+	4	3
-	+	3	21
-	+	8	0
-	+	13	0
-	+	22	0
-	+	18	0
-	+	3	2
-	+	5	4
-	+	9	4
-	+	10	3
-	+	14	0
-	+	15	4
-	+	21	20
-	+	19	18
-	+	5	9
-	+	4	14
-	+	5	18
-	+	9	18
-	+	10	8
-	+	9	14
-	+	14	9
-	+	20	4
-	+	19	0
-	+	20	8
-	+	15	13
-	+	20	14
-	+	15	3
-	+	22	0
-	+	21	22
-	+	22	0
-	+	3	0
-	+	2	29
-
-> ~/core/code/sokobomb/Makefile
-	*	1744930748	0
-	"	1	0
-
-> ~/core/shared/vault/book_reports/shobogenzo.md
-	*	1744779317	0
-	"	59	0
-	^	253	148
-	.	253	147
-	+	88	42
-	+	91	1
-	+	100	42
-	+	92	0
-	+	97	0
-	+	92	0
-	+	95	0
-	+	92	7
-	+	95	7
-	+	97	51
-	+	94	0
-	+	97	51
-	+	100	17
-	+	97	0
-	+	94	22
-	+	97	22
-	+	103	10
-	+	106	13
-	+	107	0
-	+	109	8
-	+	112	10
-	+	115	9
-	+	118	36
-	+	121	27
-	+	124	19
-	+	127	21
-	+	130	14
-	+	135	7
-	+	138	14
-	+	141	26
-	+	144	48
-	+	147	14
-	+	150	33
-	+	153	43
-	+	156	17
-	+	159	24
-	+	162	10
-	+	165	18
-	+	168	36
-	+	171	11
-	+	174	6
-	+	177	15
-	+	180	28
-	+	183	27
-	+	186	12
-	+	189	9
-	+	192	12
-	+	195	19
-	+	198	3
-	+	201	12
-	+	204	22
-	+	207	16
-	+	210	55
-	+	213	18
-	+	214	0
-	+	216	39
-	+	219	30
-	+	222	30
-	+	225	7
-	+	2	0
-	+	225	35
-	+	226	5
-	+	1	7
-	+	131	7
-	+	65	7
-	+	230	29
-	+	233	23
-	+	234	0
-	+	236	31
-	+	239	13
-	+	242	4
-	+	245	8
-	+	248	10
-	+	249	0
-	+	251	30
-	+	255	28
-	+	258	40
-	+	261	18
-	+	264	19
-	+	267	15
-	+	270	31
-	+	273	27
-	+	276	35
-	+	279	30
-	+	282	27
-	+	285	35
-	+	288	13
-	+	291	20
-	+	294	21
-	+	297	9
-	+	1	0
-	+	3	0
-	+	1	1
-	+	66	1
-	+	132	1
-	+	227	1
-	+	79	92
-	+	234	0
-	+	253	147
-	a	225	7
-
-> ~/tmp/test/readme.txt
-	*	1744760050	0
-	"	6	0
-	.	6	0
-	+	1	0
-	+	4	5
-	+	4	4
-	+	3	0
-	+	2	5
-	+	2	0
-	+	4	0
-	+	2	0
-	+	4	0
-	+	6	0
-
-> ~/core/shared/vault/book_reports/eat_sleep_sit.md
-	*	1744579640	0
-	"	20	0
-	^	21	78
-	.	21	77
-	+	1	3
-	+	11	0
-	+	13	361
-	+	15	502
-	+	19	245
-	+	21	77
-
-> ~/core/shared/vault/chess.md
-	*	1744578496	0
-	"	34	0
-	^	37	15
-	.	37	14
-	+	27	10
-	+	31	24
-	+	37	14
-
-> ~/core/shared/vault/daily_notes/2025-04-12.md
-	*	1744515848	0
-	"	7	37
-	^	7	38
-	.	7	37
-	+	3	319
-	+	3	0
-	+	3	108
-	+	3	407
-	+	5	0
-	+	7	37
-
-> ~/core/code/DadChallenges/brace_count/jason3/main.c
-	*	1744506290	0
-	"	68	28
-	^	68	29
-	.	68	28
-	+	86	0
-	+	40	190
-	+	47	0
-	+	40	0
-	+	43	0
-	+	41	0
-	+	43	11
-	+	42	0
-	+	44	10
-	+	44	25
-	+	46	0
 	+	85	0
-	+	63	4
-	+	54	33
-	+	44	14
-	+	54	37
-	+	54	17
-	+	54	33
-	+	54	17
-	+	54	9
-	+	58	8
-	+	56	31
-	+	57	0
-	+	56	19
-	+	54	58
-	+	57	31
-	+	62	8
-	+	60	26
-	+	61	21
-	+	85	0
-	+	67	0
-	+	44	0
-	+	85	23
-	+	85	30
-	+	48	0
-	+	54	9
-	+	49	19
-	+	52	19
-	+	85	0
-	+	85	30
-	+	85	42
-	+	85	0
-	+	85	16
-	+	85	0
-	+	85	32
-	+	85	23
-	+	85	35
-	+	85	24
-	+	44	16
-	+	44	0
-	+	65	1
-	+	66	16
-	+	24	0
-	+	61	0
-	+	85	24
-	+	85	0
-	+	54	17
-	+	54	28
-	+	54	29
-	+	54	90
-	+	54	9
-	+	45	9
-	+	50	19
-	+	53	0
-	+	56	0
-	+	54	9
-	+	55	37
-	+	57	22
-	+	61	20
-	+	66	9
-	+	85	0
-	+	68	0
-	+	64	0
-	+	68	34
-	+	69	23
-	+	69	0
-	+	70	19
-	+	73	19
-	+	68	28
-
-> ~/core/code/DadChallenges/brace_count/tests/jason
-	*	1744505900	0
-	"	1	4
-
-> ~/core/code/DadChallenges/brace_count/tests/in
-	*	1744505865	0
-	"	1	0
-
-> ~/core/code/DadChallenges/brace_count/makefile
-	*	1744505670	0
-	"	10	21
-	^	19	65
-	.	19	0
-	+	10	0
-	+	9	0
-	+	10	0
-	+	2	0
-	+	19	0
-
-> ~/core/code/DadChallenges/brace_count/runtest
-	*	1744505656	0
-	"	11	0
-	^	11	48
-	.	11	0
-	+	11	0
-
-> ~/core/code/DadChallenges/brace_count/jason2/main.c
-	*	1744505628	0
-	"	40	0
-
-> ~/.bashrc
-	*	1744497143	0
-	"	90	0
-	.	2	0
-	+	117	0
-	+	118	0
-	+	130	0
-	+	128	30
-	+	129	0
-	+	129	23
-	+	2	0
-
-> /etc/profile
-	*	1744497141	0
-	"	3	0
-
-> ~/.ssh/authorized_keys
-	*	1744494755	0
-	"	1	551
-	^	3	565
-
-> /etc/ssh/sshd_config
-	*	1744494373	0
-	"	13	0
-	^	14	24
-	.	14	23
-	+	17	0
-	+	14	23
-
-> /etc/ssh/ssh_config
-	*	1744490732	0
-	"	8	0
-
-> /home/dad/.profile
-	*	1744489999	0
-	"	13	0
-	.	15	0
-	+	14	0
-	+	15	0
-
-> /home/dad/.bashrc
-	*	1744489862	0
-	"	64	2
-	.	64	0
-	+	62	0
-	+	64	0
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/jason2/main.c
-	*	1744427348	0
-	"	55	111
-	^	55	112
-	.	55	112
-	+	40	0
-	+	45	0
-	+	68	0
-	+	46	0
-	+	12	0
-	+	46	0
-	+	45	28
-	+	68	15
-	+	45	23
-	+	46	45
-	+	48	0
-	+	68	0
-	+	46	0
-	+	44	0
-	+	41	18
-	+	47	0
-	+	67	0
-	+	66	0
-	+	68	0
-	+	43	0
-	+	65	4
-	+	54	8
-	+	53	20
-	+	54	12
-	+	51	34
-	+	54	35
-	+	64	8
-	+	54	30
-	+	56	20
-	+	55	0
-	+	63	12
-	+	62	44
-	+	51	14
-	+	46	44
-	+	48	4
-	+	48	37
-	+	62	0
-	+	63	35
-	+	63	0
-	+	63	58
-	+	60	12
-	+	58	26
-	+	63	0
-	+	48	0
-	+	59	24
-	+	61	47
-	+	62	44
-	+	42	24
-	+	46	25
-	+	55	35
-	+	50	42
-	+	52	12
-	+	51	15
-	+	46	135
-	+	50	86
-	+	55	66
-	+	50	120
-	+	55	112
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/tests/in1
-	*	1744426718	0
-	"	1	0
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/tests/jason
-	*	1744426712	0
-	"	1	0
-	^	1	4
-	.	1	3
-	+	1	3
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/tests/in4
-	*	1744426364	0
-	"	1	0
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/makefile
-	*	1744426076	0
-	"	4	0
-	^	25	10
-	.	25	9
-	+	1	34
-	+	15	6
-	+	28	3
-	+	28	0
-	+	15	0
-	+	28	0
-	+	16	9
-	+	3	0
-	+	11	0
-	+	3	33
-	+	3	34
-	+	3	32
-	+	3	34
-	+	17	0
-	+	22	5
-	+	24	13
-	+	27	0
-	+	26	12
-	+	12	0
-	+	14	0
-	+	12	31
-	+	14	0
-	+	3	0
-	+	18	0
-	+	21	0
-	+	18	5
-	+	19	24
-	+	20	0
-	+	19	0
-	+	3	0
-	+	3	65
-	+	3	42
-	+	12	11
-	+	3	12
-	+	3	65
-	+	14	12
-	+	13	8
-	+	14	10
-	+	13	9
-	+	14	0
-	+	20	0
-	+	15	48
-	+	3	0
-	+	9	0
-	+	8	0
-	+	9	14
-	+	15	44
-	+	23	7
-	+	1	30
-	+	6	0
-	+	5	0
-	+	6	18
-	+	15	46
-	+	25	9
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/runtest
-	*	1744424560	0
-	"	24	1
-	.	26	0
-	+	20	13
-	+	21	11
-	+	22	10
-	+	23	12
-	+	24	10
-	+	20	14
-	+	21	6
-	+	22	6
-	+	24	6
-	+	23	8
-	+	17	0
-	+	13	0
-	+	14	0
-	+	17	0
-	+	16	7
-	+	26	4
-	+	26	0
-	+	16	5
-	+	26	7
-	+	25	4
-	+	15	14
-	+	26	0
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/tests/in3
-	*	1744421793	0
-	"	1	1
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/slow/main.c
-	*	1744421753	0
-	"	53	30
-	^	53	31
-	.	53	30
-	+	66	0
-	+	66	4
-	+	12	0
-	+	66	0
-	+	40	15
-	+	41	25
-	+	65	4
-	+	43	0
+	+	83	0
+	+	64	49
+	+	84	35
+	+	86	31
 	+	64	0
 	+	65	0
-	+	43	43
-	+	45	11
-	+	46	0
-	+	64	0
-	+	45	38
-	+	46	30
-	+	46	0
-	+	44	0
-	+	48	16
-	+	48	19
-	+	46	34
-	+	48	0
-	+	47	28
-	+	48	0
-	+	49	36
-	+	50	26
-	+	59	16
-	+	58	25
-	+	64	0
-	+	60	0
-	+	63	12
-	+	61	0
-	+	62	0
-	+	61	50
-	+	62	37
-	+	42	12
-	+	43	13
-	+	45	17
-	+	47	28
-	+	50	28
-	+	63	0
-	+	56	0
-	+	55	16
-	+	52	38
-	+	54	25
-	+	53	30
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/tests/in
-	*	1744421450	0
-	"	1	2
-	^	1	18
-	.	1	17
-	+	1	17
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/tests/jason1
-	*	1744421410	0
-	"	1	9
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/jason/main.c
-	*	1744420851	0
-	"	50	115
-	^	50	116
-	.	50	115
-	+	88	0
-	+	88	2
-	+	88	3
-	+	44	23
-	+	45	10
-	+	88	0
-	+	51	15
-	+	87	2
-	+	69	4
-	+	69	23
-	+	87	4
-	+	87	13
-	+	53	0
-	+	52	58
-	+	87	58
-	+	46	16
-	+	47	10
-	+	53	62
-	+	69	0
-	+	69	7
-	+	53	32
-	+	69	0
-	+	54	23
-	+	69	0
-	+	55	36
-	+	45	0
-	+	44	0
-	+	57	8
-	+	56	24
-	+	57	37
-	+	60	0
-	+	57	36
-	+	60	0
-	+	59	25
-	+	61	0
-	+	57	9
-	+	64	8
-	+	63	17
-	+	62	17
 	+	66	0
-	+	40	0
-	+	41	14
-	+	42	0
-	+	69	3
-	+	68	8
-	+	67	3
-	+	68	8
-	+	67	42
-	+	67	0
-	+	65	156
-	+	69	0
-	+	70	144
-	+	70	6
-	+	70	189
-	+	87	0
-	+	70	86
-	+	71	5
-	+	72	107
-	+	73	25
-	+	81	4
-	+	73	12
-	+	74	45
-	+	76	8
-	+	81	0
-	+	75	17
-	+	80	8
-	+	78	56
-	+	79	17
-	+	86	4
-	+	82	74
-	+	87	0
-	+	83	28
-	+	85	8
+	+	68	0
+	+	82	0
 	+	84	0
-	+	49	104
-	+	50	115
-	k	84	0
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/.gitignore
-	*	1744415978	0
-	"	4	4
-	^	4	5
-	.	4	4
-	+	1	9
-	+	2	8
+	+	85	0
+	+	88	0
+	+	92	0
+	+	34	0
+	+	36	0
+	+	39	0
 	+	2	0
-	+	3	1
-	+	4	4
+	+	30	29
+	+	31	16
+	+	2	0
+	+	92	0
+	+	56	92
+	+	57	92
+	+	67	125
+	+	66	0
 
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/jason/makefile
-	*	1744415962	0
-	"	8	3
-	.	3	8
-	+	3	8
+> ~/core/code/projectR/src/base.c
+	*	1748053495	0
+	"	53	21
+	^	63	18
+	.	53	21
+	+	71	0
+	+	70	0
+	+	19	0
+	+	18	0
+	+	19	37
+	+	33	0
+	+	32	75
+	+	32	0
+	+	32	75
+	+	32	8
+	+	32	4
+	+	32	21
+	+	19	3
+	+	32	0
+	+	32	75
+	+	32	0
+	+	32	23
+	+	32	16
+	+	32	0
+	+	22	4
+	+	20	22
+	+	20	0
+	+	23	16
+	+	26	11
+	+	29	11
+	+	26	18
+	+	29	18
+	+	15	0
+	+	14	0
+	+	15	41
+	+	86	0
+	+	85	0
+	+	35	7
+	+	46	21
+	+	59	0
+	+	58	12
+	+	65	0
+	+	59	17
+	+	61	17
+	+	63	17
+	+	60	21
+	+	53	21
 
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/go/makefile
-	*	1744415237	0
+> ~/core/code/projectR/src/ryu.c
+	*	1747969722	0
+	"	152	14
+	.	4	0
+	+	376	0
+	+	378	0
+	+	384	0
+	+	384	29
+	+	331	38
+	+	331	42
+	+	331	43
+	+	6	0
+	+	8	100
+	+	331	0
+	+	8	65
+	+	7	20
+	+	331	14
+	+	331	0
+	+	331	16
+	+	331	64
+	+	331	70
+	+	347	0
+	+	9	19
+	+	331	35
+	+	331	31
+	+	331	20
+	+	331	29
+	+	331	0
+	+	331	29
+	+	331	35
+	+	331	29
+	+	331	0
+	+	331	14
+	+	331	18
+	+	331	0
+	+	331	14
+	+	331	0
+	+	331	9
+	+	331	0
+	+	331	36
+	+	331	0
+	+	347	32
+	+	348	17
+	+	347	0
+	+	348	25
+	+	349	0
+	+	353	0
+	+	352	34
+	+	355	0
+	+	376	16
+	+	356	3
+	+	357	41
+	+	359	0
+	+	358	25
+	+	359	0
+	+	376	0
+	+	356	0
+	+	357	0
+	+	364	0
+	+	369	0
+	+	374	0
+	+	362	0
+	+	364	0
+	+	362	38
+	+	369	0
+	+	367	0
+	+	368	24
+	+	372	37
+	+	374	0
+	+	377	0
+	+	378	0
+	+	377	30
+	+	378	0
+	+	382	28
+	+	383	0
+	+	384	0
+	+	386	0
+	+	331	27
+	+	331	8
+	+	331	0
+	+	331	37
+	+	352	24
+	+	356	0
+	+	331	79
+	+	331	0
+	+	331	27
+	+	331	24
+	+	5	17
+	+	331	0
+	+	346	0
+	+	345	0
+	+	331	6
+	+	331	0
+	+	335	29
+	+	337	4
+	+	336	10
+	+	3	0
+	+	4	0
+	a	359	5
+
+> ~/core/code/projectR/src/art.c
+	*	1747969705	0
+	"	612	26
+	^	658	27
+	.	611	28
+	+	936	1
+	+	937	0
+	+	942	0
+	+	939	43
+	+	941	4
+	+	940	48
+	+	938	23
+	+	1	21
+	+	879	0
+	+	878	0
+	+	878	44
+	+	879	61
+	+	880	40
+	+	883	0
+	+	881	50
+	+	882	0
+	+	1	34
+	+	1	63
+	+	947	0
+	+	948	24
+	+	1	18
+	+	878	0
+	+	877	0
+	+	877	19
+	+	1	14
+	+	1	30
+	+	877	21
+	+	877	33
+	+	877	22
+	+	877	35
+	+	877	27
+	+	877	49
+	+	877	50
+	+	877	31
+	+	877	0
+	+	877	23
+	+	877	0
+	+	1	0
+	+	1	94
+	+	1	0
+	+	875	0
+	+	1	88
+	+	1	0
+	+	1	24
+	+	1	18
+	+	1	0
+	+	304	0
+	+	305	0
+	+	17	51
+	+	304	20
+	+	10	0
+	+	9	0
+	+	10	17
+	+	14	0
+	+	11	0
+	+	13	0
+	+	11	0
+	+	12	0
+	+	13	0
+	+	14	0
+	+	11	13
+	+	12	13
+	+	13	12
+	+	14	13
+	+	14	11
+	+	304	0
+	+	305	0
+	+	589	0
+	+	10	0
+	+	11	0
+	+	12	0
+	+	14	0
+	+	13	0
+	+	14	0
+	+	7	44
+	+	304	0
+	+	661	0
+	+	6	11
+	+	303	0
+	+	14	0
+	+	361	101
+	+	18	5
+	+	19	0
+	+	18	0
+	+	304	0
+	+	572	0
+	+	557	36
+	+	558	0
+	+	491	40
+	+	302	0
+	+	304	0
+	+	658	29
+	+	14	0
+	+	17	0
+	+	611	28
+	a	651	6
+
+> ~/core/code/projectR/src/character.c
+	*	1747969692	0
+	"	36	6
+	^	10	35
+	.	10	34
+	+	33	32
+	+	60	0
+	+	38	0
+	+	37	39
+	+	40	31
+	+	33	99
+	+	37	65
+	+	40	60
+	+	46	48
+	+	48	27
+	+	46	70
+	+	48	27
+	+	64	45
+	+	65	23
+	+	69	113
+	+	71	33
+	+	72	37
+	+	73	33
+	+	71	11
+	+	72	28
+	+	66	28
+	+	66	0
+	+	76	0
+	+	93	27
+	+	95	22
+	+	97	4
+	+	96	25
+	+	80	0
+	+	78	32
+	+	80	53
+	+	80	0
+	+	80	4
+	+	78	0
+	+	68	0
+	+	67	29
+	+	80	24
+	+	71	20
+	+	80	0
+	+	71	0
+	+	75	0
+	+	74	0
+	+	80	0
+	+	80	24
+	+	80	0
+	+	80	23
+	+	80	8
+	+	80	11
+	+	64	0
+	+	80	0
+	+	80	75
+	+	80	0
+	+	69	91
+	+	46	70
+	+	47	67
+	+	46	44
+	+	47	101
+	+	45	59
+	+	1	0
+	+	68	0
+	+	80	46
+	+	80	12
+	+	80	50
+	+	80	0
+	+	80	5
+	+	80	0
+	+	79	0
+	+	2	0
+	+	3	79
+	+	7	31
+	+	10	31
+	+	7	47
+	+	10	47
+	+	7	34
+	+	10	34
+	a	78	4
+
+> ~/core/code/projectR/src/action.h
+	*	1747969362	0
+	"	12	0
+	.	11	0
+	+	11	0
+	+	4	0
+	+	10	65
+	+	11	0
+
+> ~/core/code/projectR/src/character.h
+	*	1747968908	0
+	"	1	0
+	^	10	100
+	.	9	79
+	+	10	99
+	+	9	79
+
+> ~/core/code/projectR/src/mulitplayer_game.h
+	*	1747947790	0
+	"	1	0
+	.	1	0
+	+	1	0
+
+> ~/core/code/projectR/src/singleplayer_game.c
+	*	1747947757	0
+	"	97	0
+	.	1	0
+	+	1	0
+
+> ~/core/code/projectR/src/ken.c
+	*	1747893513	0
+	"	12	13
+	^	3	13
+	.	8	83
+	+	5	103
+	+	2	0
+	+	3	12
+	+	8	83
+
+> ~/core/code/projectR/src/ken.h
+	*	1747893441	0
+	"	10	5
+	^	4	18
+	.	7	83
+	+	6	32
+	+	4	0
+	+	3	0
+	+	6	103
+	+	4	17
+	+	7	83
+
+> ~/core/code/projectR/src/ryu.h
+	*	1747893418	0
+	"	7	83
+	^	4	18
+	.	7	83
+	+	6	103
+	+	4	17
+	+	7	83
+
+> ~/core/code/projectR/src/.game.h.swp
+	*	1747892975	0
+	"	1	0
+
+> ~/core/code/projectR/src/action_buffer.c
+	*	1747892716	0
+	"	2	0
+	^	1	2
+	.	2	0
+	+	1	22
+	+	2	0
+	+	2	37
+	+	3	0
+	+	3	15
+	+	3	0
+	+	3	62
+	+	9	0
+	+	5	14
+	+	3	17
+	+	7	4
+	+	5	60
+	+	7	4
+	+	7	0
+	+	5	0
+	+	7	0
+	+	6	14
+	+	5	14
+	+	6	18
+	+	8	10
+	+	3	0
+	+	11	0
+	+	10	58
+	+	16	0
+	+	12	14
+	+	14	14
+	+	12	64
+	+	14	64
+	+	10	34
+	+	3	40
+	+	10	5
+	+	12	68
+	+	14	34
+	+	12	0
+	+	12	24
+	+	33	20
+	+	5	29
+	+	5	16
+	+	5	4
+	+	5	7
+	+	5	16
+	+	22	0
+	+	34	0
+	+	34	60
+	+	33	0
+	+	12	0
+	+	34	17
+	+	4	0
+	+	5	0
+	+	34	0
+	+	1	0
+	+	3	0
+	+	2	0
+
+> ~/core/code/projectR/src/action_buffer.h
+	*	1747892529	0
+	"	27	5
+	^	4	28
+	.	27	0
+	+	1	20
+	+	2	0
+	+	4	0
+	+	3	0
+	+	4	28
+	+	7	0
+	+	6	0
+	+	11	0
+	+	10	0
+	+	8	15
+	+	10	0
+	+	27	0
+	+	26	0
+	+	22	0
+	+	24	29
+	+	24	27
+	+	25	0
+	+	25	14
+	+	24	58
+	+	25	45
+	+	12	0
+	+	14	23
+	+	20	0
+	+	14	21
+	+	18	44
+	+	19	17
+	+	15	29
+	+	23	36
+	+	17	45
+	+	20	1
+	+	21	43
+	+	25	35
+	+	16	87
+	+	24	40
+	+	25	5
+	+	5	15
+	+	12	184
+	+	13	0
+	+	22	0
+	+	21	0
+	+	5	0
+	+	4	27
+	+	27	0
+
+> ~/core/code/projectR/src/; .
+	*	1747892254	0
+	"	1	0
+
+> ~/core/code/projectR/projectR
+	*	1747881862	0
+	"	2	0
+
+> ~/core/code/projectR/src/n
+	*	1747878826	0
+	"	1	0
+
+> ~/.xmonad/xmonad.hs
+	*	1747875647	0
+	"	265	45
+	^	265	46
+	.	265	45
+	+	135	5
+	+	129	68
+	+	70	69
+	+	73	69
+	+	74	69
+	+	75	69
+	+	78	56
+	+	81	52
+	+	84	43
+	+	87	61
+	+	90	73
+	+	93	46
+	+	96	58
+	+	99	58
+	+	102	58
+	+	105	62
+	+	108	59
+	+	111	59
+	+	114	59
+	+	117	57
+	+	120	57
+	+	123	69
+	+	126	65
+	+	129	67
+	+	126	24
+	+	129	24
+	+	138	64
+	+	141	83
+	+	144	91
+	+	135	5
+	+	71	0
+	+	69	0
+	+	70	0
+	+	135	65
+	+	144	0
+	+	144	92
+	+	146	5
+	+	144	92
+	+	135	0
+	+	146	0
+	+	151	36
+	+	151	92
+	+	154	0
+	+	145	0
+	+	259	10
+	+	260	0
+	+	261	11
+	+	59	30
+	+	24	23
+	+	196	0
+	+	188	10
+	+	194	0
+	+	189	24
+	+	189	34
+	+	190	0
+	+	191	0
+	+	194	0
+	+	15	27
+	+	197	0
+	+	189	24
+	+	190	0
+	+	189	34
+	+	190	0
+	+	189	11
+	+	190	1
+	+	191	26
+	+	194	0
+	+	189	16
+	+	192	0
+	+	194	0
+	+	193	0
+	+	194	0
+	+	195	0
+	+	192	0
+	+	191	22
+	+	270	10
+	+	269	26
+	+	268	21
+	+	267	0
+	+	266	29
+	+	267	29
+	+	268	30
+	+	266	31
+	+	267	31
+	+	268	31
+	+	267	10
+	+	266	29
+	+	268	30
+	+	265	45
+
+> ~/core/shared/vault/to_do_list.md
+	*	1747875422	0
+	"	18	0
+	.	19	0
+	+	19	0
+
+> ~/core/shared/vault/game_reports/ufo_50_reviews.md
+	*	1747868513	0
+	"	105	0
+
+> ~/core/shared/vault/game_reports/the_electrifying_incident.md
+	*	1747716052	0
+	"	1	0
+	^	2	2
+	.	2	0
+	+	1	333
+	+	2	0
+	+	1	529
+	+	2	0
+
+> ~/.xmonad/xmonad
+	*	1747689959	0
+	"	1	0
+
+> ~/.xmonad/xmonad.errors
+	*	1747672437	0
+	"	1	0
+
+> ~/core/shared/vault/daily_notes/2025-05-19.md
+	*	1747640657	0
+	"	8	0
+	^	9	364
+	.	9	334
+	+	3	146
+	+	3	79
+	+	5	290
+	+	7	120
+	+	7	197
+	+	9	334
+
+> ~/.config/kitty/kitty.conf
+	*	1747630864	0
+	"	996	21
+	^	996	0
+	.	996	21
+	+	997	21
+	+	993	0
+	+	992	0
+	+	997	1
+	+	992	1
+	+	993	1
+	+	996	0
+	+	997	0
+	+	992	0
+	+	993	0
+	+	192	9
+	+	2182	0
+	+	2181	9
+	+	192	10
+	+	8	0
+	+	996	0
+	+	991	0
+	+	992	13
+	+	991	17
+	+	992	17
+	+	991	1
+	+	992	12
+	+	8	0
+	+	996	21
+
+> ~/core/shared/vault/daily_notes/2025-05-18.md
+	*	1747615897	0
+	"	35	0
+	^	35	416
+	.	35	312
+	+	4	0
+	+	3	29
+	+	5	53
+	+	7	30
+	+	9	11
+	+	8	0
+	+	9	23
+	+	9	24
+	+	14	0
+	+	10	37
+	+	11	29
+	+	12	24
+	+	11	59
+	+	12	31
+	+	11	29
+	+	12	113
+	+	13	0
+	+	12	42
+	+	13	112
+	+	13	29
+	+	14	0
+	+	13	14
+	+	11	21
+	+	12	21
+	+	13	22
+	+	15	145
+	+	17	31
+	+	18	2
+	+	19	28
+	+	17	37
+	+	19	37
+	+	16	0
+	+	21	178
+	+	23	0
+	+	22	0
+	+	27	7
+	+	29	0
+	+	28	0
+	+	27	44
+	+	29	9
+	+	31	22
+	+	29	22
+	+	33	165
+	+	35	415
+	+	35	312
+
+> /usr/share/vim/vim90/doc/autocmd.txt
+	*	1747612967	0
+	"	415	0
+
+> ~/core/chess/LucasChessR/dic_files.txt
+	*	1747607711	0
+	"	1	0
+
+> ~/.xmonad/xmonad-x86_64-linux
+	*	1747607675	0
 	"	3	0
 
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/go/bcount.go
-	*	1744415199	0
+> ~/.xmonad/jail.hs
+	*	1747605804	0
+	"	24	17
+
+> ~/xsessionrc_jail
+	*	1747605299	0
+	"	1	0
+	.	2	0
+	+	2	0
+
+> ~/.xsessionrc
+	*	1747605260	0
+	"	1	0
+	^	1	62
+	.	1	0
+	+	1	0
+
+> ~/.xmonad/xmonadjail.hs
+	*	1747604674	0
+	"	129	0
+
+> ~/core/shared/vault/grant_resume.md
+	*	1747521679	0
+	"	25	0
+	^	69	215
+	.	69	214
+	+	5	413
+	+	7	228
+	+	8	0
+	+	9	144
+	+	10	0
+	+	11	273
+	+	13	103
+	+	15	119
+	+	17	67
+	+	19	188
+	+	21	0
+	+	20	0
+	+	21	99
+	+	23	0
+	+	4	0
+	+	23	13
+	+	27	345
+	+	21	145
+	+	28	172
+	+	29	108
+	+	30	44
+	+	31	7
+	+	32	37
+	+	27	1
+	+	28	0
+	+	29	0
+	+	30	0
+	+	31	0
+	+	32	0
+	+	31	0
+	+	30	0
+	+	29	0
+	+	28	0
+	+	25	20
+	+	26	0
+	+	33	64
+	+	35	391
+	+	70	0
+	+	35	555
+	+	37	166
+	+	33	74
+	+	39	83
+	+	46	0
+	+	39	14
+	+	45	0
+	+	39	69
+	+	41	141
+	+	43	90
+	+	44	0
+	+	45	94
+	+	47	2
+	+	23	12
+	+	47	15
+	+	49	602
+	+	70	0
+	+	50	0
+	+	51	21
+	+	52	0
+	+	53	167
+	+	54	0
+	+	55	418
+	+	57	192
+	+	57	72
+	+	57	291
+	+	59	50
+	+	60	0
+	+	59	169
+	+	61	41
+	+	63	145
+	+	65	177
+	+	67	170
+	+	57	23
+	+	70	0
+	+	55	472
+	+	61	239
+	+	65	332
+	+	65	0
+	+	65	593
+	+	69	214
+
+> ~/core/shared/vault/grand_resume.md
+	*	1747517989	0
+	"	4	135
+	^	4	136
+	.	4	135
+	+	1	0
+	+	4	135
+
+> ~/core/shared/vault/fighting_game_research.md
+	*	1747462622	0
+	"	13	64
+	^	13	73
+	.	13	72
+	+	46	461
+	+	48	0
+	+	24	0
+	+	44	4
+	+	24	0
+	+	26	0
+	+	25	0
+	+	43	0
+	+	46	0
+	+	45	0
+	+	28	0
+	+	27	0
+	+	28	18
+	+	30	119
+	+	30	71
+	+	46	0
+	+	48	3
+	+	48	442
+	+	48	129
+	+	48	478
+	+	48	0
+	+	48	43
+	+	48	0
+	+	36	0
+	+	24	0
+	+	32	0
+	+	31	0
+	+	32	18
+	+	23	0
+	+	17	162
+	+	19	0
+	+	18	0
+	+	21	23
+	+	30	28
+	+	34	28
+	+	38	69
+	+	40	65
+	+	46	161
+	+	46	382
+	+	46	294
+	+	17	685
+	+	17	0
+	+	17	750
+	+	36	0
+	+	35	0
+	+	1	13
+	+	3	163
+	+	3	0
+	+	5	396
+	+	7	110
+	+	9	6
+	+	11	296
+	+	14	0
+	+	11	219
+	+	11	471
+	+	11	0
+	+	13	72
+
+> ~/core/shared/vault/fighting_game_research
+	*	1747457512	0
+	"	6	3
+	^	6	4
+	.	6	211
+	+	7	0
+	+	2	159
+	+	3	15
+	+	7	0
+	+	3	0
+	+	4	159
+	+	5	4
+	+	6	211
+
+> ~/core/code/projectW/src/texture.h
+	*	1747286663	0
+	"	13	0
+
+> ~/core/code/networking/server.c
+	*	1747277217	0
+	"	67	26
+
+> ~/core/code/networking/client.c
+	*	1747277216	0
+	"	42	4
+
+> ~/core/code/network_game/Makefile
+	*	1747273794	0
+	"	10	55
+	^	10	56
+	.	10	55
+	+	10	55
+
+> ~/core/code/network_game/client.c
+	*	1747206860	0
+	"	81	29
+
+> ~/core/code/network_game/server.c
+	*	1747206860	0
+	"	76	0
+
+> ~/core/code/network_game/server
+	*	1747206746	0
 	"	1	0
 
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/jason/readme.txt
-	*	1744413865	0
-	"	1	0
-	^	1	2
-	.	1	0
-	+	1	0
-
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/readme.txt
-	*	1744413816	0
+> ~/core/code/networking/client.
+	*	1747206622	0
 	"	1	0
 
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/gen
-	*	1744413807	0
+> ~/core/shared/vault/book_reports/301_koans.md
+	*	1747204114	0
+	"	40	0
+
+> /usr/share/vim/vim90/doc/pi_netrw.txt
+	*	1747116400	0
+	"	1098	7
+
+> ~/core/code/projectR/src/art.h
+	*	1747116101	0
+	"	47	8
+	^	307	48
+	.	307	47
+	+	1	10
+	+	2	0
+	+	316	0
+	+	315	0
+	+	304	0
+	+	304	17
+	+	305	22
+	+	303	0
+	+	305	35
+	+	306	0
+	+	312	61
+	+	7	0
+	+	2	0
+	+	6	0
+	+	7	10
+	+	314	0
+	+	313	0
+	+	314	14
+	+	314	42
+	+	314	0
+	+	314	1
+	+	314	45
+	+	314	24
+	+	295	19
+	+	7	0
+	+	8	0
+	+	8	3
+	+	9	0
+	+	8	0
+	+	293	15
+	+	292	4
+	+	297	0
+	+	296	0
+	+	302	38
+	+	297	19
+	+	301	0
+	+	298	22
+	+	301	0
+	+	299	13
+	+	300	13
+	+	301	0
+	+	3	0
+	+	4	15
+	+	304	18
+	+	304	0
+	+	8	0
+	+	4	16
+	+	5	0
+	+	302	13
+	+	307	55
+	+	310	18
+	+	311	31
+	+	307	85
+	+	314	15
+	+	304	5
+	+	309	0
+	+	308	0
+	+	307	47
+
+> ~/core/code/raylib/include/raylib.h
+	*	1747000971	0
+	"	272	6
+	^	269	8
+	.	269	7
+	+	254	0
+	+	269	7
+	+	1419	0
+	+	269	7
+	a	1412	11
+
+> ~/core/shared/vault/sf6/ryu.md
+	*	1746999707	0
+	"	117	47
+	^	117	48
+	.	117	47
+	+	59	22
+	+	60	69
+	+	65	0
+	+	53	4
+	+	54	9
+	+	55	0
+	+	61	10
+	+	62	36
+	+	60	99
+	+	62	37
+	+	63	14
+	+	64	39
+	+	43	19
+	+	44	11
+	+	45	0
+	+	44	22
+	+	52	0
+	+	45	45
+	+	46	33
+	+	47	12
+	+	48	34
+	+	50	0
+	+	49	0
+	+	50	66
+	+	51	21
+	+	66	12
+	+	88	8
+	+	88	4
+	+	88	5
+	+	88	0
+	+	66	0
+	+	76	9
+	+	77	4
+	+	67	18
+	+	68	19
+	+	71	0
+	+	68	0
+	+	69	15
+	+	70	52
+	+	78	9
+	+	79	9
+	+	72	10
+	+	76	0
+	+	80	13
+	+	81	14
+	+	72	0
+	+	73	24
+	+	74	25
+	+	75	8
+	+	76	0
+	+	83	0
+	+	82	0
+	+	83	13
+	+	84	13
+	+	85	13
+	+	86	13
+	+	87	13
+	+	88	13
+	+	82	0
+	+	88	0
+	+	90	8
+	+	91	8
+	+	89	0
+	+	90	13
+	+	91	13
+	+	92	13
+	+	93	13
+	+	94	14
+	+	96	29
+	+	97	33
+	+	96	58
+	+	105	0
+	+	107	0
+	+	98	23
+	+	99	25
+	+	57	152
+	+	99	0
+	+	58	13
+	+	105	0
+	+	100	0
+	+	101	23
+	+	102	12
+	+	104	45
+	+	60	154
+	+	106	97
+	+	50	115
+	+	51	70
+	+	106	0
+	+	108	107
+	+	108	58
+	+	111	11
+	+	118	0
+	+	113	36
+	+	114	24
+	+	113	31
+	+	114	59
+	+	116	13
+	+	113	26
+	+	116	112
+	+	117	47
+
+> ~/core/code/projectR/convert.sh
+	*	1746963833	0
+	"	1	50
+	^	1	82
+	.	2	0
+	+	2	0
+	+	1	39
+	+	2	39
+	+	3	39
+	+	4	39
+	+	5	0
+	+	11	0
+	+	12	39
+	+	13	39
+	+	16	0
+	+	15	0
+	+	18	30
+	+	20	30
+	+	19	0
+	+	23	0
+	+	25	37
+	+	26	37
+	+	24	0
+	+	27	39
+	+	28	39
+	+	29	39
+	+	30	39
+	+	31	39
+	+	32	39
+	+	33	39
+	+	34	39
+	+	1	81
+	+	2	0
+
+> ~/core/code/projectR/covnert.sh
+	*	1746962894	0
+	"	1	0
+	^	1	8
+	.	2	0
+	+	1	0
+	+	2	0
+
+> ~/core/code/sokobomb/game.c
+	*	1746961844	0
+	"	196	46
+	^	196	47
+	.	196	46
+	+	320	35
+	+	331	38
+	+	153	0
+	+	171	0
+	+	171	12
+	+	171	24
+	+	171	0
+	+	173	34
+	+	171	38
+	+	171	0
+	+	171	15
+	+	171	0
+	+	171	33
+	+	193	0
+	+	192	0
+	+	171	24
+	+	191	0
+	+	192	0
+	+	186	0
+	+	191	3
+	+	171	79
+	+	185	20
+	+	190	0
+	+	512	31
+	+	513	44
+	+	173	50
+	+	171	0
+	+	171	52
+	+	171	0
+	+	171	52
+	+	171	0
+	+	174	0
+	+	173	52
+	+	174	0
+	+	173	0
+	+	171	4
+	+	190	60
+	+	173	0
+	+	174	0
+	+	173	0
+	+	171	0
+	+	183	0
+	+	171	0
+	+	513	36
+	+	190	0
+	+	173	0
+	+	180	0
+	+	176	11
+	+	177	0
+	+	176	71
+	+	183	0
+	+	84	0
+	+	85	18
+	+	87	20
+	+	187	46
+	+	196	46
+	a	190	14
+
+> ~/core/code/sokobomb/build/index.js
+	*	1746961820	0
+	"	1	4836
+
+> ~/core/code/sokobomb/Makefile
+	*	1746961748	0
+	"	9	0
+	^	10	451
+	.	10	450
+	+	10	450
+
+> ~/core/code/sokobomb/main.c
+	*	1746961721	0
+	"	1	0
+	^	98	6
+	.	97	0
+	+	16	0
+	+	100	3
+	+	101	7
+	+	18	0
+	+	101	4
+	+	38	0
+	+	18	12
+	+	138	63
+	+	156	43
+	+	38	4
+	+	45	0
+	+	44	0
+	+	39	0
+	+	59	0
+	+	60	0
+	+	58	0
+	+	59	0
+	+	57	0
+	+	39	0
+	+	79	0
+	+	39	0
+	+	78	5
+	+	38	4
+	+	77	52
+	+	38	4
+	+	76	5
+	+	77	5
+	+	81	0
+	+	47	5
+	+	70	0
+	+	72	0
+	+	28	0
+	+	36	0
+	+	28	28
+	+	73	0
+	+	29	0
+	+	79	0
+	+	80	0
+	+	31	0
+	+	79	0
+	+	33	0
+	+	30	0
+	+	55	0
+	+	56	0
+	+	79	0
+	+	62	0
+	+	65	0
+	+	99	0
+	+	34	5
+	+	35	0
+	+	98	6
+	+	97	0
+	+	96	0
+	+	97	0
+	a	29	4
+
+> ~/core/code/raylib_src/src/utils.c
+	*	1746961411	0
+	"	228	62
+
+> ~/core/code/projectR/src/main.c]
+	*	1746960697	0
 	"	1	0
 
-> ~/core/code/DadChallenges/LongestValidParenSubstring/brace_count/python/bcount
-	*	1744413170	0
-	"	1	7
-
-> ~/core/shared/vault/daily_notes/2025-04-11.md
-	*	1744356777	0
-	"	1	4
-	^	1	5
-	.	1	0
-	+	1	0
-
-> ~/core/shared/vault/daily_notes/2025-04-10.md
-	*	1744356771	0
-	"	1	4
-	^	1	5
-	.	1	0
-	+	1	0
-
-> ~/core/shared/vault/daily_notes/2025-04-09.md
-	*	1744356765	0
-	"	1	4
-	^	1	5
-	.	1	0
-	+	1	0
-
-> ~/core/shared/vault/daily_notes/2025-04-08.md
-	*	1744356762	0
-	"	1	4
-	^	1	5
-	.	1	0
-	+	1	0
-
-> ~/core/shared/vault/daily_notes/2025-04-07.md
-	*	1744356761	0
+> ~/core/code/projectR/build/index.html
+	*	1746960213	0
 	"	1	0
-	^	1	5
-	.	1	0
-	+	1	0
 
-> ~/core/shared/vault/daily_notes/2025-04-06.md
-	*	1744356757	0
-	"	1	4
-	^	1	5
-	.	1	0
-	+	1	0
+> ~/core/code/projectR/build/shell.html
+	*	1746960198	0
+	"	1	0
 
-> ~/core/shared/vault/daily_notes/2025-04-05.md
-	*	1744356754	0
-	"	1	4
-	^	1	5
-	.	1	4
-	+	1	4
+> ~/core/code/projectR/src/.;
+	*	1746959452	0
+	"	1	0
 
-> ~/core/shared/vault/daily_notes/2025-04-04.md
-	*	1744356750	0
-	"	2	0
+> ~/core/code/projectR/1
+	*	1746939138	0
+	"	3	11
+
+> ~/core/code/projectR/src/base
+	*	1746935183	0
+	"	1	0
+
+> ~/core/code/projectR/game.c
+	*	1746905726	0
+	"	181	24
+	^	183	20
+	.	183	36
+	+	163	12
+	+	160	41
+	+	160	0
+	+	163	0
+	+	153	71
+	+	163	27
+	+	160	36
+	+	163	35
+	+	163	31
+	+	163	0
+	+	163	87
+	+	184	12
+	+	163	87
+	+	184	0
+	+	163	0
+	+	163	140
+	+	163	0
+	+	169	0
+	+	184	0
+	+	163	162
+	+	163	30
+	+	169	0
+	+	153	61
+	+	156	12
+	+	154	29
+	+	153	0
+	+	154	0
+	+	164	22
+	+	163	34
+	+	164	47
+	+	166	20
+	+	165	52
+	+	168	20
+	+	167	38
+	+	163	0
+	+	153	59
+	+	155	24
+	+	11	0
+	+	160	39
+	+	163	0
+	+	185	12
+	+	163	0
+	+	157	0
+	+	158	0
+	+	160	0
+	+	163	0
+	+	159	0
+	+	161	43
+	+	162	0
+	+	182	20
+	+	169	31
+	+	171	96
+	+	181	24
+	+	172	23
+	+	171	60
+	+	172	38
+	+	173	55
+	+	176	28
+	+	174	0
+	+	175	50
+	+	179	28
+	+	177	0
+	+	179	0
+	+	174	66
+	+	175	66
+	+	177	66
+	+	180	63
+	+	174	0
+	+	171	0
+	+	170	32
+	+	128	51
+	+	130	51
+	+	11	0
+	+	101	0
+	+	102	0
+	+	101	49
+	+	102	49
+	+	99	23
+	+	100	25
+	+	101	76
+	+	102	78
+	+	109	127
+	+	111	127
+	+	110	0
+	+	109	155
+	+	111	155
+	+	102	60
+	+	109	137
+	+	111	137
+	+	101	60
+	+	109	111
+	+	111	111
+	+	99	24
+	+	101	78
+	+	102	75
+	+	153	0
+	+	157	0
+	+	185	0
+	+	183	36
+	a	101	25
+
+> ~/core/code/projectR/game.h
+	*	1746852239	0
+	"	56	10
+	^	51	36
+	.	51	35
+	+	58	29
+	+	58	24
+	+	58	25
+	+	58	35
+	+	54	31
+	+	55	50
+	+	58	0
+	+	58	14
+	+	58	0
+	+	58	41
+	+	20	0
+	+	19	0
+	+	21	0
+	+	20	49
+	+	21	36
+	+	11	0
+	+	12	0
+	+	9	24
+	+	20	32
+	+	21	49
+	+	20	51
+	+	21	51
+	+	9	0
+	+	21	0
+	+	23	0
+	+	22	0
+	+	23	28
+	+	25	0
+	+	23	36
+	+	25	36
+	+	54	0
+	+	58	0
+	+	48	0
+	+	54	0
+	+	49	0
+	+	47	0
+	+	57	0
+	+	58	0
+	+	57	19
+	+	56	0
+	+	55	0
+	+	54	0
+	+	24	0
+	+	25	0
+	+	13	10
+	+	26	59
+	+	30	66
+	+	53	0
+	+	33	4
+	+	36	0
+	+	34	15
+	+	12	16
+	+	34	22
+	+	35	13
+	+	36	0
+	+	34	12
+	+	35	12
+	+	36	0
+	+	52	0
+	+	51	0
+	+	52	35
+	+	12	16
+	+	34	22
+	+	12	1
+	+	12	22
+	+	12	16
+	+	12	15
+	+	12	14
+	+	12	0
+	+	12	16
+	+	12	0
+	+	12	15
+	+	12	0
+	+	9	0
+	+	11	0
+	+	10	0
+	+	5	13
+	+	32	0
+	+	30	19
+	+	7	19
+	+	46	14
+	+	42	0
+	+	44	0
+	+	43	1
+	+	42	0
+	+	43	0
+	+	44	0
+	+	46	20
+	+	34	11
+	+	35	11
+	+	36	0
+	+	34	11
+	+	51	4
+	+	50	0
+	+	51	35
+
+> ~/core/code/projectR/base.h
+	*	1746852238	0
+	"	7	0
+	^	10	24
+	.	10	23
+	+	1	11
+	+	2	0
+	+	7	0
+	+	3	0
+	+	7	0
+	+	8	0
+	+	7	0
+	+	136	0
+	+	130	45
+	+	98	0
+	+	17	0
+	+	16	0
+	+	58	0
+	+	56	0
+	+	57	0
+	+	98	0
+	+	91	0
+	+	98	0
+	+	55	0
+	+	93	0
+	+	92	0
+	+	111	0
+	+	110	0
+	+	4	15
+	+	7	0
+	+	4	27
+	+	111	20
+	+	130	0
+	+	6	20
+	+	8	20
+	+	101	10
+	+	103	10
+	+	104	10
+	+	102	0
+	+	101	12
+	+	102	15
+	+	103	14
+	+	104	14
+	+	101	10
+	+	102	10
+	+	103	14
+	+	104	15
+	+	103	10
+	+	104	10
+	+	101	10
+	+	102	10
+	+	103	10
+	+	104	10
+	+	135	0
+	+	132	10
+	+	133	15
+	+	137	0
+	+	134	33
+	+	125	27
+	+	125	0
+	+	118	15
+	+	16	0
+	+	15	0
+	+	16	0
+	+	99	36
+	+	10	0
+	+	9	0
+	+	11	0
+	+	10	23
+	+	11	24
+	+	12	24
+	+	14	0
+	+	13	26
+	+	14	27
+	+	13	26
+	+	12	24
+	+	11	24
+	+	10	23
+
+> ~/core/code/projectR/character.c
+	*	1746852207	0
+	"	57	4
+	.	59	0
+	+	2	0
+	+	2	12
+	+	2	0
+	+	3	0
+	+	32	15
+	+	3	0
+	+	5	0
+	+	6	0
+	+	67	0
+	+	1	9
+	+	5	4
+	+	3	0
+	+	7	34
+	+	10	34
+	+	7	43
+	+	10	44
+	+	8	0
+	+	39	0
+	+	33	0
+	+	38	0
+	+	35	4
+	+	34	27
+	+	33	28
+	+	37	4
+	+	36	7
+	+	36	0
+	+	33	57
+	+	36	25
+	+	4	27
+	+	16	0
+	+	28	0
+	+	16	27
+	+	20	4
+	+	17	27
+	+	4	8
+	+	19	8
+	+	18	48
+	+	15	11
+	+	21	46
+	+	21	0
+	+	24	38
+	+	25	20
+	+	24	38
+	+	27	20
+	+	27	0
+	+	22	0
+	+	18	49
+	+	26	25
+	+	23	0
+	+	26	28
+	+	53	8
+	+	54	25
+	+	56	25
+	+	57	20
+	+	55	32
+	+	54	24
+	+	59	41
+	+	56	24
+	+	61	43
+	+	59	28
+	+	59	16
+	+	59	0
+
+> ~/core/code/projectR/. .
+	*	1746852181	0
+	"	1	0
+
+> ~/core/code/projectR/base.c
+	*	1746852179	0
+	"	3	0
 	^	2	0
 	.	2	0
-	+	1	5
+	+	11	0
+	+	10	15
+	+	17	0
+	+	16	0
+	+	17	31
+	+	42	0
+	+	41	4
+	+	19	19
+	+	20	23
+	+	21	13
+	+	22	19
+	+	23	13
+	+	24	19
+	+	24	0
+	+	26	0
+	+	21	13
+	+	23	13
+	+	28	13
+	+	30	13
+	+	31	19
+	+	29	19
+	+	24	19
+	+	22	19
+	+	21	18
+	+	23	18
+	+	26	20
+	+	28	18
+	+	30	18
+	+	29	22
+	+	31	22
+	+	22	22
+	+	24	22
+	+	26	0
+	+	25	0
+	+	31	0
+	+	33	0
+	+	32	0
+	+	33	17
+	+	35	17
+	+	37	17
+	+	27	21
+	+	39	15
+	+	40	20
+	+	3	0
 	+	2	0
-
-> ~/core/shared/vault/daily_notes/2025-04-03.md
-	*	1744356745	0
-	"	1	4
-	^	1	5
-	.	2	0
-	+	2	0
-
-> ~/core/shared/vault/daily_notes/2025-04-02.md
-	*	1744356739	0
-	"	1	0
-
-> ~/core/shared/vault/daily_notes/2025-04-01.md
-	*	1744356738	0
-	"	1	0
-
-> ~/tmp/brace_count/jason/ma
-	*	1744325360	0
-	"	1	0
-
-> ~/tmp/brace_count/jason/makefile
-	*	1744325347	0
-	"	3	38
-	^	3	39
-	.	3	38
-	+	3	40
-	+	4	0
-	+	3	38
-
-> ~/tmp/brace_count/jason/main.c-
-	*	1744325268	0
-	"	45	0
-
-> ~/tmp/brace_count/in5
-	*	1744325194	0
-	"	1	10
-	^	1	20
-	.	1	19
-	+	1	19
-
-> ~/tmp/brace_count/python/bcount
-	*	1744325174	0
-	"	1	17
-	^	1	18
-	.	1	17
-	+	1	17

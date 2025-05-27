@@ -33,7 +33,8 @@ syn match tag    "TODO"
 syn match tag    "NOCHECKIN"
 syn match tag    " @\w*\|^@\w*"
 
-syn match com "\s*//.*"       contains=tag
+syn match com "\s\+//.*"       contains=tag
+syn match com "^//.*"       contains=tag
 syn match com "^\s*# .*"      contains=tag
 syn match com "^\s*--.*"      contains=tag
 syn match com "^\"[^\"]*$"    contains=tag

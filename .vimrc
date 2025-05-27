@@ -10,6 +10,7 @@ set ignorecase
 set ruler
 set expandtab
 set nowrap 
+"set noswapfile 
 
 set scrolloff=0
 set sidescrolloff=0
@@ -22,6 +23,12 @@ set shortmess-=5
 set foldcolumn=1
 set tabstop=4
 set shiftwidth=4
+
+"numbers starting with zero are otherwise treated as base 8
+set nrformats-=octal
+
+"sort sequence
+let g:netrw_sort_sequence = "[\/]$,\~$"
 
 let &fillchars ..= ',stl:_,eob: '
 set fcs=fold:\ ,vert:\|
@@ -41,7 +48,7 @@ au BufRead *.txt set linebreak
 "au BufRead *.txt set spell 
 
 "au syntax * set syntax=custom
-au BufRead,BufNewFile * set filetype=custom
+au Syntax,BufRead,BufNewFile * set filetype=custom
 
 vmap <F1> ymZ:vim /<C-r>"/j *<CR>:cope<CR>
 vmap <F2> ymZ:vim /<C-r>"/j **<CR>:cope<CR>
@@ -49,14 +56,14 @@ nmap <F3> :term<CR><Up><Up><CR>exit<CR>
 nmap <F4> :.w !bash<CR>
 nmap <F5> :!clear && go run <C-r>=expand("%:p")<CR><CR>
 
-
 set termguicolors
-
 "TEXT
-hi normal           ctermfg=0015 ctermbg=none cterm=none guifg=#ffffff guibg=#000000
+"hi normal           ctermfg=0015 ctermbg=none cterm=none guifg=#ffffff guibg=#000000
+hi normal           ctermfg=0015 ctermbg=none cterm=none guifg=#ffffff
 hi title            ctermfg=none ctermbg=none cterm=bold
 hi endofbuffer      ctermfg=0000 ctermbg=none cterm=bold
-hi matchparen       ctermfg=none ctermbg=0238 cterm=none guifg=#ffff5f guibg=#000000
+"hi matchparen       ctermfg=none ctermbg=0238 cterm=none guifg=#ffff5f guibg=#000000
+hi matchparen       ctermfg=none ctermbg=none cterm=none guifg=#ffff5f guibg=NONE
 
 "SEARCH
 hi search           ctermfg=none ctermbg=0238 cterm=none guibg=#444444
@@ -67,9 +74,9 @@ hi incsearch        ctermfg=none ctermbg=0238 cterm=none guifg=#ffff5f guibg=#44
 hi visual           ctermfg=none ctermbg=0238 cterm=none guibg=#333333
 
 "TABS
-hi tabline          ctermfg=none ctermbg=none cterm=none guibg=#000000 guifg=#ffffff
-hi tablinefill      ctermfg=none ctermbg=none cterm=none guibg=#000000 guifg=#ffffff
-hi tablinesel       ctermfg=0227 ctermbg=none cterm=none guibg=#000000 guifg=#ffff5f
+hi tabline          ctermfg=none ctermbg=none cterm=none guibg=NONE guifg=#ffffff
+hi tablinefill      ctermfg=none ctermbg=none cterm=none guibg=NONE guifg=#ffffff
+hi tablinesel       ctermfg=0227 ctermbg=none cterm=none guibg=NONE guifg=#ffff5f
 
 "WINDOWS
 hi vertsplit        ctermfg=none ctermbg=none cterm=none
@@ -79,7 +86,7 @@ hi statusline       ctermfg=0227 ctermbg=none cterm=bold,underline guifg=#ffff5f
 hi statuslineterm   ctermfg=0227 ctermbg=none cterm=bold,underline guifg=#ffff5f
 
 "CURSOR LINE
-hi cursorline       ctermfg=none ctermbg=none cterm=none guibg=#000000
+hi cursorline       ctermfg=none ctermbg=none cterm=none guibg=NONE
 hi cursorlinenr     ctermfg=0227 ctermbg=none cterm=bold guifg=#ffff5f
 hi linenr           ctermfg=0240 ctermbg=none cterm=none guifg=#888888
 
@@ -87,8 +94,8 @@ hi linenr           ctermfg=0240 ctermbg=none cterm=none guifg=#888888
 hi spellbad         ctermfg=0160 ctermbg=none cterm=underline
 
 "FOLDS
-hi folded           ctermfg=0015 ctermbg=none cterm=bold guifg=#ffffff guibg=#000000
-hi foldcolumn       ctermfg=0015 ctermbg=none cterm=bold guifg=#ffffff guibg=#000000
+hi folded           ctermfg=0015 ctermbg=none cterm=bold guifg=#ffffff guibg=NONE
+hi foldcolumn       ctermfg=0015 ctermbg=none cterm=bold guifg=#ffffff guibg=NONE
 
 "COLORS
 ""Deep blues color theme
